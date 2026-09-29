@@ -1,0 +1,418 @@
+/* @settings
+name: Web Colors
+id: web-colors
+settings:
+    - 
+        id: web-theme-accent-preset
+        title: Theme Accent Preset
+        description: Choose the primary accent character for your theme
+        type: class-select
+        allowEmpty: false
+        default: web-accent-default
+        options:
+            - 
+                label: Default Theme Native (Pine Sage in Light / Magma Red in Dark)
+                value: web-accent-default
+            - 
+                label: Nordic Pine Sage (#4D725C)
+                value: web-accent-pinesage
+            - 
+                label: Raw Copper (#C67D5A)
+                value: web-accent-copper
+            - 
+                label: Oat Amber (#D4A359)
+                value: web-accent-amber
+            - 
+                label: Magma Red (#EF4444)
+                value: web-accent-magma
+            - 
+                label: Molten Orange (#F59E0B)
+                value: web-accent-orange
+    - 
+        id: web-accent-hue
+        title: Custom Accent Hue (Manual Override)
+        type: class-select
+        allowEmpty: true
+        default: ""
+        options:
+            - 
+                label: Pine Sage (145)
+                value: web-hue-145
+            - 
+                label: Copper / Amber (60)
+                value: web-hue-60
+            - 
+                label: Magma Red (25)
+                value: web-hue-25
+            - 
+                label: Celestial Cyan (200)
+                value: web-hue-200
+            - 
+                label: Mystic Violet (270)
+                value: web-hue-270
+    - 
+        id: web-accent-chroma
+        title: Accent Vibrancy
+        type: class-select
+        allowEmpty: false
+        default: web-chroma-medium
+        options:
+            - 
+                label: Subtle (Refined & Organic)
+                value: web-chroma-low
+            - 
+                label: Balanced (Present, Harmonious)
+                value: web-chroma-medium
+            - 
+                label: Vivid (High Energy)
+                value: web-chroma-high
+*/
+
+:root {
+  /* Default Hue & Chroma */
+  --web-accent-hue: 145;
+  --web-accent-chroma: 0.12;
+  
+  /* Semantic Hues */
+  --web-success-hue: 145;
+  --web-warning-hue: 65;
+  --web-error-hue: 25;
+  --web-info-hue: 210;
+}
+
+/* Preset Accent Classes */
+.web-accent-pinesage { --theme-accent-override: #4D725C !important; }
+.web-accent-copper   { --theme-accent-override: #C67D5A !important; }
+.web-accent-amber    { --theme-accent-override: #D4A359 !important; }
+.web-accent-magma    { --theme-accent-override: #EF4444 !important; }
+.web-accent-orange   { --theme-accent-override: #F59E0B !important; }
+
+/* Hue Classes from Style Settings */
+.web-hue-25  { --web-accent-hue: 25; }
+.web-hue-60  { --web-accent-hue: 60; }
+.web-hue-140, .web-hue-145 { --web-accent-hue: 145; }
+.web-hue-200 { --web-accent-hue: 200; }
+.web-hue-250 { --web-accent-hue: 250; }
+.web-hue-270 { --web-accent-hue: 270; }
+.web-hue-320 { --web-accent-hue: 320; }
+
+/* Chroma Classes */
+.web-chroma-low    { --web-accent-chroma: 0.08; }
+.web-chroma-medium { --web-accent-chroma: 0.12; }
+.web-chroma-high   { --web-accent-chroma: 0.18; }
+
+/* ====================================================
+   LIGHT MODE: Scandinavian Birch Studio
+   Soft, organic flax linen & bleached birch surfaces
+   ==================================================== */
+.theme-light {
+  /* Soft, tactile flax & birch surfaces: Warm Alabaster Tone-on-Tone */
+  --web-surface-0: #F4F1EA; /* Base desk canvas: clean natural warm linen */
+  --web-surface-1: #ECE7DC; /* Recessed sidebars, ribbon, tab rail: soft weathered birch */
+  --web-surface-2: #FAF8F5; /* Elevated cards, notes, active tab: warm ivory alabaster (NO pure white glare) */
+  --web-surface-3: #F3EFE6; /* Subtle hover highlights */
+  --web-surface-4: #FDFCF9; /* Popovers, floating modals */
+
+  --web-border: #D8D2C4;        /* Refined organic flax hairline rule */
+  --web-border-subtle: #E5DFC5; /* Soft birch divider */
+
+  /* Text Hierarchy: Smoked Peat Ink & Driftwood */
+  --web-text-primary: #2A2723;   /* Smoked Peat Ink */
+  --web-text-secondary: #5C554B; /* Muted Umber */
+  --web-text-muted: #78726A;     /* Driftwood Gray */
+  --web-text-faint: #A8A196;     /* Light Birch Shadow */
+
+  /* Accent: Nordic Pine Sage (Primary) & Raw Copper (Secondary) */
+  --web-accent-native: #4D725C;
+  --web-accent: var(--theme-accent-override, var(--web-accent-native));
+  --web-accent-hover: #3E5E4B;
+  --web-accent-muted: rgba(77, 114, 92, 0.12);
+  --web-accent-glow: rgba(77, 114, 92, 0.20);
+
+  --web-copper: #C67D5A;        /* Raw Copper accent */
+  --web-amber: #D4A359;         /* Oat Amber */
+
+  /* Semantic Tones: Nordic Botanical Spectrum */
+  --web-success: #4D725C;       /* Nordic Pine Sage */
+  --web-warning: #D4A359;       /* Oat Amber */
+  --web-error: #C25B4E;         /* Lingonberry Red */
+  --web-info: #5A7D8C;          /* Nordic Fjord Blue */
+
+  /* Code Blocks & Tables */
+  --web-code-bg: #F1ECE1;
+  --web-code-text: #2A2723;
+  --web-table-stripe: rgba(42, 39, 35, 0.02);
+  --web-table-hover: rgba(77, 114, 92, 0.05);
+
+  /* Elevation & Multi-Depth Shadows (Light Mode: Warm & Diffuse) */
+  --web-card-bevel: inset 0 1px 0 rgba(255, 255, 255, 0.90);
+  --web-card-bevel-subtle: inset 0 1px 0 rgba(255, 255, 255, 0.60);
+  --web-card-bevel-recessed: inset 0 1px 2px rgba(60, 50, 40, 0.06), inset 0 0 0 1px rgba(60, 50, 40, 0.03);
+  --web-shadow-xs: 0 1px 2px rgba(70, 58, 42, 0.04);
+  --web-shadow-sm: 0 2px 6px -1px rgba(70, 58, 42, 0.06), 0 1px 2px rgba(70, 58, 42, 0.03);
+  --web-shadow-md: 0 6px 18px -3px rgba(70, 58, 42, 0.08), 0 2px 6px -1px rgba(70, 58, 42, 0.04);
+  --web-shadow-lg: 0 12px 28px -4px rgba(70, 58, 42, 0.11), 0 4px 10px -2px rgba(70, 58, 42, 0.05);
+
+  /* Zen HUD & Dashboard Card Tokens */
+  --zen-bg-card: #FAF8F5;
+  --zen-bg-subtle: #F1ECE1;
+  --zen-ink: #2A2723;
+  --zen-ink-soft: #5C554B;
+  --zen-muted: #78726A;
+  --zen-border: #D8D2C4;
+  --zen-border-subtle: #E5DFC5;
+  --zen-shadow: var(--web-shadow-sm);
+
+  --zen-vermillion: #C25B4E;
+  --zen-vermillion-glow: rgba(194, 91, 78, 0.10);
+  --zen-ochre: #D4A359;
+  --zen-moss: #4D725C;
+  --zen-moss-glow: rgba(77, 114, 92, 0.12);
+
+  --zen-toggle-bg: #ECE7DC;
+  --zen-toggle-track: #DFD8CB;
+}
+
+/* ====================================================
+   DARK MODE: Volcanic Obsidian & Magma
+   Pure volcanic black & glowing molten magma cracks
+   ==================================================== */
+.theme-dark {
+  /* Volcanic stone & deep subterranean basalt layers */
+  --web-surface-0: #100F0E; /* Deep volcanic abyss canvas */
+  --web-surface-1: #161514; /* Dense basalt foundation: sidebars, ribbons, gutters */
+  --web-surface-2: #1D1C1A; /* Warm smoked basalt slabs: cards, notes, active tabs */
+  --web-surface-3: #242320; /* Hover highlights, search inputs */
+  --web-surface-4: #2C2A27; /* Popovers, floating tooltips */
+
+  --web-border: #2E2A27;                     /* Crisp basalt hairline rule */
+  --web-border-subtle: rgba(239, 68, 68, 0.20); /* Glowing magma fissure */
+
+  /* Text Hierarchy: Ash White & Volcanic Ash */
+  --web-text-primary: #F0EDEA;   /* Crisp Ash White */
+  --web-text-secondary: #C4BEB6; /* Weathered Pumice */
+  --web-text-muted: #78716C;     /* Warm Stone Gray */
+  --web-text-faint: #4D4742;     /* Dark Basalt Shadow */
+
+  /* Accent: Magma Red (Primary) & Molten Orange (Secondary) */
+  --web-accent-native: #EF4444;
+  --web-accent: var(--theme-accent-override, var(--web-accent-native));
+  --web-accent-hover: #DC2626;  /* Molten Core Red */
+  --web-accent-muted: rgba(239, 68, 68, 0.16);
+  --web-accent-glow: rgba(239, 68, 68, 0.24);
+
+  --web-orange: #F59E0B;        /* Molten Orange */
+  --web-amber: #D97706;         /* Smoldering Amber */
+
+  /* Semantic Tones: Volcanic Spectrum */
+  --web-success: #22C55E;       /* Mineral Peridot Green */
+  --web-warning: #F59E0B;       /* Molten Orange */
+  --web-error: #EF4444;         /* Magma Red */
+  --web-info: #38BDF8;          /* Geothermal Steam Blue */
+
+  /* Code Blocks & Tables */
+  --web-code-bg: #141312;
+  --web-code-text: #F0EDEA;
+  --web-table-stripe: rgba(255, 255, 255, 0.02);
+  --web-table-hover: rgba(239, 68, 68, 0.07);
+
+  /* Elevation & Multi-Depth Shadows (Dark Mode) */
+  --web-card-bevel: inset 0 1px 0 rgba(255, 255, 255, 0.09), inset 0 -1px 0 rgba(0, 0, 0, 0.5);
+  --web-card-bevel-subtle: inset 0 1px 0 rgba(255, 255, 255, 0.05);
+  --web-card-bevel-recessed: inset 0 1.5px 3px rgba(0, 0, 0, 0.65), inset 0 0 1px rgba(239, 68, 68, 0.12);
+  --web-shadow-xs: 0 1px 3px rgba(0, 0, 0, 0.7);
+  --web-shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.8), 0 0 1px rgba(255, 255, 255, 0.06);
+  --web-shadow-md: 0 8px 24px -3px rgba(0, 0, 0, 0.85), 0 2px 6px rgba(0, 0, 0, 0.7), 0 0 1px rgba(239, 68, 68, 0.18);
+  --web-shadow-lg: 0 14px 38px -5px rgba(0, 0, 0, 0.92), 0 4px 14px rgba(0, 0, 0, 0.75), 0 0 18px -2px rgba(239, 68, 68, 0.16);
+
+  /* Zen HUD & Dashboard Card Tokens */
+  --zen-bg-card: #1D1C1A;
+  --zen-bg-subtle: #141312;
+  --zen-ink: #F0EDEA;
+  --zen-ink-soft: #C4BEB6;
+  --zen-muted: #78716C;
+  --zen-border: #2E2A27;
+  --zen-border-subtle: rgba(239, 68, 68, 0.20);
+  --zen-shadow: var(--web-shadow-sm);
+
+  --zen-vermillion: #EF4444;
+  --zen-vermillion-glow: rgba(239, 68, 68, 0.20);
+  --zen-ochre: #F59E0B;
+  --zen-moss: #22C55E;
+  --zen-moss-glow: rgba(34, 197, 94, 0.16);
+
+  --zen-toggle-bg: #242320;
+  --zen-toggle-track: #161514;
+}
+
+/* ====================================================
+   NATIVE OBSIDIAN VARIABLE OVERRIDES
+   ==================================================== */
+body {
+  /* Canvas & Containers */
+  --background-primary: var(--web-surface-0);
+  --background-primary-alt: var(--web-surface-1);
+  --background-secondary: var(--web-surface-1);
+  --background-secondary-alt: var(--web-surface-2);
+  --background-modifier-border: var(--web-border);
+  --background-modifier-border-hover: var(--web-accent);
+  --background-modifier-form-field: var(--web-surface-2);
+
+  /* Legacy Obsidian Aliases */
+  --bg1: var(--web-surface-0);
+  --bg2: var(--web-surface-1);
+  --bg3: var(--web-surface-2);
+
+  /* Interactive Elements */
+  --interactive-normal: var(--web-surface-2);
+  --interactive-hover: var(--web-surface-3);
+  --interactive-accent: var(--web-accent);
+  --interactive-accent-hover: var(--web-accent-hover);
+
+  /* Text Elements */
+  --text-normal: var(--web-text-primary);
+  --text-muted: var(--web-text-secondary);
+  --text-faint: var(--web-text-muted);
+  --text-accent: var(--web-accent);
+  --text-accent-hover: var(--web-accent-hover);
+  --text-selection: var(--web-accent-muted);
+
+  /* Core Accent & Colors */
+  --color-accent: var(--web-accent);
+  --color-red: var(--web-error);
+  --color-green: var(--web-success);
+  --color-yellow: var(--web-warning);
+  --color-blue: var(--web-info);
+  --color-purple: var(--web-accent);
+
+  /* Nav & Title */
+  --nav-item-color: var(--web-text-secondary);
+  --nav-item-color-hover: var(--web-text-primary);
+  --nav-item-color-active: var(--web-accent);
+  --title-color: var(--web-text-primary);
+}
+
+/* App Background Base */
+.app-container {
+  background-color: var(--web-surface-0) !important;
+}
+
+/* Workspace Panels & Gutters */
+.workspace,
+.workspace-ribbon,
+.workspace-split {
+  background-color: var(--web-surface-1);
+}
+
+.workspace-leaf-content {
+  background-color: var(--web-surface-0);
+}
+
+/* Title Bar & Headers */
+.workspace-tab-header-container {
+  background-color: var(--web-surface-1);
+  border-bottom: 1px solid var(--web-border);
+}
+
+.workspace-tab-header.is-active {
+  background-color: var(--web-surface-0) !important;
+  color: var(--web-text-primary) !important;
+  box-shadow: 0 -2px 0 0 var(--web-accent) inset;
+}
+
+/* Selection */
+::selection {
+  background-color: var(--web-accent-muted);
+  color: inherit;
+}
+.cm-selectionBackground {
+  background-color: var(--web-accent-muted) !important;
+}
+
+/* Links */
+.markdown-rendered a.internal-link, 
+.markdown-rendered a.external-link {
+  color: var(--web-accent);
+  text-decoration-color: var(--web-accent-muted);
+  transition: all 0.2s ease;
+}
+.markdown-rendered a.internal-link:hover, 
+.markdown-rendered a.external-link:hover {
+  color: var(--web-accent-hover);
+  text-decoration-color: var(--web-accent-hover);
+  text-shadow: 0 0 12px var(--web-accent-glow);
+}
+
+/* Thin Elegant Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--web-surface-3);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--web-accent);
+}
+
+/* Tactile Depth & Ambient Lighting for Callouts */
+.theme-dark .callout {
+  box-shadow: var(--web-card-bevel), 0 8px 28px -4px rgba(0, 0, 0, 0.85), 0 0 14px rgba(239, 68, 68, 0.12);
+}
+
+.theme-light .callout {
+  box-shadow: var(--web-card-bevel), var(--web-shadow-sm);
+}
+
+/* ====================================================
+   ZEN HUD CARD & DASHBOARD INTEGRATION
+   Eliminates black boxes in light mode and harmonizes cards
+   ==================================================== */
+.zen-hud-card,
+.zen-triage-card,
+.hub-hud-card {
+  background: var(--zen-bg-card) !important;
+  color: var(--zen-ink) !important;
+  border-color: var(--zen-border) !important;
+  box-shadow: var(--zen-shadow) !important;
+  border-radius: 12px !important;
+  transition: background-color 0.25s ease, color 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+}
+
+.hub-discipline-box {
+  background: var(--zen-bg-subtle) !important;
+  border-color: var(--zen-border) !important;
+  color: var(--zen-ink) !important;
+}
+
+.hide-inline-title .inline-title {
+  display: none !important;
+}
+
+.zen-triage-card:hover {
+  border-color: var(--web-accent) !important;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.08) !important;
+  transform: translateY(-1px);
+}
+
+.zen-triage-card div[style*="var(--zen-bg-subtle"] {
+  background: var(--zen-bg-subtle) !important;
+  border-color: var(--zen-border) !important;
+  color: var(--zen-ink) !important;
+}
+
+.apple-c {
+  background: var(--zen-toggle-bg) !important;
+  border-color: var(--zen-border) !important;
+}
+
+.apple-c .track-c {
+  background: var(--zen-toggle-track) !important;
+  border-color: var(--zen-border-subtle) !important;
+}
+
+

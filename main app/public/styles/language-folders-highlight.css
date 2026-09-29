@@ -1,0 +1,243 @@
+/* ==========================================================================
+   VAULT SIDEBAR SECTIONS & HIGHLIGHT SUITE
+   - Section 1: LANGUAGE (Amber-Gold suite)
+   - Section 2: KNOWLEDGE (Royal Lapis / Indigo suite for Philosophy)
+   ========================================================================== */
+
+:root {
+  /* --- Language Palette --- */
+  --lang-gold: #D4A359;
+  --lang-gold-glow: rgba(212, 163, 89, 0.4);
+  --lang-gold-text: #8C6226;
+  --lang-shade-bg: rgba(212, 163, 89, 0.10);
+  --lang-shade-hover: rgba(212, 163, 89, 0.18);
+  --lang-shade-active: rgba(212, 163, 89, 0.26);
+  --lang-border: rgba(212, 163, 89, 0.35);
+  --lang-accent-bar: #D4A359;
+
+  /* --- Knowledge / Philosophy Palette --- */
+  --philo-blue: #3E6B99;
+  --philo-blue-glow: rgba(62, 107, 153, 0.45);
+  --philo-blue-text: #2C4F7C;
+  --philo-shade-bg: rgba(62, 107, 153, 0.10);
+  --philo-shade-hover: rgba(62, 107, 153, 0.18);
+  --philo-shade-active: rgba(62, 107, 153, 0.28);
+  --philo-border: rgba(62, 107, 153, 0.35);
+  --philo-accent-bar: #3E6B99;
+
+  /* --- Content Studio Palette --- */
+  --content-red: #E53935;
+  --content-red-glow: rgba(229, 57, 53, 0.4);
+  --content-red-text: #C62828;
+  --content-shade-bg: rgba(229, 57, 53, 0.09);
+  --content-shade-hover: rgba(229, 57, 53, 0.16);
+  --content-shade-active: rgba(229, 57, 53, 0.25);
+  --content-border: rgba(229, 57, 53, 0.35);
+  --content-accent-bar: #E53935;
+}
+
+.theme-dark {
+  /* --- Language Palette Dark --- */
+  --lang-gold: #E5B56A;
+  --lang-gold-glow: rgba(229, 181, 106, 0.35);
+  --lang-gold-text: #E5B56A;
+  --lang-shade-bg: rgba(212, 163, 89, 0.13);
+  --lang-shade-hover: rgba(212, 163, 89, 0.22);
+  --lang-shade-active: rgba(212, 163, 89, 0.32);
+  --lang-border: rgba(229, 181, 106, 0.30);
+  --lang-accent-bar: #E5B56A;
+
+  /* --- Knowledge / Philosophy Palette Dark --- */
+  --philo-blue: #64A0D8;
+  --philo-blue-glow: rgba(100, 160, 216, 0.35);
+  --philo-blue-text: #89BFEF;
+  --philo-shade-bg: rgba(62, 107, 153, 0.14);
+  --philo-shade-hover: rgba(62, 107, 153, 0.24);
+  --philo-shade-active: rgba(62, 107, 153, 0.34);
+  --philo-border: rgba(100, 160, 216, 0.30);
+  --philo-accent-bar: #64A0D8;
+
+  /* --- Content Studio Palette Dark --- */
+  --content-red: #FF453A;
+  --content-red-glow: rgba(255, 69, 58, 0.35);
+  --content-red-text: #FF6961;
+  --content-shade-bg: rgba(255, 69, 58, 0.12);
+  --content-shade-hover: rgba(255, 69, 58, 0.20);
+  --content-shade-active: rgba(255, 69, 58, 0.30);
+  --content-border: rgba(255, 69, 58, 0.30);
+  --content-accent-bar: #FF453A;
+}
+
+/* ==========================================================================
+   UNIVERSAL NESTED FOLDER SUITE
+   Applies to ANY folder created anywhere in the vault
+   ========================================================================== */
+
+/* Universal nested guide rail for all child folders */
+.nav-files-container .nav-folder-children {
+  position: relative;
+  border-left: 1.5px solid var(--divider-color, rgba(125, 125, 125, 0.18)) !important;
+  margin-left: 12px !important;
+  padding-left: 4px !important;
+}
+
+/* Universal nested subfolder title styling */
+.nav-files-container .nav-folder-children > .nav-folder > .nav-folder-title {
+  border-radius: 4px;
+  margin: 1px 4px;
+  padding-left: 6px !important;
+  transition: background 0.15s ease, transform 0.15s ease;
+}
+
+.nav-files-container .nav-folder-children > .nav-folder > .nav-folder-title:hover {
+  background: var(--background-modifier-hover, rgba(255, 255, 255, 0.06)) !important;
+  transform: translateX(2px);
+}
+
+.nav-files-container .nav-folder-children > .nav-folder > .nav-folder-title.is-active {
+  background: var(--background-modifier-hover, rgba(255, 255, 255, 0.12)) !important;
+}
+
+/* ==========================================================================
+   SECTION 1: 🏛️ LANGUAGE
+   ========================================================================== */
+
+
+/* Language Folders Shading */
+.nav-folder-title[data-path="Advanced english"],
+.nav-folder-title[data-path="Basic English"],
+.nav-folder-title[data-path="English vocabulary master"],
+.nav-folder-title[data-path="Greek roots"],
+.nav-folder-title[data-path="Latin roots"] {
+  background: var(--lang-shade-bg) !important;
+  border-left: 3.5px solid var(--lang-accent-bar) !important;
+  border-radius: 0 6px 6px 0;
+  margin: 2px 6px 2px 6px;
+  transition: background 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05);
+}
+
+.nav-folder-title[data-path="Advanced english"] { border-left-color: #4D725C !important; }
+.nav-folder-title[data-path="Basic English"] { border-left-color: #D4A359 !important; }
+.nav-folder-title[data-path="English vocabulary master"] { border-left-color: #B58514 !important; }
+.nav-folder-title[data-path="Greek roots"] { border-left-color: #3B82F6 !important; }
+.nav-folder-title[data-path="Latin roots"] { border-left-color: #C67D5A !important; }
+
+/* Language Hover & Active */
+.nav-folder-title[data-path="Advanced english"]:hover,
+.nav-folder-title[data-path="Basic English"]:hover,
+.nav-folder-title[data-path="English vocabulary master"]:hover,
+.nav-folder-title[data-path="Greek roots"]:hover,
+.nav-folder-title[data-path="Latin roots"]:hover {
+  background: var(--lang-shade-hover) !important;
+  transform: translateX(2px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08), inset 0 0 0 1px var(--lang-border);
+}
+
+.nav-folder-title.is-active[data-path="Advanced english"],
+.nav-folder-title.is-active[data-path="Basic English"],
+.nav-folder-title.is-active[data-path="English vocabulary master"],
+.nav-folder-title.is-active[data-path="Greek roots"],
+.nav-folder-title.is-active[data-path="Latin roots"] {
+  background: var(--lang-shade-active) !important;
+  box-shadow: 0 0 10px var(--lang-gold-glow);
+}
+
+/* Language Glyphs */
+.nav-folder-title[data-path="Advanced english"] .nav-folder-title-content::before { content: "🖋️ "; margin-right: 2px; }
+.nav-folder-title[data-path="Basic English"] .nav-folder-title-content::before { content: "🧱 "; margin-right: 2px; }
+.nav-folder-title[data-path="English vocabulary master"] .nav-folder-title-content::before { content: "👑 "; margin-right: 2px; }
+.nav-folder-title[data-path="Greek roots"] .nav-folder-title-content::before { content: "🏛️ "; margin-right: 2px; }
+.nav-folder-title[data-path="Latin roots"] .nav-folder-title-content::before { content: "📜 "; margin-right: 2px; }
+
+/* ==========================================================================
+   SECTION 2: 🧠 KNOWLEDGE
+   ========================================================================== */
+
+
+/* Philosophy Parent Folder Shading */
+.nav-folder-title[data-path="Philosophy"] {
+  background: var(--philo-shade-bg) !important;
+  border-left: 3.5px solid var(--philo-accent-bar) !important;
+  border-radius: 0 6px 6px 0;
+  margin: 2px 6px 2px 6px;
+  padding-left: 8px !important;
+  transition: background 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05);
+  font-weight: 700;
+}
+
+.nav-folder-title[data-path="Philosophy"]:hover {
+  background: var(--philo-shade-hover) !important;
+  transform: translateX(2px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08), inset 0 0 0 1px var(--philo-border);
+}
+
+.nav-folder-title.is-active[data-path="Philosophy"] {
+  background: var(--philo-shade-active) !important;
+  box-shadow: 0 0 10px var(--philo-blue-glow);
+}
+
+.nav-folder-title[data-path="Philosophy"] .nav-folder-title-content::before {
+  content: "🦉 ";
+  margin-right: 2px;
+}
+
+/* Philosophy Nested Module Folders */
+.nav-folder-title[data-path^="Philosophy/"] {
+  background: rgba(62, 107, 153, 0.06) !important;
+  border-left: 2.5px solid var(--philo-blue) !important;
+  border-radius: 0 4px 4px 0;
+  margin: 1px 4px 1px 4px;
+  padding-left: 6px !important;
+  transition: all 0.2s ease;
+}
+
+.nav-folder-title[data-path^="Philosophy/"]:hover {
+  background: rgba(62, 107, 153, 0.14) !important;
+  transform: translateX(2px);
+}
+
+.nav-folder-title[data-path="Philosophy/1. Epistemology"] .nav-folder-title-content::before { content: "📐 "; margin-right: 2px; }
+.nav-folder-title[data-path="Philosophy/2. Logic"] .nav-folder-title-content::before { content: "⚡ "; margin-right: 2px; }
+.nav-folder-title[data-path="Philosophy/3. Metaphysics"] .nav-folder-title-content::before { content: "🌌 "; margin-right: 2px; }
+.nav-folder-title[data-path="Philosophy/4. Philosophy of Mind"] .nav-folder-title-content::before { content: "🧠 "; margin-right: 2px; }
+.nav-folder-title[data-path="Philosophy/5. Ethics"] .nav-folder-title-content::before { content: "⚖️ "; margin-right: 2px; }
+.nav-folder-title[data-path="Philosophy/6. Political Philosophy"] .nav-folder-title-content::before { content: "🏛️ "; margin-right: 2px; }
+.nav-folder-title[data-path="Philosophy/7. History of Philosophy"] .nav-folder-title-content::before { content: "📜 "; margin-right: 2px; }
+
+/* Ensure folder titles in sidebar never have underlines */
+.nav-folder-title,
+.nav-folder-title-content,
+.has-folder-note,
+.has-folder-note .nav-folder-title-content,
+.folder-note-underline .has-folder-note .nav-folder-title-content {
+  text-decoration: none !important;
+  text-decoration-line: none !important;
+}
+
+/* Apps Parent & Nested Folders */
+.nav-folder-title[data-path="Apps"] {
+  background: var(--content-shade-bg) !important;
+  border-left: 3.5px solid #7C3AED !important;
+  border-radius: 0 6px 6px 0;
+  margin: 2px 6px 2px 6px;
+  padding-left: 8px !important;
+  transition: background 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+  font-weight: 700;
+}
+
+.nav-folder-title[data-path="Apps"] .nav-folder-title-content::before {
+  content: "🧩 ";
+  margin-right: 2px;
+}
+
+.nav-folder-title[data-path^="Apps/"] {
+  background: rgba(124, 58, 237, 0.06) !important;
+  border-left: 2.5px solid #7C3AED !important;
+  border-radius: 0 4px 4px 0;
+  margin: 1px 4px 1px 4px;
+  padding-left: 6px !important;
+  transition: all 0.2s ease;
+}
+

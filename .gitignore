@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Production build artifacts
+dist/
+**/dist/
+
+# Android build outputs & local environment
+.gradle/
+**/.gradle/
+build/
+**/build/
+local.properties
+**/local.properties
+*.apk
+*.aab
+*.dex
+*.class
+.idea/
+**/.idea/
+captures/
+**/captures/
+
+# Logs & temp files
+*.log
+.DS_Store
+Thumbs.db
+.env
+.env.local

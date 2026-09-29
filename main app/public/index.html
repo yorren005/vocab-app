@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+  <meta name="theme-color" content="#100F0E" />
+  <title>Obsidian Vocab</title>
+
+  <!-- Native Mobile App Icons & Status Bar -->
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+  <!-- Google Fonts: Manrope, Plus Jakarta Sans, JetBrains Mono, Fira Sans -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;600;700&family=Manrope:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+
+  <!-- Obsidian Theme System (Scandinavian Birch Light & Volcanic Obsidian Dark) -->
+  <link rel="stylesheet" href="styles/web-colors.css" />
+  <link rel="stylesheet" href="styles/web-typography.css" />
+  <link rel="stylesheet" href="styles/web-components.css" />
+  <link rel="stylesheet" href="styles/web-reading-view.css" />
+  <link rel="stylesheet" href="styles/language-folders-highlight.css" />
+  <link rel="stylesheet" href="styles/apple-toggle.css" />
+
+  <!-- Dedicated Native Mobile App Stylesheet -->
+  <link rel="stylesheet" href="styles/mobile-app.css" />
+</head>
+<body class="theme-dark">
+  <div id="mobile-app-root">
+
+    <!-- ====================================================================
+         STICKY TOP NAVIGATION BAR
+         ==================================================================== -->
+    <header class="mobile-top-bar" id="mobile-top-bar">
+      <div class="top-bar-left">
+        <button id="top-back-btn" class="top-bar-btn" title="Go Back" style="display: none;">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="15 18 9 12 15 6"></polyline>
+          </svg>
+        </button>
+        <div id="top-breadcrumbs" class="top-bar-breadcrumbs">
+          <span class="crumb-active">🏛️ Language Hub</span>
+        </div>
+      </div>
+      <div class="top-bar-right">
+        <div id="top-status-badge" class="status-indicator-pill unread" style="display: none;">
+          <span id="top-status-dot">🔴</span>
+          <span id="top-status-text">Unread</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- ====================================================================
+         VIEW CONTAINER (4 MOBILE SCREENS)
+         ==================================================================== -->
+    <main class="mobile-view-container">
+
+      <!-- ================================================================
+           TAB 1: HOME SCREEN (Hub & Sub-page Navigation Stack)
+           ================================================================ -->
+      <section id="view-home" class="mobile-view-screen is-active-tab">
+        <div id="home-page-container" class="home-page-container">
+          <!-- Stack of pages rendered here with push/pop animations -->
+        </div>
+      </section>
+
+      <!-- ================================================================
+           TAB 2: WORD CARDS (Exhaustive Collection & Study Deck)
+           ================================================================ -->
+      <section id="view-cards" class="mobile-view-screen">
+        <div class="cards-view-header">
+          <div class="cards-search-box">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="11" cy="11" r="8"></circle>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+            </svg>
+            <input id="cards-search-input" type="text" placeholder="Search 51,000+ words & roots..." autocomplete="off" spellcheck="false" />
+            <button id="cards-search-clear" class="top-bar-btn" style="display: none; width: 22px; height: 22px; font-size: 13px;">✕</button>
+          </div>
+
+          <!-- Category filter chips (Pure Vocabulary Disciplines only) -->
+          <div class="filter-chips-scroll" id="cards-category-chips">
+            <button class="filter-chip active" data-cat="all">All Disciplines</button>
+            <button class="filter-chip" data-cat="greek">🏛️ Greek Roots</button>
+            <button class="filter-chip" data-cat="latin">📜 Latin Roots</button>
+            <button class="filter-chip" data-cat="vocab">👑 Vocab Master</button>
+          </div>
+
+          <!-- Status filter & Mode Switcher -->
+          <div class="cards-mode-switch">
+            <div class="filter-chips-scroll" id="cards-status-chips" style="padding: 0;">
+              <button class="filter-chip active" data-status="all">All</button>
+              <button class="filter-chip" data-status="unread">🔴 Unread</button>
+              <button class="filter-chip" data-status="learning">🟡 Studying</button>
+              <button class="filter-chip" data-status="learned">🟢 Learned</button>
+            </div>
+            <div class="mode-toggle-group">
+              <button id="btn-mode-feed" class="mode-toggle-btn active">Feed</button>
+              <button id="btn-mode-list" class="mode-toggle-btn">List</button>
+            </div>
+          </div>
+
+          <!-- Scope Link Banner (Linked to active Root Dashboard or Vocab Master Cluster in Tab 1) -->
+          <div id="cards-scope-banner" class="cards-scope-banner" style="display: none;">
+            <div class="scope-banner-content">
+              <span class="scope-icon">🔗</span>
+              <span id="scope-banner-text" class="scope-text">Scoped to Latin Root</span>
+            </div>
+            <button id="btn-clear-scope" class="scope-clear-btn" title="Show all vocabulary words">✕ Show All</button>
+          </div>
+        </div>
+
+        <!-- Mode A: TikTok-Style Swipable Vertical Feed (Snap/Swipe Up for Next Word) -->
+        <div id="cards-feed-view" class="tiktok-feed-container">
+          <div id="tiktok-feed-wrapper" class="tiktok-feed-wrapper">
+            <!-- Dynamic vertical slide rendered here -->
+          </div>
+          <!-- Floating On-Screen Tactile Controls (Up/Down navigation & counter) -->
+          <div class="tiktok-feed-controls">
+            <button id="btn-feed-prev" class="feed-ctrl-btn" title="Previous Word (Swipe Down)">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="18 15 12 9 6 15"></polyline></svg>
+            </button>
+            <div id="feed-position-pill" class="feed-position-pill">1 / 49k</div>
+            <button id="btn-feed-next" class="feed-ctrl-btn" title="Next Word (Swipe Up)">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"></polyline></svg>
+            </button>
+          </div>
+        </div>
+
+        <!-- Mode B: Scrollable Card List -->
+        <div id="cards-list-view" class="cards-list-container" style="display: none;">
+          <!-- Rendered by JS -->
+        </div>
+      </section>
+
+      <!-- ================================================================
+           TAB 3: DAILY WORD (Totally Random Cards & Fast Drill)
+           ================================================================ -->
+      <section id="view-daily" class="mobile-view-screen">
+        <div class="daily-container">
+          <div class="daily-header-card">
+            <div class="daily-header-label">
+              <span>🎲</span>
+              <span>Daily Random Discovery</span>
+            </div>
+            <div id="daily-reviewed-badge" class="daily-streak-badge">0 words reviewed today</div>
+          </div>
+
+          <div id="daily-card-wrapper" class="daily-flip-card-wrapper">
+            <div id="daily-card-content" class="daily-card">
+              <!-- Rendered by JS -->
+            </div>
+          </div>
+
+          <div class="daily-actions-row">
+            <button id="btn-daily-shuffle" class="shuffle-cta-btn">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="16 3 21 3 21 8"></polyline>
+                <line x1="4" y1="20" x2="21" y2="3"></line>
+                <polyline points="21 16 21 21 16 21"></polyline>
+                <line x1="15" y1="15" x2="21" y2="21"></line>
+                <line x1="4" y1="4" x2="9" y2="9"></line>
+              </svg>
+              <span>🎲 Draw Next Random Word</span>
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <!-- ================================================================
+           TAB 4: SETTINGS (Themes, Typography, Tracking HUD, Sync)
+           ================================================================ -->
+      <section id="view-settings" class="mobile-view-screen">
+        <div class="settings-content-pane">
+
+          <!-- Tracking System HUD Card -->
+          <div class="settings-card">
+            <div class="settings-card-title">
+              <span>📊</span>
+              <span>Vault Mastery & Tracking System</span>
+            </div>
+            <div class="mastery-stats-overview">
+              <div class="mastery-segmented-bar">
+                <div id="hud-seg-learned" class="seg-fill learned" style="width: 0%;"></div>
+                <div id="hud-seg-learning" class="seg-fill learning" style="width: 0%;"></div>
+                <div id="hud-seg-unread" class="seg-fill unread" style="width: 100%;"></div>
+              </div>
+              <div class="mastery-numbers-row">
+                <div class="mastery-box">
+                  <div id="hud-count-learned" class="mastery-box-num learned">0</div>
+                  <div class="mastery-box-label">Learned (🟢)</div>
+                </div>
+                <div class="mastery-box">
+                  <div id="hud-count-learning" class="mastery-box-num learning">0</div>
+                  <div class="mastery-box-label">Studying (🟡)</div>
+                </div>
+                <div class="mastery-box">
+                  <div id="hud-count-unread" class="mastery-box-num unread">0</div>
+                  <div class="mastery-box-label">Unread (🔴)</div>
+                </div>
+              </div>
+              <div style="font-size: 11.5px; color: var(--web-text-muted); text-align: center; margin-top: 4px;">
+                Tracking 51,598 vocabulary & classical root notes across your vault
+              </div>
+            </div>
+          </div>
+
+          <!-- Appearance & Theme Selector -->
+          <div class="settings-card">
+            <div class="settings-card-title">
+              <span>🎨</span>
+              <span>Theme & Appearance</span>
+            </div>
+            <div class="theme-options-grid">
+              <div class="theme-pick-card" data-theme="light">
+                <div style="font-size: 26px;">☀️</div>
+                <div class="theme-pick-name">Scandinavian Birch</div>
+                <div class="theme-pick-sub">Warm Alabaster & Flax</div>
+              </div>
+              <div class="theme-pick-card active" data-theme="dark">
+                <div style="font-size: 26px;">🌙</div>
+                <div class="theme-pick-name">Volcanic Obsidian</div>
+                <div class="theme-pick-sub">Pure Basalt & Magma</div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Typography Options -->
+          <div class="settings-card">
+            <div class="settings-card-title">
+              <span>🔤</span>
+              <span>Typography & Reading</span>
+            </div>
+
+            <div class="typo-setting-row">
+              <div class="typo-label-row">
+                <span>Font Family</span>
+              </div>
+              <div class="typo-font-selector">
+                <button class="typo-font-btn active" data-font="sans">Inter Sans</button>
+                <button class="typo-font-btn" data-font="serif">Georgia Serif</button>
+                <button class="typo-font-btn" data-font="mono">JetBrains</button>
+              </div>
+            </div>
+
+            <div class="typo-setting-row">
+              <div class="typo-label-row">
+                <span>Font Size</span>
+                <span id="label-font-size">16px</span>
+              </div>
+              <input id="slider-font-size" type="range" class="range-slider" min="14" max="22" value="16" step="1" />
+            </div>
+
+            <div class="typo-setting-row">
+              <div class="typo-label-row">
+                <span>Line Spacing</span>
+                <span id="label-line-height">1.6</span>
+              </div>
+              <input id="slider-line-height" type="range" class="range-slider" min="1.3" max="2.0" value="1.6" step="0.05" />
+            </div>
+          </div>
+
+          <!-- Data & Native Storage -->
+          <div class="settings-card">
+            <div class="settings-card-title">
+              <span>💾</span>
+              <span>Data & Cloud Sync</span>
+            </div>
+            <div style="display: flex; flex-direction: column; gap: 10px;">
+              <button id="btn-sync-now" class="settings-action-btn">
+                <span>🔄 Sync with Vault / Cloud Git</span>
+              </button>
+              <button id="btn-export-progress" class="settings-action-btn">
+                <span>📥 Export Study Progress (JSON)</span>
+              </button>
+              <button id="btn-import-progress" class="settings-action-btn">
+                <span>📤 Import Study Progress (JSON)</span>
+              </button>
+              <input id="file-import-progress" type="file" accept=".json" style="display: none;" />
+              <button id="btn-reset-progress" class="settings-action-btn" style="color: var(--web-error);">
+                <span>⚠️ Reset Local Study Progress</span>
+              </button>
+            </div>
+          </div>
+
+          <!-- About Section -->
+          <div style="text-align: center; color: var(--web-text-muted); font-size: 11px; padding: 10px 0;">
+            Obsidian Vocab · Mobile Native Edition v2.0<br/>
+            Capacitor &amp; Android APK Ready · Offline First
+          </div>
+
+        </div>
+      </section>
+
+    </main>
+
+    <!-- ====================================================================
+         BOTTOM NAVIGATION BAR (EXACTLY 4 SECTIONS)
+         ==================================================================== -->
+    <nav class="mobile-bottom-bar" id="mobile-bottom-bar">
+      <button class="mobile-tab-btn is-active" data-tab="home" title="Home Hub">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M3 9.5L12 3l9 6.5V20a1 1 0 0 1-1 1h-5v-6h-6v6H4a1 1 0 0 1-1-1V9.5z"/>
+        </svg>
+        <span>Home</span>
+      </button>
+
+      <button class="mobile-tab-btn" data-tab="cards" title="Word Cards">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="2" y="7" width="20" height="14" rx="2" ry="2"/>
+          <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/>
+        </svg>
+        <span>Word Cards</span>
+      </button>
+
+      <button class="mobile-tab-btn" data-tab="daily" title="Daily Random Word">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="3" y="3" width="18" height="18" rx="3" ry="3"/>
+          <circle cx="8.5" cy="8.5" r="1.5"/>
+          <circle cx="15.5" cy="8.5" r="1.5"/>
+          <circle cx="15.5" cy="15.5" r="1.5"/>
+          <circle cx="8.5" cy="15.5" r="1.5"/>
+          <circle cx="12" cy="12" r="1.5"/>
+        </svg>
+        <span>Daily Word</span>
+      </button>
+
+      <button class="mobile-tab-btn" data-tab="settings" title="Settings">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="3"/>
+          <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+        </svg>
+        <span>Settings</span>
+      </button>
+    </nav>
+
+    <!-- Mobile Toast Notification -->
+    <div id="mobile-toast" class="mobile-toast">Notification</div>
+
+  </div>
+
+  <!-- Native Mobile Core Application Logic -->
+  <script type="module" src="js/mobile-app.js"></script>
+</body>
+</html>

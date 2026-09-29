@@ -1,0 +1,1003 @@
+/* @settings
+name: Web Components Settings
+id: web-components
+settings:
+    - 
+        id: callout-radius
+        title: Callout Radius
+        type: class-select
+        allowEmpty: false
+        default: web-callout-radius-md
+        options:
+            - 
+                label: Small
+                value: web-callout-radius-sm
+            - 
+                label: Medium
+                value: web-callout-radius-md
+            - 
+                label: Large
+                value: web-callout-radius-lg
+*/
+
+:root {
+    --web-callout-radius: clamp(10px, 1.5vw, 16px);
+    --web-table-radius: clamp(6px, 1vw, 12px);
+    --web-tag-radius: 9999px;
+    --web-image-radius: clamp(8px, 1.5vw, 16px);
+    --web-code-radius: clamp(6px, 1vw, 10px);
+    --web-checkbox-color: var(--interactive-accent);
+}
+
+.theme-light {
+    --web-callout-radius: 14px;
+    --web-table-radius: 12px;
+    --web-tag-radius: 9999px;
+    --web-image-radius: 14px;
+    --web-code-radius: 8px;
+
+    --web-table-hover-bg: rgba(77, 114, 92, 0.06);
+    --web-table-stripe-bg: rgba(42, 39, 35, 0.025);
+    --web-table-border: #DCD6C8;
+    --web-embed-bg: rgba(77, 114, 92, 0.03);
+    --web-embed-border: #DCD6C8;
+    --web-frontmatter-bg: #FAF9F5;
+    --web-tag-bg: rgba(77, 114, 92, 0.10);
+    --web-tag-color: #2A2723;
+}
+
+.theme-dark {
+    --web-callout-radius: 4px;
+    --web-table-radius: 4px;
+    --web-tag-radius: 4px;
+    --web-image-radius: 4px;
+    --web-code-radius: 4px;
+
+    --web-table-hover-bg: rgba(239, 68, 68, 0.08);
+    --web-table-stripe-bg: rgba(255, 255, 255, 0.02);
+    --web-table-border: #38332E;
+    --web-embed-bg: rgba(239, 68, 68, 0.04);
+    --web-embed-border: rgba(239, 68, 68, 0.20);
+    --web-frontmatter-bg: #1A1918;
+    --web-tag-bg: rgba(239, 68, 68, 0.14);
+    --web-tag-color: #F0EDEA;
+}
+
+/* Callout redesign: Dimensional Tactile Slab */
+.callout {
+    border-radius: var(--web-callout-radius);
+    border: 1px solid rgba(var(--callout-color), 0.20);
+    border-left: 4.5px solid rgb(var(--callout-color));
+    background: linear-gradient(180deg, rgba(var(--callout-color), 0.07) 0%, rgba(var(--callout-color), 0.02) 100%), var(--web-surface-2);
+    padding: clamp(14px, 2vw, 20px);
+    margin: 1.5em 0;
+    position: relative;
+    box-sizing: border-box;
+    transition: transform 0.2s cubic-bezier(0.2, 0.8, 0.2, 1), box-shadow 0.2s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.theme-light .callout {
+    box-shadow: var(--web-card-bevel), var(--web-shadow-xs);
+}
+.theme-light .callout:hover {
+    transform: translateY(-1px);
+    box-shadow: var(--web-card-bevel), var(--web-shadow-sm);
+}
+
+.theme-dark .callout {
+    box-shadow: var(--web-card-bevel), 0 4px 16px -2px rgba(0, 0, 0, 0.8), 0 0 10px rgba(var(--callout-color), 0.10);
+}
+.theme-dark .callout:hover {
+    transform: translateY(-1px);
+    box-shadow: var(--web-card-bevel), 0 8px 24px -3px rgba(0, 0, 0, 0.88), 0 0 16px rgba(var(--callout-color), 0.18);
+}
+
+.callout-title {
+    font-size: 1.05em;
+    font-weight: 700;
+}
+.callout-icon {
+    color: rgb(var(--callout-color));
+}
+
+/* Tables: Dimensional Elevated Slab */
+.markdown-rendered table {
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: var(--web-table-radius);
+    overflow: hidden;
+    border: 1px solid var(--web-table-border);
+    box-shadow: var(--web-card-bevel), var(--web-shadow-sm);
+    width: 100%;
+    margin: 1.5em 0;
+    background: var(--web-surface-2);
+}
+.markdown-rendered th {
+    background-color: var(--web-surface-1);
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    font-weight: 700;
+    border-bottom: 2px solid var(--web-border);
+    color: var(--web-text-primary);
+}
+.markdown-rendered tr:nth-child(even) {
+    background-color: var(--web-table-stripe-bg);
+}
+.markdown-rendered tr:hover td {
+    background-color: var(--web-table-hover-bg);
+}
+.markdown-rendered td, .markdown-rendered th {
+    border: none;
+    border-bottom: 1px solid var(--web-table-border);
+    padding: clamp(9px, 1.5vw, 14px) clamp(14px, 2vw, 20px);
+}
+.markdown-rendered tr:last-child td {
+    border-bottom: none;
+}
+
+/* Tags */
+.tag {
+    border-radius: var(--web-tag-radius);
+    background-color: var(--web-tag-bg);
+    color: var(--web-tag-color);
+    padding: 0.2em 0.8em;
+    border: none;
+    font-weight: 500;
+    font-size: 0.85em;
+    text-decoration: none;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+}
+.tag:hover {
+    background-color: rgba(var(--color-accent-rgb), 0.15);
+    color: var(--text-accent);
+    transform: translateY(-1px);
+}
+
+/* Image galleries */
+.markdown-rendered p:has(img) {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+.markdown-rendered img {
+    border-radius: var(--web-image-radius);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.markdown-rendered img:hover {
+    box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+}
+
+/* Code blocks: Recessed Tactile Well */
+.markdown-rendered pre {
+    border-radius: var(--web-code-radius);
+    background-color: var(--web-code-bg);
+    border: 1px solid var(--web-border);
+    padding: 1.1em 1.35em;
+    position: relative;
+    box-shadow: var(--web-card-bevel-recessed);
+}
+.markdown-rendered pre > code {
+    background: transparent !important;
+    padding: 0 !important;
+    font-size: 0.9em;
+    font-family: var(--font-monospace, ui-monospace, SFMono-Regular, Consolas, monospace);
+    line-height: 1.5;
+}
+.markdown-rendered .copy-code-button {
+    border-radius: 6px;
+    background-color: var(--background-modifier-hover);
+}
+
+/* Checkboxes / Task lists */
+input[type="checkbox"] {
+    appearance: none;
+    width: 1.2em;
+    height: 1.2em;
+    border-radius: 4px;
+    border: 2px solid var(--text-muted);
+    transition: all 0.2s ease;
+    cursor: pointer;
+    position: relative;
+    vertical-align: middle;
+}
+input[type="checkbox"]:checked {
+    background-color: var(--web-checkbox-color);
+    border-color: var(--web-checkbox-color);
+}
+input[type="checkbox"]:checked::after {
+    content: '';
+    position: absolute;
+    left: 28%;
+    top: 10%;
+    width: 30%;
+    height: 60%;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+}
+.task-list-item.is-checked {
+    text-decoration: line-through;
+    color: var(--text-muted);
+}
+
+/* Properties & Frontmatter Card: Hidden from document body (accessible in sidebar) */
+.markdown-source-view .metadata-container,
+.markdown-reading-view .metadata-container,
+.markdown-reading-view .frontmatter-container {
+    display: none !important;
+}
+
+/* Allow explicit display via note cssclass: show-properties */
+.show-properties .metadata-container,
+.show-properties .frontmatter-container {
+    display: block !important;
+    background-color: var(--web-frontmatter-bg);
+    border-radius: var(--web-table-radius);
+    padding: clamp(16px, 3vw, 24px);
+    border: 1px solid var(--web-table-border);
+    margin-bottom: 2em;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.02);
+}
+
+/* Embeds */
+.internal-embed {
+    border: 1px solid var(--web-embed-border);
+    border-radius: var(--web-table-radius);
+    background-color: var(--web-embed-bg);
+    padding: clamp(12px, 2vw, 20px);
+    margin: 1.5em 0;
+}
+
+/* Progress bars callout */
+.callout[data-callout="progress"] {
+    padding: 12px 16px;
+    background: var(--web-surface-2);
+    border: 1px solid var(--web-border);
+    border-radius: var(--web-callout-radius);
+}
+.callout[data-callout="progress"] .callout-content {
+    display: none;
+}
+.callout[data-callout="progress"] .callout-title {
+    font-size: 0.9em;
+    color: var(--text-muted);
+}
+
+/* ----------------------------------------------------
+   NOTION-STYLE MULTI-COLUMN LAYOUTS
+   Usage: > [!multi-column]
+          >> [!note] Column 1
+          >> [!tip] Column 2
+---------------------------------------------------- */
+.callout[data-callout="multi-column"],
+.callout[data-callout="columns"] {
+    background-color: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+    margin: 1.5em 0;
+}
+.callout[data-callout="multi-column"] > .callout-title,
+.callout[data-callout="columns"] > .callout-title {
+    display: none;
+}
+.callout[data-callout="multi-column"] > .callout-content,
+.callout[data-callout="columns"] > .callout-content {
+    display: flex;
+    flex-direction: row;
+    gap: 1.25rem;
+    width: 100%;
+}
+.callout[data-callout="multi-column"] > .callout-content > *,
+.callout[data-callout="columns"] > .callout-content > * {
+    flex: 1;
+    min-width: 0;
+    margin: 0 !important;
+}
+@media (max-width: 700px) {
+    .callout[data-callout="multi-column"] > .callout-content,
+    .callout[data-callout="columns"] > .callout-content {
+        flex-direction: column;
+    }
+}
+
+/* ----------------------------------------------------
+   NOTION-STYLE COLLAPSIBLE TOGGLES
+---------------------------------------------------- */
+details {
+    border-radius: 8px;
+    padding: 8px 12px;
+    margin: 8px 0;
+    border-left: 2px solid var(--web-accent);
+    background-color: var(--web-embed-bg);
+    transition: background-color 0.2s ease;
+}
+details summary {
+    cursor: pointer;
+    font-weight: 600;
+    color: var(--text-normal);
+    outline: none;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+details summary::-webkit-details-marker {
+    display: none;
+}
+details summary::before {
+    content: "▶";
+    font-size: 0.65em;
+    color: var(--web-accent);
+    transition: transform 0.2s ease;
+    display: inline-block;
+}
+details[open] summary::before {
+    transform: rotate(90deg);
+}
+details[open] {
+    background-color: var(--web-table-hover-bg);
+}
+
+/* ====================================================
+   ROOT CORE MEANING BOX COMPONENT SUITE (4 VARIATIONS)
+   Crafted for Scandinavian Birch (Light) & Volcanic Obsidian (Dark)
+   ==================================================== */
+
+/* --- VARIATION 1: The Etymological Keystone Banner --- */
+.core-meaning-keystone,
+.callout[data-callout="core-keystone"] {
+    background: var(--web-surface-2);
+    border: 1px solid var(--web-border);
+    border-left: 4.5px solid var(--web-accent);
+    border-radius: var(--web-callout-radius);
+    padding: 18px 22px;
+    margin: 18px 0 22px 0;
+    box-shadow: var(--web-card-bevel), var(--web-shadow-sm);
+    position: relative;
+    box-sizing: border-box;
+    transition: transform 0.2s cubic-bezier(0.2, 0.8, 0.2, 1), box-shadow 0.2s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.theme-light .core-meaning-keystone,
+.theme-light .callout[data-callout="core-keystone"] {
+    background: #FAF8F5;
+    border-color: var(--web-border);
+    box-shadow: var(--web-card-bevel), var(--web-shadow-sm);
+}
+.theme-light .core-meaning-keystone:hover,
+.theme-light .callout[data-callout="core-keystone"]:hover {
+    transform: translateY(-1px);
+    box-shadow: var(--web-card-bevel), var(--web-shadow-md);
+}
+
+.theme-dark .core-meaning-keystone,
+.theme-dark .callout[data-callout="core-keystone"] {
+    background: #1D1C1A;
+    border-color: var(--web-border);
+    box-shadow: var(--web-card-bevel), var(--web-shadow-sm);
+}
+.theme-dark .core-meaning-keystone:hover,
+.theme-dark .callout[data-callout="core-keystone"]:hover {
+    transform: translateY(-1px);
+    box-shadow: var(--web-card-bevel), var(--web-shadow-md);
+}
+
+.core-meaning-keystone .cm-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 12px;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+}
+
+.core-meaning-keystone .cm-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    background: var(--web-accent-muted);
+    color: var(--web-accent);
+    padding: 3px 10px;
+    border-radius: var(--web-tag-radius);
+    font-weight: 700;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+}
+
+.core-meaning-keystone .cm-script {
+    font-family: Georgia, serif;
+    font-style: italic;
+    color: var(--web-text-muted);
+    font-size: 13.5px;
+    text-transform: none;
+    letter-spacing: 0;
+}
+
+.core-meaning-keystone .cm-body {
+    background: var(--web-surface-1);
+    border: 1px solid var(--web-border-subtle);
+    border-radius: calc(var(--web-callout-radius) - 2px);
+    padding: 13px 18px;
+    display: flex;
+    align-items: baseline;
+    gap: 14px;
+    flex-wrap: wrap;
+    box-shadow: var(--web-card-bevel-recessed);
+}
+
+.theme-light .core-meaning-keystone .cm-body {
+    background: #F1ECE1;
+    border-color: #E2DBD0;
+    box-shadow: var(--web-card-bevel-recessed);
+}
+
+.theme-dark .core-meaning-keystone .cm-body {
+    background: #121110;
+    border-color: #24211E;
+    box-shadow: var(--web-card-bevel-recessed);
+}
+
+.core-meaning-keystone .cm-label {
+    font-size: 11px;
+    font-weight: 800;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    color: var(--web-accent);
+    white-space: nowrap;
+}
+
+.core-meaning-keystone .cm-definition {
+    font-family: var(--font-header, Georgia, serif);
+    font-size: 1.35em;
+    font-weight: 700;
+    color: var(--web-text-primary);
+    line-height: 1.25;
+}
+
+.core-meaning-keystone .cm-footer {
+    margin-top: 10px;
+    font-size: 12.5px;
+    color: var(--web-text-secondary);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+/* --- VARIATION 2: The Morphological Formula HUD --- */
+.core-meaning-formula,
+.callout[data-callout="core-formula"] {
+    background: var(--web-surface-2);
+    border: 1px solid var(--web-border);
+    border-radius: var(--web-callout-radius);
+    padding: 0;
+    margin: 16px 0 20px 0;
+    display: grid;
+    grid-template-columns: minmax(130px, 1.2fr) minmax(220px, 2.3fr) minmax(150px, 1.8fr);
+    box-shadow: var(--web-card-bevel), var(--web-shadow-md);
+    overflow: hidden;
+    box-sizing: border-box;
+    transition: transform 0.2s cubic-bezier(0.2, 0.8, 0.2, 1), box-shadow 0.2s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.core-meaning-formula:hover,
+.callout[data-callout="core-formula"]:hover {
+    transform: translateY(-1.5px);
+    box-shadow: var(--web-card-bevel), var(--web-shadow-lg);
+}
+
+@media (max-width: 720px) {
+    .core-meaning-formula,
+    .callout[data-callout="core-formula"] {
+        grid-template-columns: 1fr;
+    }
+}
+
+.core-meaning-formula .cm-col-stem {
+    padding: 16px 18px;
+    background: var(--web-surface-1);
+    border-right: 1px solid var(--web-border);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.core-meaning-formula .cm-col-core {
+    padding: 16px 20px;
+    background: var(--web-surface-2);
+    border-right: 1px solid var(--web-border);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+}
+
+.core-meaning-formula .cm-col-connect {
+    padding: 16px 18px;
+    background: var(--web-surface-1);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.core-meaning-formula .cm-sub-label {
+    font-size: 9.5px;
+    font-weight: 800;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: var(--web-text-muted);
+    margin-bottom: 4px;
+}
+
+.core-meaning-formula .cm-stem-title {
+    font-family: var(--font-header, Georgia, serif);
+    font-size: 1.35em;
+    font-weight: 800;
+    color: var(--web-accent);
+    line-height: 1.15;
+}
+
+.core-meaning-formula .cm-core-highlight {
+    font-family: var(--font-header, Georgia, serif);
+    font-size: 1.3em;
+    font-weight: 800;
+    color: var(--web-text-primary);
+    line-height: 1.2;
+}
+
+.core-meaning-formula .cm-badge-accent {
+    display: inline-block;
+    font-size: 9px;
+    font-weight: 800;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    color: var(--web-accent);
+    background: var(--web-accent-muted);
+    padding: 2px 6px;
+    border-radius: 4px;
+    width: fit-content;
+    margin-bottom: 6px;
+}
+
+/* --- VARIATION 3: The Lexical Sanctuary Plaque --- */
+.core-meaning-sanctuary,
+.callout[data-callout="core-sanctuary"] {
+    background: var(--web-surface-2);
+    border: 1px solid var(--web-border);
+    border-radius: var(--web-callout-radius);
+    padding: 20px 24px;
+    margin: 18px 0 22px 0;
+    position: relative;
+    box-shadow: var(--web-card-bevel), var(--web-shadow-md);
+    box-sizing: border-box;
+    transition: transform 0.2s cubic-bezier(0.2, 0.8, 0.2, 1), box-shadow 0.2s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.core-meaning-sanctuary:hover,
+.callout[data-callout="core-sanctuary"]:hover {
+    transform: translateY(-1.5px);
+    box-shadow: var(--web-card-bevel), var(--web-shadow-lg);
+}
+
+.core-meaning-sanctuary::before {
+    content: "✦";
+    position: absolute;
+    top: 14px;
+    right: 18px;
+    font-size: 14px;
+    color: var(--web-accent);
+    opacity: 0.7;
+}
+
+.core-meaning-sanctuary .cm-plaque-label {
+    font-size: 10px;
+    font-weight: 800;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--web-accent);
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.core-meaning-sanctuary .cm-plaque-body {
+    font-family: Georgia, serif;
+    font-size: 1.4em;
+    font-weight: 600;
+    font-style: italic;
+    color: var(--web-text-primary);
+    line-height: 1.3;
+    margin: 6px 0 12px 0;
+    padding-left: 14px;
+    border-left: 3px solid var(--web-accent);
+}
+
+.core-meaning-sanctuary .cm-lineage {
+    font-size: 12px;
+    color: var(--web-text-muted);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    font-family: var(--font-monospace, monospace);
+}
+
+.core-meaning-sanctuary .cm-lineage-node {
+    background: var(--web-surface-1);
+    border: 1px solid var(--web-border-subtle);
+    padding: 2px 8px;
+    border-radius: 4px;
+    color: var(--web-text-secondary);
+}
+
+/* --- VARIATION 4: The High-Speed Recall Capsule --- */
+.core-meaning-capsule,
+.callout[data-callout="core-capsule"] {
+    display: inline-flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    background: var(--web-surface-2);
+    border: 1px solid var(--web-border);
+    border-radius: var(--web-tag-radius);
+    padding: 4px 14px 4px 4px;
+    margin: 14px 0 18px 0;
+    box-shadow: var(--web-card-bevel), var(--web-shadow-sm);
+    max-width: 100%;
+    box-sizing: border-box;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.core-meaning-capsule:hover,
+.callout[data-callout="core-capsule"]:hover {
+    transform: translateY(-1px);
+    box-shadow: var(--web-card-bevel), var(--web-shadow-md);
+}
+
+.core-meaning-capsule .cm-pill-root {
+    background: var(--web-accent);
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: 800;
+    padding: 4px 12px;
+    border-radius: var(--web-tag-radius);
+    letter-spacing: 0.4px;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    line-height: 1.3;
+}
+
+.core-meaning-capsule .cm-pill-meaning {
+    font-family: var(--font-header, Georgia, serif);
+    font-size: 1.15em;
+    font-weight: 700;
+    color: var(--web-text-primary);
+    padding: 0 4px;
+    line-height: 1.2;
+}
+
+.core-meaning-capsule .cm-pill-meta {
+    font-size: 12px;
+    color: var(--web-text-muted);
+    border-left: 1px solid var(--web-border);
+    padding-left: 10px;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+}
+
+/* ====================================================
+   CUSTOM HIGHLIGHTER SUITE
+   5 Distinct Styles & 6 Semantic Color Spectrum
+   Supports: ==highlight==, <mark class="hl-...">, <span class="hl-...">
+   ==================================================== */
+
+:root {
+  /* Color Tokens - Light Mode (Scandinavian Birch) */
+  --hl-amber-bg: rgba(212, 163, 89, 0.28);
+  --hl-amber-border: rgba(212, 163, 89, 0.55);
+  --hl-amber-text: #2A2723;
+  --hl-amber-glow: rgba(212, 163, 89, 0.35);
+
+  --hl-sage-bg: rgba(77, 114, 92, 0.22);
+  --hl-sage-border: rgba(77, 114, 92, 0.45);
+  --hl-sage-text: #1E382B;
+  --hl-sage-glow: rgba(77, 114, 92, 0.30);
+
+  --hl-magma-bg: rgba(198, 125, 90, 0.25);
+  --hl-magma-border: rgba(198, 125, 90, 0.50);
+  --hl-magma-text: #3D2218;
+  --hl-magma-glow: rgba(198, 125, 90, 0.35);
+
+  --hl-cyan-bg: rgba(56, 189, 248, 0.22);
+  --hl-cyan-border: rgba(56, 189, 248, 0.45);
+  --hl-cyan-text: #0C4A6E;
+  --hl-cyan-glow: rgba(56, 189, 248, 0.30);
+
+  --hl-violet-bg: rgba(168, 85, 247, 0.20);
+  --hl-violet-border: rgba(168, 85, 247, 0.45);
+  --hl-violet-text: #4C1D95;
+  --hl-violet-glow: rgba(168, 85, 247, 0.30);
+
+  --hl-rose-bg: rgba(244, 63, 94, 0.20);
+  --hl-rose-border: rgba(244, 63, 94, 0.45);
+  --hl-rose-text: #881337;
+  --hl-rose-glow: rgba(244, 63, 94, 0.30);
+
+  /* Default Highlight Variables (Amber in Light) */
+  --hl-active-bg: var(--hl-amber-bg);
+  --hl-active-border: var(--hl-amber-border);
+  --hl-active-text: var(--hl-amber-text);
+  --hl-active-glow: var(--hl-amber-glow);
+}
+
+.theme-dark {
+  /* Color Tokens - Dark Mode (Volcanic Obsidian) */
+  --hl-amber-bg: rgba(245, 158, 11, 0.26);
+  --hl-amber-border: rgba(245, 158, 11, 0.55);
+  --hl-amber-text: #FEF3C7;
+  --hl-amber-glow: rgba(245, 158, 11, 0.40);
+
+  --hl-sage-bg: rgba(34, 197, 94, 0.22);
+  --hl-sage-border: rgba(34, 197, 94, 0.50);
+  --hl-sage-text: #DCFCE7;
+  --hl-sage-glow: rgba(34, 197, 94, 0.35);
+
+  --hl-magma-bg: rgba(239, 68, 68, 0.28);
+  --hl-magma-border: rgba(239, 68, 68, 0.60);
+  --hl-magma-text: #FEE2E2;
+  --hl-magma-glow: rgba(239, 68, 68, 0.45);
+
+  --hl-cyan-bg: rgba(56, 189, 248, 0.24);
+  --hl-cyan-border: rgba(56, 189, 248, 0.55);
+  --hl-cyan-text: #E0F2FE;
+  --hl-cyan-glow: rgba(56, 189, 248, 0.35);
+
+  --hl-violet-bg: rgba(168, 85, 247, 0.24);
+  --hl-violet-border: rgba(168, 85, 247, 0.55);
+  --hl-violet-text: #F3E8FF;
+  --hl-violet-glow: rgba(168, 85, 247, 0.35);
+
+  --hl-rose-bg: rgba(244, 63, 94, 0.26);
+  --hl-rose-border: rgba(244, 63, 94, 0.55);
+  --hl-rose-text: #FFE4E6;
+  --hl-rose-glow: rgba(244, 63, 94, 0.40);
+
+  /* Default Highlight Variables (Magma Red in Dark) */
+  --hl-active-bg: var(--hl-magma-bg);
+  --hl-active-border: var(--hl-magma-border);
+  --hl-active-text: var(--hl-magma-text);
+  --hl-active-glow: var(--hl-magma-glow);
+}
+
+/* Base Native Markdown ==highlight== and <mark> */
+mark,
+.cm-highlight {
+  background-color: var(--hl-active-bg) !important;
+  color: inherit !important;
+  border-radius: 4px;
+  padding: 1px 5px;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+  transition: all 0.2s ease;
+}
+
+/* --- STYLE 1: The Luminous Marker (Classic Flat Wash) --- */
+.hl-wash,
+mark.hl-wash {
+  background-color: var(--hl-active-bg) !important;
+  color: inherit !important;
+  border-radius: 4px;
+  padding: 2px 6px;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+/* --- STYLE 2: The Bottom Glaze (Underline Half-Stroke Marker) --- */
+.hl-glaze,
+mark.hl-glaze {
+  background: linear-gradient(180deg, transparent 52%, var(--hl-active-bg) 52%) !important;
+  color: inherit !important;
+  padding: 0 4px;
+  border-radius: 2px;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+/* --- STYLE 3: The Mineral Glow (Ambient Neon / Magma Outline) --- */
+.hl-glow,
+mark.hl-glow {
+  background-color: rgba(150, 150, 150, 0.08) !important;
+  border: 1px solid var(--hl-active-border) !important;
+  box-shadow: 0 0 10px var(--hl-active-glow);
+  color: inherit !important;
+  border-radius: 4px;
+  padding: 1px 6px;
+  font-weight: 600;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+/* --- STYLE 4: The Lexical Capsule (Micro-Pill Badge) --- */
+.hl-capsule,
+mark.hl-capsule {
+  background-color: var(--hl-active-bg) !important;
+  border: 1px solid var(--hl-active-border) !important;
+  color: inherit !important;
+  border-radius: 9999px !important;
+  padding: 2px 10px !important;
+  font-weight: 700;
+  display: inline-block;
+  line-height: 1.25;
+}
+
+/* --- STYLE 5: The Sunset Gradient Flow (Duo-Tone Flow) --- */
+.hl-gradient,
+mark.hl-gradient {
+  background: linear-gradient(120deg, var(--hl-active-bg), var(--hl-magma-bg)) !important;
+  color: inherit !important;
+  border-radius: 4px;
+  padding: 2px 7px;
+  font-weight: 600;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+/* --- COLOR MODIFIERS --- */
+.hl-amber, mark.hl-amber { --hl-active-bg: var(--hl-amber-bg); --hl-active-border: var(--hl-amber-border); --hl-active-text: var(--hl-amber-text); --hl-active-glow: var(--hl-amber-glow); }
+.hl-sage, mark.hl-sage   { --hl-active-bg: var(--hl-sage-bg); --hl-active-border: var(--hl-sage-border); --hl-active-text: var(--hl-sage-text); --hl-active-glow: var(--hl-sage-glow); }
+.hl-magma, mark.hl-magma { --hl-active-bg: var(--hl-magma-bg); --hl-active-border: var(--hl-magma-border); --hl-active-text: var(--hl-magma-text); --hl-active-glow: var(--hl-magma-glow); }
+.hl-cyan, mark.hl-cyan   { --hl-active-bg: var(--hl-cyan-bg); --hl-active-border: var(--hl-cyan-border); --hl-active-text: var(--hl-cyan-text); --hl-active-glow: var(--hl-cyan-glow); }
+.hl-violet, mark.hl-violet { --hl-active-bg: var(--hl-violet-bg); --hl-active-border: var(--hl-violet-border); --hl-active-text: var(--hl-violet-text); --hl-active-glow: var(--hl-violet-glow); }
+.hl-rose, mark.hl-rose   { --hl-active-bg: var(--hl-rose-bg); --hl-active-border: var(--hl-rose-border); --hl-active-text: var(--hl-rose-text); --hl-active-glow: var(--hl-rose-glow); }
+
+/* --- SEMANTIC SHORTCUT ALIASES (ROLE-BASED COMBINATIONS) --- */
+/* 1. Stems & Lemmas: Capsule + Pine Sage */
+.hl-stem, mark.hl-stem {
+  background-color: var(--hl-sage-bg) !important;
+  border: 1px solid var(--hl-sage-border) !important;
+  color: inherit !important;
+  border-radius: 9999px !important;
+  padding: 2px 10px !important;
+  font-weight: 700;
+  display: inline-block;
+  line-height: 1.25;
+}
+
+/* 2. Core Definitions: Flat Luminous Wash + Amber */
+.hl-def, mark.hl-def {
+  background-color: var(--hl-amber-bg) !important;
+  color: inherit !important;
+  border-radius: 4px;
+  padding: 2px 6px;
+  font-weight: 600;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+/* 3. Derived Words & Cognates: Bottom Under-Glaze + Cyan */
+.hl-word, mark.hl-word {
+  background: linear-gradient(180deg, transparent 52%, var(--hl-cyan-bg) 52%) !important;
+  color: inherit !important;
+  padding: 0 4px;
+  border-radius: 2px;
+  font-weight: 600;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+/* 4. Critical Warnings & Distinctions: Mineral Glow + Magma */
+.hl-warn, mark.hl-warn {
+  background-color: rgba(239, 68, 68, 0.08) !important;
+  border: 1px solid var(--hl-magma-border) !important;
+  box-shadow: 0 0 10px var(--hl-magma-glow);
+  color: inherit !important;
+  border-radius: 4px;
+  padding: 1px 6px;
+  font-weight: 700;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+/* 5. Memory Anchors & Mnemonics: Duo Gradient + Warm Sunset */
+.hl-mnemonic, mark.hl-mnemonic {
+  background: linear-gradient(120deg, var(--hl-amber-bg), var(--hl-magma-bg)) !important;
+  color: inherit !important;
+  border-radius: 4px;
+  padding: 2px 7px;
+  font-weight: 600;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+/* 6. Classical Citations & Quotes: Under-Glaze + Violet */
+.hl-quote, mark.hl-quote {
+  background: linear-gradient(180deg, transparent 52%, var(--hl-violet-bg) 52%) !important;
+  color: inherit !important;
+  padding: 0 4px;
+  border-radius: 2px;
+  font-style: italic;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+/* 7. Quick Badges / Micro-Tokens: Capsule + Rose */
+.hl-badge, mark.hl-badge {
+  background-color: var(--hl-rose-bg) !important;
+  border: 1px solid var(--hl-rose-border) !important;
+  color: inherit !important;
+  border-radius: 9999px !important;
+  padding: 2px 8px !important;
+  font-weight: 700;
+  display: inline-block;
+  line-height: 1.25;
+}
+
+/* =========================================================================
+   ZEN ACCENT PREVIOUS / NEXT LESSON NAVIGATION BUTTONS (.ae-nav-bar)
+   ========================================================================= */
+.ae-nav-bar {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  gap: 12px !important;
+  margin: 24px 0 12px !important;
+  padding-top: 12px !important;
+  border-top: 1px solid var(--web-border-subtle, var(--background-modifier-border, rgba(128, 128, 128, 0.18))) !important;
+}
+
+.ae-nav-btn {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 10px !important;
+  padding: 8px 14px !important;
+  border-radius: 6px !important;
+  border: 1px solid var(--web-border, var(--background-modifier-border)) !important;
+  background: var(--web-surface-2, var(--background-secondary)) !important;
+  font-family: Georgia, serif !important;
+  font-size: 13.5px !important;
+  font-weight: 600 !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06) !important;
+  cursor: pointer !important;
+  user-select: none !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease, background-color 0.2s ease !important;
+}
+
+.ae-nav-btn.ae-nav-prev {
+  border-left: 3px solid var(--zen-ochre, #b58514) !important;
+}
+
+.ae-nav-btn.ae-nav-next {
+  margin-left: auto !important;
+  border-right: 3px solid var(--zen-moss, #2b6d3b) !important;
+}
+
+.ae-nav-btn:hover {
+  transform: translateY(-1px) !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.10) !important;
+}
+
+.ae-nav-btn:active {
+  transform: translateY(0) scale(0.98) !important;
+}
+
+.ae-nav-btn a.internal-link,
+.ae-nav-btn .cm-hmd-internal-link,
+.ae-nav-btn .cm-underline {
+  display: inline-flex !important;
+  align-items: center !important;
+  margin: -8px -14px !important;
+  padding: 8px 14px !important;
+  color: var(--web-text-primary, var(--text-normal)) !important;
+  text-decoration: none !important;
+  border-bottom: none !important;
+  font-family: Georgia, serif !important;
+  font-size: 13.5px !important;
+  font-weight: 600 !important;
+}
+
+

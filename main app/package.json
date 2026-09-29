@@ -1,0 +1,24 @@
+{
+  "name": "obsidian-language-vault-webapp",
+  "version": "1.0.0",
+  "description": "Full-featured Obsidian Web App (Desktop & Mobile) for the Unified Language & Philology Vault with Custom Scandinavian Birch (Light) & Volcanic Obsidian (Dark) UI",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs",
+    "index": "node server.mjs --index-only",
+    "reindex": "node scripts/reindex.mjs",
+    "verify-db": "node scripts/verify-database-tree.mjs",
+    "sync-db": "node scripts/sync-app-database.mjs",
+    "build": "node build-static.mjs",
+    "cap:sync": "npm run index && npx cap sync android",
+    "cap:open": "npx cap open android",
+    "cap:build": "npm run cap:sync && cd ../android && gradlew.bat assembleDebug"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.5.2",
+    "@capacitor/app": "^8.1.1",
+    "@capacitor/cli": "^8.5.2",
+    "@capacitor/core": "^8.5.2"
+  }
+}

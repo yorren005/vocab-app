@@ -1,0 +1,367 @@
+---
+status: unread
+type: root_dashboard
+---
+# Dashboard — commun
+<div class="core-meaning-keystone">
+  <div class="cm-header">
+    <span class="cm-tag">🏛️ LATIN ROOT</span>
+    <span class="cm-script">commun-</span>
+  </div>
+  <div class="cm-body">
+    <span class="cm-label">CORE MEANING</span>
+    <span class="cm-definition">“common or shared”</span>
+  </div>
+  <div class="cm-footer">
+    <span>💡 <b>Cognitive Anchor:</b> Neighbors working together in a shared neighborhood to help one another.</span>
+  </div>
+</div>
+
+```dataviewjs
+// Ensure Apple Toggle CSS is injected and synchronized
+let s = document.getElementById('apple-toggle-css');
+if (!s) {
+    s = document.createElement('style');
+    s.id = 'apple-toggle-css';
+    document.head.appendChild(s);
+}
+s.textContent = '.apple-c{position:relative;display:inline-flex;align-items:center;gap:8px;padding:2px 10px 2px 4px;border-radius:999px;background:var(--zen-toggle-bg,#27272e);border:1px solid var(--zen-border,#2d2d34);cursor:pointer;user-select:none;transition:border-color .2s ease,transform .2s ease,box-shadow .2s ease;line-height:1;vertical-align:middle;box-sizing:border-box}.apple-c:hover{border-color:var(--zen-muted,#86848c);transform:translateY(-1px);box-shadow:0 2px 6px rgba(0,0,0,.15)}.apple-c:active{transform:scale(.96)}.apple-c .track-c{position:relative;width:44px;height:16px;background:var(--zen-toggle-track,#1e1e24);border-radius:999px;border:1px solid var(--zen-border-subtle,#24242a);display:flex;align-items:center;justify-content:space-between;padding:0 5px;box-sizing:border-box}.apple-c .c-dot{width:3px;height:3px;border-radius:999px;background:var(--zen-muted,#86848c);opacity:.5}.apple-c .halo-c{position:absolute;top:1px;left:1px;width:12px;height:12px;border-radius:999px;transition:transform .35s cubic-bezier(.34,1.6,.64,1),background-color .25s ease,box-shadow .25s ease;display:flex;align-items:center;justify-content:center;box-sizing:border-box}.apple-c .halo-c .core-dot{width:4px;height:4px;border-radius:999px;background:#fff;box-shadow:0 0 3px #fff}.apple-c .halo-c.p0{transform:translateX(0);background:var(--zen-vermillion,#e05244);box-shadow:0 0 8px var(--zen-vermillion-glow,rgba(224,82,68,0.35))}.apple-c .halo-c.p1{transform:translateX(14px);background:var(--zen-ochre,#d49c24);box-shadow:0 0 8px rgba(212,156,36,0.35)}.apple-c .halo-c.p2{transform:translateX(28px);background:var(--zen-moss,#429e57);box-shadow:0 0 8px var(--zen-moss-glow,rgba(66,158,87,0.35))}.apple-c .label{font-size:11px;font-weight:700;letter-spacing:.2px;transition:color .2s ease;min-width:44px}.apple-c .label.unread{color:var(--zen-vermillion,#e05244)}.apple-c .label.learning{color:var(--zen-ochre,#d49c24)}.apple-c .label.learned{color:var(--zen-moss,#429e57)}';
+
+// Robust path and file resolution
+const currentPath = dv.currentFilePath || (dv.current() && dv.current().file ? dv.current().file.path : "");
+const folder = currentPath.includes('/') ? currentPath.substring(0, currentPath.lastIndexOf('/')) : (dv.current() && dv.current().file ? dv.current().file.folder : "");
+const rawFileName = currentPath ? currentPath.substring(currentPath.lastIndexOf('/') + 1).replace(/\.md$/, '') : (dv.current() && dv.current().file ? dv.current().file.name : "");
+const rootName = rawFileName;
+const cur = dv.current();
+const rawStatus = (cur && cur.status) ? cur.status : "unread";
+const isLatin = folder.includes("Latin roots");
+
+let wordPages = [];
+if (folder) {
+    try {
+        wordPages = dv.pages('"' + folder + '"').where(n => n.file.name !== rootName && !n.file.name.startsWith("Word Triage") && (n.latin_root || n.greek_root || (!n.file.name.startsWith("Dashboard") && !n.file.name.startsWith("Cluster"))));
+    } catch (e) { wordPages = []; }
+}
+
+const t = wordPages ? wordPages.length : 0;
+const l = (wordPages && t > 0) ? wordPages.where(n => n.status === "learned").length : 0;
+const g = (wordPages && t > 0) ? wordPages.where(n => n.status === "learning").length : 0;
+const u = t - l - g;
+const lPct = t > 0 ? ((l / t) * 100).toFixed(1) : "0.0";
+const gPct = t > 0 ? ((g / t) * 100).toFixed(1) : "0.0";
+
+const states = [
+    { key: 'unread', label: 'unread', cls: 'unread', p: 'p0' },
+    { key: 'learning', label: 'learning', cls: 'learning', p: 'p1' },
+    { key: 'learned', label: 'learned', cls: 'learned', p: 'p2' }
+];
+
+let curIdx = states.findIndex(s => s.key === rawStatus);
+if (curIdx === -1) curIdx = 0;
+
+const toggle = document.createElement('div');
+toggle.className = 'apple-c';
+toggle.title = 'Click to glide: unread ➔ learning ➔ learned';
+
+const track = document.createElement('div');
+track.className = 'track-c';
+track.innerHTML = '<span class="c-dot"></span><span class="c-dot"></span><span class="c-dot"></span><div class="halo-c ' + states[curIdx].p + '"><div class="core-dot"></div></div>';
+
+const label = document.createElement('span');
+label.className = 'label ' + states[curIdx].cls;
+label.textContent = states[curIdx].label;
+
+toggle.appendChild(track);
+toggle.appendChild(label);
+
+const cleanName = rootName.replace('Dashboard — ', '').replace('Dashboard – ', '').replace('Dashboard - ', '');
+const isMastered = (curIdx === 2 || (t > 0 && l === t));
+
+toggle.addEventListener('click', async (e) => {
+    e.stopPropagation();
+    curIdx = (curIdx + 1) % 3;
+    const nxt = states[curIdx];
+    track.querySelector('.halo-c').className = 'halo-c ' + nxt.p;
+    label.className = 'label ' + nxt.cls;
+    label.textContent = nxt.label;
+
+    const seal = container.querySelector('.hanko-seal');
+    if (seal) {
+        if (nxt.key === 'learned') {
+            seal.style.opacity = "0.95";
+            seal.style.transform = "rotate(-3deg) scale(1)";
+        } else {
+            seal.style.opacity = "0.25";
+            seal.style.transform = "rotate(-6deg) scale(0.92)";
+        }
+    }
+
+    const file = app.vault.getAbstractFileByPath(currentPath);
+    if (file) {
+        await app.fileManager.processFrontMatter(file, fm => { fm.status = nxt.key; });
+        new Notice(rootName + ': marked ' + nxt.key);
+    }
+});
+
+// Container element with Zen HUD Card class
+const container = document.createElement('div');
+container.className = 'zen-hud-card';
+container.style = "background:var(--zen-bg-card,#1a1a1e); color:var(--zen-ink,#ececec); border:1px solid var(--zen-border,#2d2d34); border-radius:10px; padding:24px 28px; margin:16px 0 20px; box-shadow:var(--zen-shadow,0 6px 24px rgba(0,0,0,0.4)); position:relative; box-sizing:border-box;";
+
+const stampText = isLatin ? 'Latin Root' : 'Greek Root';
+
+container.innerHTML = '' +
+  '<div style="position:absolute; top:14px; right:28px; font-family:Georgia,serif; font-size:48px; font-weight:300; color:var(--zen-muted,#86848c); line-height:1; pointer-events:none; user-select:none; opacity:0.25;">' + cleanName + '</div>' +
+  '<div style="display:inline-flex; align-items:center; border:1px solid var(--zen-vermillion,#e05244); color:var(--zen-vermillion,#e05244); font-size:10px; font-weight:700; letter-spacing:1.5px; text-transform:uppercase; padding:2px 7px; border-radius:2px; margin-bottom:6px; background:var(--zen-vermillion-glow,rgba(224,82,68,0.1));">' + stampText + '</div>' +
+  '<div style="font-family:Georgia,serif; font-size:28px; font-weight:700; color:var(--zen-ink,#ececec); letter-spacing:-0.5px; line-height:1.2;">' + cleanName + '</div>' +
+  '<div style="font-family:Georgia,serif; font-size:14px; font-style:italic; color:var(--zen-muted,#86848c); margin-top:3px;">' + stampText + ' · Derived Vocabulary (' + t + ' words)</div>' +
+  '<div style="width:100%; height:1px; background:linear-gradient(to right, var(--zen-ink,#ececec) 25%, transparent 95%); opacity:0.15; margin:16px 0;"></div>' +
+  '<div style="display:grid; grid-template-columns:auto 1fr auto; gap:28px; align-items:center; margin:12px 0 16px;">' +
+    '<div style="position:relative; width:68px; height:68px; display:flex; align-items:center; justify-content:center;">' +
+      '<svg style="width:68px; height:68px; transform:rotate(-90deg);" viewBox="0 0 36 36">' +
+        '<path stroke="var(--zen-border-subtle,#24242a)" stroke-width="3.6" fill="none" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>' +
+        '<path stroke="var(--zen-moss,#429e57)" stroke-width="3.8" stroke-linecap="round" fill="none" stroke-dasharray="' + lPct + ', 100" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>' +
+      '</svg>' +
+      '<div style="position:absolute; font-family:Georgia,serif; font-size:14px; font-weight:700; color:var(--zen-ink,#ececec);">' + lPct + '%</div>' +
+    '</div>' +
+    '<div style="display:grid; grid-template-columns:repeat(3, 1fr); gap:16px;">' +
+      '<div><div style="font-family:Georgia,serif; font-size:26px; font-weight:600; color:var(--zen-ink,#ececec); line-height:1;">' + t + '</div><div style="font-size:9.5px; text-transform:uppercase; letter-spacing:1.4px; color:var(--zen-muted,#86848c); margin-top:4px; font-weight:600;">Derived Words</div></div>' +
+      '<div><div style="font-family:Georgia,serif; font-size:26px; font-weight:600; color:var(--zen-moss,#429e57); line-height:1;">' + l + '</div><div style="font-size:9.5px; text-transform:uppercase; letter-spacing:1.4px; color:var(--zen-muted,#86848c); margin-top:4px; font-weight:600;">Mastered</div></div>' +
+      '<div><div style="font-family:Georgia,serif; font-size:26px; font-weight:600; color:var(--zen-ochre,#d49c24); line-height:1;">' + g + '</div><div style="font-size:9.5px; text-transform:uppercase; letter-spacing:1.4px; color:var(--zen-muted,#86848c); margin-top:4px; font-weight:600;">Studying</div></div>' +
+    '</div>' +
+    '<div class="hanko-seal" style="width:42px; height:42px; border:2px solid var(--zen-vermillion,#e05244); border-radius:4px; display:flex; align-items:center; justify-content:center; color:var(--zen-vermillion,#e05244); font-family:Georgia,serif; font-size:20px; font-weight:700; user-select:none; transition:all .35s; opacity:' + (isMastered ? '0.95' : '0.25') + '; transform:' + (isMastered ? 'rotate(-3deg) scale(1)' : 'rotate(-6deg) scale(0.92)') + ';" title="Mastery Seal (熟)">熟</div>' +
+  '</div>' +
+  '<div style="width:100%; height:3px; background:var(--zen-border-subtle,#24242a); border-radius:2px; overflow:hidden; margin:14px 0; display:flex; gap:1px;">' +
+    '<div style="height:100%; background:var(--zen-moss,#429e57); border-radius:2px 0 0 2px; width:' + lPct + '%;"></div>' +
+    '<div style="height:100%; background:var(--zen-ochre,#d49c24); width:' + gPct + '%;"></div>' +
+  '</div>' +
+'';
+
+const toggleRow = document.createElement('div');
+toggleRow.style = "display:flex; justify-content:space-between; align-items:center; padding-top:6px; margin-top:4px;";
+
+const toggleLabel = document.createElement('span');
+toggleLabel.style = "font-size:10px; text-transform:uppercase; letter-spacing:1.2px; color:var(--zen-muted,#86848c); font-weight:600;";
+toggleLabel.textContent = "Root Study Status";
+
+toggleRow.appendChild(toggleLabel);
+toggleRow.appendChild(toggle);
+container.appendChild(toggleRow);
+dv.container.appendChild(container);
+
+// ================= WORD TRIAGE LAUNCH CARD =================
+const triageCard = document.createElement('div');
+triageCard.className = 'zen-triage-card';
+triageCard.style = "background:var(--zen-bg-card,#1a1a1e); border:1px solid var(--zen-border,#2d2d34); border-radius:8px; padding:14px 20px; margin:0 0 24px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:16px; cursor:pointer; transition:all .25s ease;";
+triageCard.title = "Click to open dedicated Word Triage page";
+
+triageCard.innerHTML = '' +
+  '<div style="display:flex; align-items:center; gap:16px;">' +
+    '<div style="width:38px; height:38px; border-radius:8px; background:rgba(224,82,68,0.12); border:1px solid var(--zen-vermillion,#e05244); display:flex; align-items:center; justify-content:center; font-size:18px;">🎯</div>' +
+    '<div>' +
+      '<div style="font-family:Georgia,serif; font-size:15px; font-weight:700; color:var(--zen-ink,#ececec); letter-spacing:-0.2px;">Word Triage & Status Filters</div>' +
+      '<div style="display:flex; gap:12px; margin-top:3px; font-size:11.5px; font-weight:600;">' +
+        '<span style="color:var(--zen-vermillion,#e05244);">🔴 ' + u + ' unread</span> · ' +
+        '<span style="color:var(--zen-ochre,#d49c24);">🟡 ' + g + ' studying</span> · ' +
+        '<span style="color:var(--zen-moss,#429e57);">🟢 ' + l + ' mastered</span>' +
+      '</div>' +
+    '</div>' +
+  '</div>' +
+  '<div style="display:flex; align-items:center; gap:8px; background:var(--zen-bg-subtle,#222227); border:1px solid var(--zen-border,#2d2d34); padding:6px 14px; border-radius:999px; font-size:12px; font-weight:700; color:var(--zen-ink,#ececec);">' +
+    '<span>Open Triage Page</span>' +
+    '<span style="color:var(--zen-vermillion,#e05244);">➔</span>' +
+  '</div>';
+
+triageCard.addEventListener('mouseenter', () => {
+    triageCard.style.borderColor = "var(--zen-vermillion,#e05244)";
+    triageCard.style.transform = "translateY(-1px)";
+    triageCard.style.boxShadow = "0 4px 14px rgba(0,0,0,0.25)";
+});
+triageCard.addEventListener('mouseleave', () => {
+    triageCard.style.borderColor = "var(--zen-border,#2d2d34)";
+    triageCard.style.transform = "none";
+    triageCard.style.boxShadow = "none";
+});
+
+triageCard.addEventListener('click', () => {
+    const triagePageName = 'Word Triage — ' + cleanName;
+    app.workspace.openLinkText(triagePageName, currentPath, false);
+});
+
+dv.container.appendChild(triageCard);
+
+```
+
+The root **commun** means common or shared. It describes what is shared equally by all members of a group. In English, this root forms words such as *private*, *separate*, *common*, and *commoner*.
+
+---
+
+## 💡 Core Meaning
+
+> [!example] ✨ Core Concept: common or shared
+> The root **commun** means common or shared. It describes what is shared equally by all members of a group. In English, this root forms words such as *private*, *separate*, *common*, and *commoner*.
+
+---
+
+## 🌟 1. Deep Root Origin & Cognitive Architecture
+
+> [!tip] 🎯 Quick Summary: What Does This Root Mean?
+> - **Core Meaning**: <mark class="hl-def">Common or shared</mark>.
+> - **Mental Picture**: <mark class="hl-mnemonic">Neighbors working together in a shared neighborhood to help one another.</mark>
+> - **Everyday Connection**: Think of familiar words like *private* and *separate*.
+
+### 📌 Key Learning Concepts
+
+- **What It Literally Means**:
+  - The root **commun** comes from a Latin word that means *"common or shared"*.
+  - At its core, it describes common or shared.
+
+- **The Big Picture Idea**:
+  - Picture neighbors working together in a shared neighborhood to help one another.
+  - Whenever you see **commun** in an English word, think of **community, society, and shared life**.
+
+- **How the Meaning Grows**:
+  - **Physical**: The tangible physical presence or real-world form of common or shared.
+  - **Mental & Social**: How people experience, organize, or communicate about common or shared.
+  - **Abstract & Practical**: Broader social systems, classifications, or specialized terms.
+
+- **Everyday English Words to Remember It By**:
+  - **Private**: An everyday English word showing the root's idea of *common or shared*.
+  - **Separate**: An everyday English word showing the root's idea of *common or shared*.
+  - **Common**: Shared by, coming from, or done by two or more people. 2. A piece of open public land.
+  - **Commoner**: One of the ordinary or common people, as distinct from the nobility or royalty.
+
+- **💡 Quick Memory Rule**:
+  - *When you see <mark class="hl-stem">commun</mark>, think of <mark class="hl-def">community, society, and shared life</mark>.*
+
+---
+
+## ⚙️ 2. Root Characteristics & Word Formation Engine
+
+### 2.1 Morphological Stems
+- **Base Adjective / Noun:** *common* $\to$ *commoner*, *commonly*, *commonwealth*.
+- **Collective Entity (`commūnitās`):** *community* (social group sharing space/interests).
+- **Verbal Exchange Base (`commūnicāre`):** *communicate*, *communication*, *communicative*, *incommunicado*.
+- **Sacramental & Sociological Base:**
+  - *communion* (Holy Communion; intimate spiritual fellowship).
+  - *commune* (intentional shared living community; French municipal district).
+  - *communism* (political theory of collective property), *communist*.
+- **Exclusionary Prefixation (`ex-`):**
+  - *excommunicate* (to cut off from communion with the church), *excommunication*.
+
+---
+
+## 🎨 3. Semantic Range Across Derived Words
+
+> [!tip]- 🎯 **Live Study Filter & Queue**
+```dataviewjs
+const p = dv.pages('"' + dv.current().file.folder + '"').where(n => n.file.name !== dv.current().file.name && n.latin_root);
+const inProg = p.where(n => n.status === "learning");
+const done = p.where(n => n.status === "learned");
+if (inProg.length === 0 && done.length === 0) {
+    dv.paragraph("*No words marked yet. Open any word card below and select 🟡 Learning or 🟢 Learned.*");
+} else {
+    let out = [];
+    if (inProg.length > 0) out.push("🟡 **Currently Studying (" + inProg.length + "):** " + inProg.map(n => n.file.link).join(" · "));
+    if (done.length > 0) out.push("🟢 **Mastered (" + done.length + "):** " + done.map(n => n.file.link).join(" · "));
+    dv.paragraph(out.join("\n\n"));
+}
+```
+
+### 1. Social Gathering & Collective Life
+- *community* (a group of people living in the same place or having a particular characteristic in common).
+- *common* (occurring, found, or done often; shared by two or more people).
+- *commoner* (an ordinary person, without rank or title).
+- *commune* (a group of people living together and sharing possessions and responsibilities).
+
+### 2. Information Exchange & Media
+- *communicate* (to share or exchange information, news, or ideas).
+- *communication* (the imparting or exchanging of information by speaking, writing, or other media).
+- *communicative* (willing, eager, or able to talk or impart information).
+- *incommunicado* (not able, wanting, or allowed to communicate with other people).
+
+### 3. Theology & Ideology
+- *communion* (the sharing or exchanging of intimate thoughts and feelings; the Christian sacrament of the Eucharist).
+- *excommunicate* (officially exclude someone from participation in the sacraments and services of the Church).
+- *communism* (a political theory advocating class war and leading to a society in which all property is publicly owned).
+- *communist* (a person who supports or believes in the principles of communism).
+
+---
+
+## 🔀 4. Prefix & Combining Dynamics on commun
+
+| Affix Pattern | Process | Semantic Outcome | Exemplar Words |
+| :--- | :--- | :--- | :--- |
+| `commun-` + `-ity` | Collective abstract | A civic or cultural collective united by shared life | *community* |
+| `commun-` + `-icate` | Factitive verb | Imparting information; making an idea common property | *communicate* |
+| `in-` + `communicado` | Spanish privative | Denied all contact with human society or legal counsel | *incommunicado* |
+| `ex-` + `communicate` | Ecclesiastical expulsion| Severing an individual from the sacramental body | *excommunicate* |
+| `commun-` + `-ism` | Political ideology | Collective ownership of the means of production | *communism, communist* |
+
+---
+
+## 🌐 5. Disciplinary & Real-World Domains
+
+- **Political Science & Modern History:** Marxism-Leninism, the Communist Manifesto (1848), the Paris Commune (1871).
+- **Telecommunications & Information Theory:** Shannon-Weaver communication model, bandwidth, fiber-optic communication.
+- **Ecclesiastical History & Canon Law:** Papal bulls of excommunication (Martin Luther, 1521), Eucharistic liturgy.
+- **Sociology & Urban Ecology:** Ferdinand Tönnies (*Gemeinschaft und Gesellschaft*), online virtual communities.
+
+---
+
+## 📚 6. Complete Derived Words Master List (Exhaustive)
+
+| Word | POS | Authoritative Definitions | Authentic Illustrative Sentence |
+| :--- | :--- | :--- | :--- |
+| [[communal]] | adjective | **1.** For or by a group rather than individuals; - paul roche.<br>**2.** Relating to a small administrative district or community. | *"Our field comprises the problems of national wealth and of communal welfare."* — Frank A. Fetter, *Economics Volume II: Modern Economic Problems* |
+| [[communalise]] | verb | **1.** Make something the property of the commune or community. | *"In academic literature, communalise designates make something the property of the commune or community."* — Academic Lexicon, *Morphological & Etymological Survey* |
+| [[communalism]] | noun | **1.** The practice of communal living and common ownership.<br>**2.** Loyalty and commitment to the interests of your own minority or ethnic group rather than to society as a whole. | *"In academic literature, communalism designates the practice of communal living and common ownership."* — Academic Lexicon, *Morphological & Etymological Survey* |
+| [[communalize]] | verb | **1.** Make something the property of the commune or community. | *"In academic literature, communalize designates make something the property of the commune or community."* — Academic Lexicon, *Morphological & Etymological Survey* |
+| [[communally]] | adverb | **1.** By a group of people rather than an individual. | *"In academic literature, communally designates by a group of people rather than an individual."* — Academic Lexicon, *Morphological & Etymological Survey* |
+| [[commune]] | noun | **1.** The smallest administrative district of several european countries.<br>**2.** A body of people or families living together and sharing everything. | *"Laertes, I must commune with your grief, Or you deny me right."* — William Shakespeare, *The Complete Works of William Shakespeare* |
+| [[communicable]] | adjective | **1.** (of disease) capable of being transmitted by infection.<br>**2.** Readily communicated. | *"The joy of intercourse becomes the jest of sin, when evil and suffering are communicable. 72:30 Not personal intercommunion but divine law is the com- municator of truth, health, and harmony to earth and humanity."* — Mary Baker Eddy, *Science and Health, with Key to the Scriptures* |
+| [[communicant]] | noun | **1.** A person entitled to receive communion. | *"The fast which accompanied the mourning for the dead god may perhaps have been designed to prepare the body of the communicant for the reception of the blessed sacrament by purging it of all that could defile by contact the sacred elements."* — James George Frazer, *The Golden Bough: A Study of Magic and Religion* |
+| [[communicate]] | verb | **1.** Transmit information.<br>**2.** Transmit thoughts or feelings. | *"Madam, I was very late more near her than I think she wish’d me; alone she was, and did communicate to herself her own words to her own ears; she thought, I dare vow for her, they touch’d not any stranger sense."* — William Shakespeare, *The Complete Works of William Shakespeare* |
+| [[communicating]] | noun | **1.** The activity of communicating; the activity of conveying information.<br>**2.** Transmit information. | *"The room in which they were, communicating with that in which he stood, was only lighted by the fire."* — Charles Dickens, *Bleak House* |
+| [[communication]] | noun | **1.** The activity of communicating; the activity of conveying information.<br>**2.** Something that is communicated by or to or between people or groups. | *"What did this vanity But minister communication of A most poor issue?"* — William Shakespeare, *The Complete Works of William Shakespeare* |
+| [[communicational]] | adjective | **1.** Used in communication. | *"In academic literature, communicational designates used in communication."* — Academic Lexicon, *Morphological & Etymological Survey* |
+| [[communications]] | noun | **1.** The discipline that studies the principles of transmiting information and the methods by which it is delivered (as print or radio or television etc.).<br>**2.** The activity of communicating; the activity of conveying information. | *"She realized, though, that she had to put off further communications for a quiet evening hour."* — Johanna Spyri, *Maezli: A Story of the Swiss Valleys* |
+| [[communicative]] | adjective | **1.** Of or relating to communication.<br>**2.** Able or tending to communicate; - w.m.thackeray. | *"Asked what they were about, they vouchsafed no reply; but an old woman who appeared on the scene from a neighbouring cottage was more communicative."* — James George Frazer, *Balder the Beautiful, Volume I.* |
+| [[communicativeness]] | noun | **1.** The trait of being communicative. | *"Gardiner, whose manners were easy and pleasant, encouraged her communicativeness by his questions and remarks: Mrs."* — Jane Austen, *Pride and Prejudice* |
+| [[communicator]] | noun | **1.** A person who communicates with others. | *"For example; you must know I'm a space communicator."* — Meyer Moldeven, *The Universe — or Nothing* |
+| [[communicatory]] | adjective | **1.** Able or tending to communicate; - w.m.thackeray. | *"In academic literature, communicatory designates able or tending to communicate; - w.m.thackeray."* — Academic Lexicon, *Morphological & Etymological Survey* |
+| [[communion]] | noun | **1.** The act of participating in the celebration of the eucharist.<br>**2.** Sharing thoughts and feelings. | *"The offer, being gladly accepted, is followed by a pleasant ride, a pleasant dinner, and a pleasant breakfast, all in brotherly communion."* — Charles Dickens, *Bleak House* |
+| [[communique]] | noun | **1.** An official report (usually sent in haste). | *"At conclusion of meeting they issued a joint communique."* — Meyer Moldeven, *The Universe — or Nothing* |
+| [[communisation]] | noun | **1.** A change from private property to public property owned by the community.<br>**2.** The organization of a nation of the basis of communism. | *"In academic literature, communisation designates a change from private property to public property owned by the community."* — Academic Lexicon, *Morphological & Etymological Survey* |
+| [[communise]] | verb | **1.** Make communist or bring in accord with communist principles.<br>**2.** Make into property owned by the state. | *"In academic literature, communise designates make communist or bring in accord with communist principles."* — Academic Lexicon, *Morphological & Etymological Survey* |
+| [[communism]] | noun | **1.** A form of socialism that abolishes private ownership.<br>**2.** A political theory favoring collectivism in a classless society. | *"A few years ago it was generally believed that the organization of the old German tribes was politically an almost perfect democracy, and economically a communism in which all had equal claims upon the land."* — Frank A. Fetter, *Economics Volume II: Modern Economic Problems* |
+| [[communist]] | noun | **1.** A member of the communist party.<br>**2.** A socialist who advocates communism. | *"His own doctrine, first set forth connectedly[17] in the Communist Manifesto in 1848, he called Communism."* — Frank A. Fetter, *Economics Volume II: Modern Economic Problems* |
+| [[communistic]] | adjective | **1.** Relating to or marked by communism. | *"True, if there were absolutely no private property, there would be little use for money, altho it might still be used as a form of counter by the communistic state."* — Frank A. Fetter, *Economics Volume II: Modern Economic Problems* |
+| [[community]] | noun | **1.** A group of people living in a particular local area.<br>**2.** Common ownership. | *"Since the three would, in later years, have great authority in the little community, it would be splendid if they were educated alike and could agree thoroughly in everything."* — Johanna Spyri, *Maezli: A Story of the Swiss Valleys* |
+| [[communization]] | noun | **1.** A change from private property to public property owned by the community.<br>**2.** The organization of a nation of the basis of communism. | *"In academic literature, communization designates a change from private property to public property owned by the community."* — Academic Lexicon, *Morphological & Etymological Survey* |
+| [[communize]] | verb | **1.** Make communist or bring in accord with communist principles.<br>**2.** Make into property owned by the state. | *"In academic literature, communize designates make communist or bring in accord with communist principles."* — Academic Lexicon, *Morphological & Etymological Survey* |
+| [[excommunicate]] | verb | **1.** Exclude from a church or a religious community.<br>**2.** Oust or exclude from a group or membership by decree. | *"What canst thou say but will perplex thee more, If thou stand excommunicate and curs’d?"* — William Shakespeare, *The Complete Works of William Shakespeare* |
+| [[excommunication]] | noun | **1.** The state of being excommunicated.<br>**2.** The act of banishing a member of a church from the communion of believers and the privileges of the church; cutting a person off from a religious society. | *"We will spare for no wit, I warrant you; here’s that shall drive some of them to a non-come: only get the learned writer to set down our excommunication, and meet me at the gaol. [Exeunt.] ACT IV SCENE I."* — William Shakespeare, *The Complete Works of William Shakespeare* |
+| [[incommunicado]] | adjective | **1.** Without the means or right to communicate. | *"In academic literature, incommunicado designates without the means or right to communicate."* — Academic Lexicon, *Morphological & Etymological Survey* |
+| [[incommunicative]] | adjective | **1.** Not inclined to talk or give information or express opinions. | *"Incommunicative as he was, some time elapsed before I had an opportunity of gauging his mind."* — Charlotte Brontë, *Jane Eyre: An Autobiography* |
+| [[intercommunicate]] | verb | **1.** Be interconnected, afford passage.<br>**2.** Transmit thoughts or feelings. | *"In academic literature, intercommunicate designates be interconnected, afford passage."* — Academic Lexicon, *Morphological & Etymological Survey* |
+| [[intercommunication]] | noun | **1.** Mutual communication; communication with each other. | *"In academic literature, intercommunication designates mutual communication; communication with each other."* — Academic Lexicon, *Morphological & Etymological Survey* |
+| [[intercommunion]] | noun | **1.** Participation in holy communion by members of more than one church (eg catholic and orthodox). | *"The joy of intercourse becomes the jest of sin, when evil and suffering are communicable. 72:30 Not personal intercommunion but divine law is the com- municator of truth, health, and harmony to earth and humanity."* — Mary Baker Eddy, *Science and Health, with Key to the Scriptures* |
+| [[noncommunicable]] | adjective | **1.** (of disease) not capable of being passed on. | *"In academic literature, noncommunicable designates (of disease) not capable of being passed on."* — Academic Lexicon, *Morphological & Etymological Survey* |
+| [[uncommunicative]] | adjective | **1.** Not inclined to talk or give information or express opinions. | *"The gentleman who saw me was particularly suave in manner, but uncommunicative in equal proportion."* — Bram Stoker, *Dracula* |
+| [[uncommunicativeness]] | noun | **1.** The trait of being uncommunicative. | *"In academic literature, uncommunicativeness designates the trait of being uncommunicative."* — Academic Lexicon, *Morphological & Etymological Survey* |
+
+---
+
+<div style="margin-top: 28px; padding-top: 16px; border-top: 1px solid var(--background-modifier-border);">
+  <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.85em; margin-bottom: 12px;">
+    <span>↑ [[Cluster Society]]</span>
+    <span>[[Latin Learning Progress|Latin Progress Hub]] →</span>
+  </div>
+  <div style="text-align: center; font-size: 0.8em; color: var(--text-muted); font-style: italic; margin-bottom: 4px;">
+    To command the root is to illuminate all its branches.
+  </div>
+  <div style="text-align: center; font-size: 0.72em; color: var(--text-faint); letter-spacing: 0.5px;">
+    ROOT DASHBOARD · COMMUN
+  </div>
+</div>

@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vocab Mobile App — Interactive Preview Simulator</title>
+  <style>
+    :root {
+      --bg-color: #0b0c0e;
+      --card-bg: #14171d;
+      --border-color: #232834;
+      --text-main: #f0f3f6;
+      --text-muted: #8b949e;
+      --accent-color: #238636;
+      --accent-blue: #388bfd;
+    }
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background-color: var(--bg-color);
+      color: var(--text-main);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px 12px 30px;
+    }
+    .header-bar {
+      width: 100%;
+      max-width: 480px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 12px;
+      background: var(--card-bg);
+      padding: 10px 16px;
+      border-radius: 14px;
+      border: 1px solid var(--border-color);
+    }
+    .status-indicator {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 13px;
+      font-weight: 600;
+    }
+    .status-dot {
+      width: 9px;
+      height: 9px;
+      border-radius: 50%;
+      background: #30d158;
+      box-shadow: 0 0 10px #30d158;
+    }
+    .nav-actions {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .btn {
+      background: #21262d;
+      border: 1px solid #30363d;
+      color: var(--text-main);
+      font-size: 12px;
+      font-weight: 600;
+      padding: 6px 12px;
+      border-radius: 20px;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      transition: all 0.15s ease;
+    }
+    .btn:hover {
+      background: #30363d;
+    }
+    .btn.active {
+      background: var(--accent-blue);
+      border-color: #58a6ff;
+      color: #fff;
+    }
+    .device-controls {
+      display: flex;
+      gap: 6px;
+      margin-bottom: 14px;
+    }
+    /* Realistic iPhone 15 frame */
+    .phone-chassis {
+      position: relative;
+      width: 393px;
+      height: 820px;
+      background: #1a1d24;
+      border-radius: 52px;
+      box-shadow: 0 25px 60px rgba(0,0,0,0.8), 0 0 0 10px #242933, 0 0 0 12px #363c4a;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      transition: width 0.25s ease, height 0.25s ease;
+    }
+    .dynamic-island {
+      position: absolute;
+      top: 11px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 120px;
+      height: 28px;
+      background: #000;
+      border-radius: 20px;
+      z-index: 1000;
+      pointer-events: none;
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      padding-right: 14px;
+    }
+    .camera-lens {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: #0d1a2d;
+      border: 1.5px solid #1c2e4a;
+    }
+    .phone-screen {
+      width: 100%;
+      height: 100%;
+      border: none;
+      background: #100f0e;
+    }
+    .info-footer {
+      margin-top: 14px;
+      font-size: 11.5px;
+      color: var(--text-muted);
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="header-bar">
+    <div class="status-indicator">
+      <div class="status-dot"></div>
+      <span>Mobile App Live</span>
+    </div>
+    <div class="nav-actions">
+      <a href="/" target="_blank" class="btn">↗ Full Viewport</a>
+      <button onclick="reloadFrame()" class="btn">🔄 Refresh</button>
+    </div>
+  </div>
+
+  <div class="device-controls">
+    <button class="btn" onclick="setDevice(375, 750, this)">Compact (375x750)</button>
+    <button class="btn active" onclick="setDevice(393, 820, this)">iPhone (393x820)</button>
+    <button class="btn" onclick="setDevice(412, 850, this)">Pixel (412x850)</button>
+  </div>
+
+  <div class="phone-chassis" id="phoneChassis">
+    <div class="dynamic-island">
+      <div class="camera-lens"></div>
+    </div>
+    <iframe id="screenFrame" class="phone-screen" src="/"></iframe>
+  </div>
+
+  <div class="info-footer">
+    4 Bottom Tabs: <strong>Home</strong> · <strong>Word Cards</strong> · <strong>Daily Word</strong> · <strong>Settings</strong><br>
+    Swipe left/right to navigate subpages · Native Offline-First APK Ready
+  </div>
+
+  <script>
+    function setDevice(w, h, btn) {
+      const chassis = document.getElementById('phoneChassis');
+      chassis.style.width = w + 'px';
+      chassis.style.height = h + 'px';
+      document.querySelectorAll('.device-controls .btn').forEach(b => b.classList.remove('active'));
+      if (btn) btn.classList.add('active');
+    }
+    function reloadFrame() {
+      const frame = document.getElementById('screenFrame');
+      frame.src = frame.src;
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  obsidian-studio:
+    build: .
+    container_name: obsidian-studio-cloud
+    restart: unless-stopped
+    ports:
+      - "3080:3080"
+    environment:
+      - PORT=3080
+      - VAULT_PATH=/data/vault
+      # Vault Authentication (Set your private password)
+      - AUTH_TOKEN=${AUTH_TOKEN:-}
+      # Git Repository Synchronization
+      - GIT_REPO_URL=${GIT_REPO_URL:-https://github.com/yorren005/Language.git}
+      - GITHUB_TOKEN=${GITHUB_TOKEN:-}
+      - GIT_AUTHOR_NAME=${GIT_AUTHOR_NAME:-Obsidian Studio Cloud}
+      - GIT_AUTHOR_EMAIL=${GIT_AUTHOR_EMAIL:-sync@obsidian-studio.local}
+      - GIT_PULL_INTERVAL_SEC=180
+      - GIT_DEBOUNCE_SEC=10
+    volumes:
+      # Persistent local storage for the cloned vault
+      - vault_data:/data/vault
+
+volumes:
+  vault_data:
+    driver: local

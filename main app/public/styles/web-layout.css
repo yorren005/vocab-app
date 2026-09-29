@@ -1,0 +1,147 @@
+/*
+ * Web Layout Snippet for Obsidian
+ * Provides a modern webpage-like layout system.
+ */
+
+/* @settings
+name: Web Layout Settings
+id: web-layout
+settings:
+    - 
+        id: web-layout-max-width
+        title: Max Content Width
+        description: Maximum width for the centered text column
+        type: class-select
+        allowEmpty: false
+        default: web-max-width-760
+        options:
+            - 
+                label: 760px (Medium-like)
+                value: web-max-width-760
+            - 
+                label: 900px
+                value: web-max-width-900
+            - 
+                label: 1200px
+                value: web-max-width-1200
+    -
+        id: web-tab-style
+        title: Browser-style Tabs
+        description: Enable rounded browser-style tabs
+        type: class-toggle
+        default: true
+*/
+
+:root {
+  --web-max-width: 760px;
+  --web-spacing-lg: 2rem;
+  --web-spacing-md: 1rem;
+  --web-spacing-sm: 0.5rem;
+  
+  --web-tab-radius: 10px;
+  --web-tab-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  
+  --web-header-bg-light: rgba(245, 243, 236, 0.88);
+  --web-header-bg-dark: rgba(17, 17, 17, 0.88);
+  
+  --web-sidebar-hover-light: rgba(77, 114, 92, 0.08);
+  --web-sidebar-hover-dark: rgba(239, 68, 68, 0.10);
+}
+
+.theme-light {
+  --web-tab-radius: 12px;
+  --web-header-bg: var(--web-header-bg-light);
+  --web-sidebar-hover: var(--web-sidebar-hover-light);
+  --web-shadow: 0 4px 16px rgba(60, 50, 40, 0.06);
+}
+
+.theme-dark {
+  --web-tab-radius: 4px;
+  --web-header-bg: var(--web-header-bg-dark);
+  --web-sidebar-hover: var(--web-sidebar-hover-dark);
+  --web-shadow: 0 4px 20px rgba(0, 0, 0, 0.7), 0 0 1px rgba(239, 68, 68, 0.25);
+}
+
+/* Centered Content Column */
+.markdown-source-view.mod-cm6 .cm-sizer,
+.markdown-reading-view .markdown-preview-sizer {
+  max-width: var(--web-max-width, 860px);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Wider option via cssclass or when note contains tables/dashboards */
+.wide .markdown-source-view.mod-cm6 .cm-sizer,
+.wide .markdown-reading-view .markdown-preview-sizer,
+.markdown-preview-sizer:has(table),
+.markdown-preview-sizer:has(.zen-hud-card) {
+  max-width: min(100%, 1200px);
+}
+
+/* Navigation Header: Subtle Dimensional Ridge */
+.workspace-leaf-content .view-header {
+  background-color: var(--web-surface-0);
+  border-bottom: 1px solid var(--web-border);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03);
+}
+
+/* File Explorer Restyled: Tactile Items */
+.nav-folder-title, .nav-file-title {
+  border-radius: 6px;
+  transition: background-color 0.15s ease-in-out, transform 0.15s ease-in-out;
+  padding: 5px 10px;
+  margin: 2px 4px;
+}
+
+.nav-folder-title:hover, .nav-file-title:hover {
+  background-color: var(--web-sidebar-hover);
+  transform: translateX(2px);
+}
+
+.workspace-split.mod-left-split {
+  transition: width 0.3s ease-in-out;
+}
+
+/* Browser-style Tab Redesign: Layered Elevation Over Rail */
+.workspace-tab-header-container {
+  padding: 4px var(--web-spacing-sm) 0 var(--web-spacing-sm);
+  background-color: var(--web-surface-1);
+  border-bottom: 1px solid var(--web-border);
+}
+
+.workspace-tab-header {
+  border-radius: var(--web-tab-radius) var(--web-tab-radius) 0 0 !important;
+  margin-right: 3px;
+  padding: 6px 14px;
+  transition: background-color 0.2s, box-shadow 0.2s, transform 0.2s;
+  border: 1px solid transparent;
+  border-bottom: none;
+}
+
+.workspace-tab-header:hover:not(.is-active) {
+  background-color: var(--web-surface-3);
+}
+
+.theme-light .workspace-tab-header.is-active {
+  background-color: var(--web-surface-2) !important;
+  color: var(--web-text-primary) !important;
+  border-color: var(--web-border) !important;
+  box-shadow: var(--web-card-bevel), 0 4px 14px -2px rgba(60, 50, 40, 0.10), 0 2px 4px rgba(60, 50, 40, 0.05);
+  font-weight: 600;
+}
+
+.theme-dark .workspace-tab-header.is-active {
+  background-color: var(--web-surface-2) !important;
+  color: var(--web-text-primary) !important;
+  border-color: var(--web-border) !important;
+  box-shadow: var(--web-card-bevel), 0 6px 18px rgba(0, 0, 0, 0.8), 0 0 1px rgba(239, 68, 68, 0.35);
+  font-weight: 600;
+}
+
+/* Status Bar Reading Time / Word Count Area */
+.status-bar {
+  padding: var(--web-spacing-sm) var(--web-spacing-lg);
+  font-size: 0.85em;
+  opacity: 0.8;
+  border-top: 1px solid var(--background-modifier-border);
+}

@@ -1,0 +1,198 @@
+/* Web Typography Snippet — Fast Local Font Cascade */
+
+/*
+ * Web Typography Snippet for Obsidian
+ * Modern typography rules: Scandinavian Birch (Light) & Volcanic Obsidian (Dark).
+ */
+
+/* @settings
+name: Web Typography Settings
+id: web-typography
+settings:
+    - 
+        id: web-ui-font
+        title: UI Font
+        description: Font for UI elements
+        type: class-select
+        allowEmpty: false
+        default: web-font-theme
+        options:
+            - 
+                label: Theme Default (Plus Jakarta Sans in Light / Fira Sans in Dark)
+                value: web-font-theme
+            - 
+                label: Inter
+                value: web-font-inter
+            - 
+                label: System Default
+                value: web-font-system
+    -
+        id: web-content-font
+        title: Content Font
+        description: Font for reading/writing
+        type: class-select
+        allowEmpty: false
+        default: web-font-theme-body
+        options:
+            - 
+                label: Theme Default (Manrope in Light / Fira Sans in Dark)
+                value: web-font-theme-body
+            - 
+                label: System Serif
+                value: web-font-serif
+            - 
+                label: Sans Serif (Inter)
+                value: web-font-sans
+*/
+
+:root {
+  /* Font Family Definitions */
+  --web-font-scandi-heading: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --web-font-scandi-body: 'Manrope', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --web-font-volcanic-heading: 'Sora', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --web-font-volcanic-body: 'Fira Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --web-font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+
+  --web-font-ui: var(--web-font-scandi-heading);
+  --web-font-heading: var(--web-font-scandi-heading);
+  --web-font-content-sans: var(--web-font-scandi-body);
+  --web-font-content-serif: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  
+  --web-line-height: 1.7;
+  
+  --web-code-bg-light: #ECE8DF;
+  --web-code-bg-dark: #1A1918;
+  --web-code-radius: 6px;
+  
+  --web-quote-border-light: var(--web-accent, #4D725C);
+  --web-quote-border-dark: var(--web-accent, #EF4444);
+  --web-quote-bg-light: rgba(77, 114, 92, 0.05);
+  --web-quote-bg-dark: rgba(239, 68, 68, 0.06);
+  
+  --web-link-color-light: var(--web-accent, #4D725C);
+  --web-link-color-dark: var(--web-accent, #EF4444);
+}
+
+.theme-light {
+  --web-font-ui: var(--web-font-scandi-heading);
+  --web-font-heading: var(--web-font-scandi-heading);
+  --web-font-content-sans: var(--web-font-scandi-body);
+
+  --web-code-bg: var(--web-code-bg-light);
+  --web-quote-border: var(--web-quote-border-light);
+  --web-quote-bg: var(--web-quote-bg-light);
+  --web-link-color: var(--web-link-color-light);
+  --web-heading-letter-spacing: -0.015em;
+}
+
+.theme-dark {
+  --web-font-ui: var(--web-font-volcanic-body);
+  --web-font-heading: var(--web-font-volcanic-heading);
+  --web-font-content-sans: var(--web-font-volcanic-body);
+
+  --web-code-bg: var(--web-code-bg-dark);
+  --web-quote-border: var(--web-quote-border-dark);
+  --web-quote-bg: var(--web-quote-bg-dark);
+  --web-link-color: var(--web-link-color-dark);
+  --web-heading-letter-spacing: -0.025em;
+}
+
+/* Font Assignments */
+.app-container {
+  font-family: var(--web-font-ui);
+}
+
+.markdown-reading-view,
+.markdown-source-view.mod-cm6 .cm-scroller {
+  font-family: var(--web-font-content-sans);
+  line-height: var(--web-line-height);
+}
+
+.web-font-serif .markdown-reading-view,
+.web-font-serif .markdown-source-view.mod-cm6 .cm-scroller {
+  font-family: var(--web-font-content-serif);
+}
+
+/* Modular Type Scale & Heading Fonts */
+.markdown-reading-view h1, .markdown-reading-view h2, 
+.markdown-reading-view h3, .markdown-reading-view h4, 
+.markdown-reading-view h5, .markdown-reading-view h6,
+.cm-header {
+  font-family: var(--web-font-heading);
+  letter-spacing: var(--web-heading-letter-spacing, -0.015em);
+  font-weight: 700;
+}
+
+.markdown-reading-view h1, .cm-header-1 { font-size: clamp(2rem, 4vw, 2.5rem); font-weight: 800; }
+.markdown-reading-view h2, .cm-header-2 { font-size: clamp(1.75rem, 3.5vw, 2rem); }
+.markdown-reading-view h3, .cm-header-3 { font-size: clamp(1.5rem, 3vw, 1.75rem); }
+.markdown-reading-view h4, .cm-header-4 { font-size: clamp(1.25rem, 2.5vw, 1.5rem); }
+.markdown-reading-view h5, .cm-header-5 { font-size: clamp(1.1rem, 2vw, 1.25rem); }
+.markdown-reading-view h6, .cm-header-6 { font-size: clamp(1rem, 1.5vw, 1.1rem); }
+
+/* Paragraph Spacing */
+.markdown-reading-view p {
+  margin-bottom: 1.2em;
+}
+
+/* Inline Code (GitHub style) */
+.markdown-reading-view :not(pre) > code,
+.cm-inline-code {
+  background-color: var(--web-code-bg) !important;
+  border-radius: var(--web-code-radius);
+  padding: 0.2em 0.4em;
+  font-size: 0.85em;
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+}
+
+/* Blockquote */
+.markdown-reading-view blockquote,
+.cm-blockquote {
+  border-left: 4px solid var(--web-quote-border);
+  background-color: var(--web-quote-bg);
+  padding: 0.5em 1em;
+  margin: 1.5em 0;
+  border-radius: 0 8px 8px 0;
+}
+
+/* Links */
+.markdown-reading-view a,
+.cm-link, .cm-hmd-internal-link {
+  color: var(--web-link-color);
+  text-decoration: none;
+  transition: text-decoration 0.2s;
+}
+
+.markdown-reading-view a:hover,
+.cm-link:hover, .cm-hmd-internal-link:hover {
+  text-decoration: underline;
+}
+
+/* External Link Indicator */
+.markdown-reading-view a.external-link::after {
+  content: "↗";
+  display: inline-block;
+  margin-left: 0.2em;
+  font-size: 0.8em;
+  text-decoration: none !important;
+}
+
+/* Lists */
+.markdown-reading-view ul,
+.markdown-reading-view ol {
+  padding-left: 2em;
+  margin-bottom: 1.5em;
+}
+
+.markdown-reading-view li {
+  margin-bottom: 0.5em;
+}
+
+/* Horizontal Rule Decorative Gradient */
+.markdown-reading-view hr,
+.cm-hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--text-muted), transparent);
+  margin: 2em 0;
+}

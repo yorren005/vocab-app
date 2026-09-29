@@ -1,0 +1,108 @@
+---
+type: design_mockup
+theme_support: "Scandinavian Birch (Light) & Volcanic Obsidian (Dark)"
+date: 2026-09-20
+---
+
+# 🏛️ Greek Roots — Core Meaning Box Design Variations
+
+This interactive mockup demonstrates **4 distinct design variations** for highlighting the **Core Meaning** in all Greek root dashboards and root notes (demonstrated below using the Greek root **actin** – *"beam, ray"*).
+
+Switch between **Light Mode** (*Scandinavian Birch Studio*) and **Dark Mode** (*Volcanic Obsidian & Magma*) in your Obsidian settings to observe how the borders, glowing magma/pine accents, and typography dynamically adapt!
+
+---
+
+## ✦ Variation 1: "The Etymological Keystone Banner" (Hero Semantic Card)
+
+> **Design Philosophy**: Architectural, prominent, and authoritative. Positioned directly beneath the note header, it gives the root an immediate sense of gravity, pairing the ancient Greek alphabet and transliteration with a high-contrast highlighted semantic core and cognitive anchor.
+
+<div class="core-meaning-keystone">
+  <div class="cm-header">
+    <span class="cm-tag">🏛️ GREEK ROOT</span>
+    <span class="cm-script">ἀκτίς, ἀκτῖνος (aktís, aktînos)</span>
+  </div>
+  <div class="cm-body">
+    <span class="cm-label">CORE MEANING</span>
+    <span class="cm-definition">“beam, ray”</span>
+  </div>
+  <div class="cm-footer">
+    <span>💡 <b>Cognitive Anchor:</b> Physical sensory observation of light rays or radiating spokes expanding outward.</span>
+  </div>
+</div>
+
+#### *Markdown Callout Syntax Alternative:*
+> [!core-keystone] 🏛️ GREEK ROOT · actin- (ἀκτίς)
+> **CORE MEANING: “beam, ray”**
+> 💡 *Cognitive Anchor: Physical sensory observation of light rays or radiating spokes expanding outward.*
+
+---
+
+## ✦ Variation 2: "The Morphological Formula HUD" (Modular Element Card)
+
+> **Design Philosophy**: Systematic, analytical, and informative. Breaks down the root like an element in a periodic table into three clean interlocking cells: the Root Stem & Origin, the Highlighted Semantic Core, and its Active Combining Stems & Derivatives.
+
+<div class="core-meaning-formula">
+  <div class="cm-col-stem">
+    <div class="cm-sub-label">Stem & Etymon</div>
+    <div class="cm-stem-title">actin-</div>
+    <div style="font-size:12px; color:var(--web-text-muted); margin-top:2px;">Gk. ἀκτίς (aktís)</div>
+  </div>
+  <div class="cm-col-core">
+    <span class="cm-badge-accent">✦ SEMANTIC ANCHOR</span>
+    <div class="cm-sub-label">Core Meaning</div>
+    <div class="cm-core-highlight">“BEAM · RAY”</div>
+  </div>
+  <div class="cm-col-connect">
+    <div class="cm-sub-label">Combining & Family</div>
+    <div style="font-size:13px; font-weight:700; color:var(--web-text-primary);">actino- · -actinia</div>
+    <div style="font-size:11.5px; color:var(--web-text-muted); margin-top:2px;">actinic, Actinomyces, actinolite</div>
+  </div>
+</div>
+
+---
+
+## ✦ Variation 3: "The Lexical Sanctuary Plaque" (Humanist Parchment & Basalt Inset)
+
+> **Design Philosophy**: Scholarly, bookish, and classical. Uses elegant humanist serif typography, subtle corner accent styling, and displays the deep Indo-European ancestral lineage path leading into modern English.
+
+<div class="core-meaning-sanctuary">
+  <div class="cm-plaque-label">✦ PRIMAL SEMANTIC SEED ✦</div>
+  <div class="cm-plaque-body">
+    “Beam, ray, radiating spoke; expanding outward from a central point.”
+  </div>
+  <div class="cm-lineage">
+    <span style="font-weight:700; color:var(--web-accent);">Lineage:</span>
+    <span class="cm-lineage-node">PIE *h₂eḱ- (sharp, point)</span>
+    <span>➔</span>
+    <span class="cm-lineage-node">Ancient Greek ἀκτίς (ray)</span>
+    <span>➔</span>
+    <span class="cm-lineage-node">Scientific English actin-</span>
+  </div>
+</div>
+
+---
+
+## ✦ Variation 4: "The High-Speed Recall Capsule" (Compact Dual-Pill Bar)
+
+> **Design Philosophy**: Minimalist, rapid-scanning, and distraction-free. Takes less than 44px of vertical height. Perfect for rapid vocabulary drilling where you want the core meaning immediately visible without pushing down the dashboard data cards or word lists.
+
+<div class="core-meaning-capsule">
+  <div class="cm-pill-root">
+    <span>🏛️ Gr.</span>
+    <span>actin-</span>
+  </div>
+  <div class="cm-pill-meaning">
+    “beam, ray”
+  </div>
+  <div class="cm-pill-meta">
+    <span>⚡ Radiant ray / spoke</span>
+  </div>
+</div>
+
+---
+
+### 🗳️ Feedback & Selection Guide:
+1. **Variation 1 (Keystone Banner)**: Best for balanced, high-visibility dashboards.
+2. **Variation 2 (Formula HUD)**: Best for scientific/etymological breakdown lovers.
+3. **Variation 3 (Sanctuary Plaque)**: Best for literary, scholarly, deep reading elegance.
+4. **Variation 4 (Recall Capsule)**: Best for compact, distraction-free rapid review.

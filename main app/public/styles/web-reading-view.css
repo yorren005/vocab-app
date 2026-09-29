@@ -1,0 +1,188 @@
+/* @settings
+name: Web Reading View
+id: web-reading-view
+settings:
+    - 
+        id: web-reading-hero
+        title: Enable Hero Header
+        type: class-toggle
+        default: true
+*/
+
+/* ----------------------------------------------------
+   HERO HEADER & FRONTMATTER
+---------------------------------------------------- */
+.markdown-reading-view .inline-title {
+  font-family: var(--web-font-heading);
+  font-size: clamp(2rem, 5vw, 3.5rem);
+  font-weight: 800;
+  line-height: 1.1;
+  letter-spacing: var(--web-heading-letter-spacing, -0.02em);
+  margin-top: 2em;
+  margin-bottom: 0.25em;
+  color: var(--web-text-primary);
+}
+
+.markdown-reading-view .frontmatter-container {
+  border: none;
+  background: transparent;
+  padding: 0;
+  margin-bottom: 3em;
+  border-bottom: 1px solid var(--web-surface-3);
+  padding-bottom: 1.5em;
+}
+
+.markdown-reading-view .frontmatter-container .frontmatter-section {
+  display: inline-flex;
+  margin-right: 1.5em;
+  flex-direction: column;
+}
+
+.markdown-reading-view .frontmatter-section-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--web-text-muted);
+}
+
+.markdown-reading-view .frontmatter-section-data {
+  font-size: 0.9rem;
+  color: var(--web-text-secondary);
+}
+
+/* ----------------------------------------------------
+   ARTICLE SPACING
+---------------------------------------------------- */
+.markdown-reading-view .markdown-preview-sizer {
+  padding-left: var(--web-spacing-md, 1rem);
+  padding-right: var(--web-spacing-md, 1rem);
+}
+
+.markdown-reading-view p {
+  margin-bottom: 1.5em;
+  line-height: 1.7;
+}
+
+/* ----------------------------------------------------
+   FOOTNOTES TOOLTIP HOVER
+---------------------------------------------------- */
+.markdown-reading-view .footnote-link {
+  position: relative;
+  cursor: pointer;
+  text-decoration: none;
+}
+.markdown-reading-view .footnote-link:hover::after {
+  content: "Footnote reference";
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--web-surface-4);
+  color: var(--web-text-primary);
+  padding: 0.5em 1em;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  width: max-content;
+  max-width: 250px;
+  z-index: 100;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  pointer-events: none;
+}
+
+/* ----------------------------------------------------
+   DROP CAP (cssclass: dropcap)
+---------------------------------------------------- */
+.dropcap .markdown-preview-view p:first-of-type::first-letter {
+  float: left;
+  font-size: 4em;
+  line-height: 0.8;
+  margin: 0.05em 0.1em 0 0;
+  color: var(--web-accent);
+  font-weight: 900;
+  font-family: ui-serif, Georgia, serif;
+}
+
+/* ----------------------------------------------------
+   PULL QUOTES (cssclass: pull-quote)
+---------------------------------------------------- */
+.pull-quote .markdown-preview-view blockquote {
+  font-size: 1.5em;
+  line-height: 1.4;
+  text-align: center;
+  font-weight: 300;
+  font-style: italic;
+  border: none;
+  padding: 1.5em 2em;
+  margin: 2em 0;
+  color: var(--web-accent);
+  background: var(--web-surface-1);
+  border-radius: 12px;
+  position: relative;
+}
+.pull-quote .markdown-preview-view blockquote::before {
+  content: "“";
+  font-size: 3em;
+  position: absolute;
+  top: -0.2em;
+  left: 0.1em;
+  color: var(--web-accent-muted);
+  opacity: 0.5;
+}
+
+
+
+/* ----------------------------------------------------
+   PRINT STYLESHEET
+---------------------------------------------------- */
+@media print {
+  .workspace-ribbon,
+  .workspace-tab-header-container,
+  .workspace-split.mod-left-split,
+  .workspace-split.mod-right-split,
+  .status-bar {
+    display: none !important;
+  }
+  
+  .markdown-preview-view {
+    padding: 0 !important;
+    color: #000 !important;
+    background: #fff !important;
+  }
+  
+  .markdown-reading-view::after {
+    display: none !important;
+  }
+}
+
+/* ----------------------------------------------------
+   ZERO-FRICTION FAST INGESTION ANCHORS
+---------------------------------------------------- */
+/* Executive Summary / TL;DR Banner */
+.callout[data-callout="summary"],
+.callout[data-callout="tldr"] {
+    border-radius: 12px;
+    border: 1px solid var(--web-accent);
+    background: var(--web-surface-2);
+    box-shadow: 0 4px 20px var(--web-accent-glow);
+    padding: 16px 20px;
+    margin: 1.5em 0;
+}
+.callout[data-callout="summary"] .callout-title,
+.callout[data-callout="tldr"] .callout-title {
+    font-size: 1.1em;
+    font-weight: 700;
+    color: var(--web-accent);
+}
+
+/* Skimming Anchors: gentle highlight for bold keywords to guide scanning */
+.markdown-reading-view strong,
+.markdown-source-view.mod-cm6 .cm-strong {
+    font-weight: 700;
+    color: var(--web-text-primary);
+    padding: 0.5px 3px;
+    border-radius: 3px;
+    background-color: var(--web-accent-muted);
+}
+
+
+

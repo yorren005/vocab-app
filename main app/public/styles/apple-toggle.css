@@ -1,0 +1,123 @@
+/* =========================================================================
+   STYLE C: Apple Glide Toggle — Zen Ink Palette
+   Warm Paper (#eae4d8) · Vermillion (#c23b2b) · Ochre (#b58514) · Moss (#2b6d3b)
+   ========================================================================= */
+
+:root {
+  --apple-red: #c23b2b;
+  --apple-red-glow: rgba(194, 59, 43, 0.3);
+  --apple-amber: #b58514;
+  --apple-amber-glow: rgba(181, 133, 20, 0.3);
+  --apple-green: #2b6d3b;
+  --apple-green-glow: rgba(43, 109, 59, 0.3);
+  --apple-cyan: #8c8273;
+}
+
+.apple-c {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 2px 10px 2px 4px;
+  border-radius: 999px;
+  background: #eae4d8;
+  border: 1px solid #d8d0c2;
+  cursor: pointer;
+  user-select: none;
+  transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+  line-height: 1;
+  vertical-align: middle;
+  box-sizing: border-box;
+}
+
+.apple-c:hover {
+  border-color: #8c8273;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+.apple-c:active {
+  transform: scale(0.96);
+}
+
+.apple-c .track-c {
+  position: relative;
+  width: 44px;
+  height: 16px;
+  background: #dfd8cb;
+  border-radius: 999px;
+  border: 1px solid #cfc7ba;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 5px;
+  box-sizing: border-box;
+}
+
+.apple-c .c-dot {
+  width: 3px;
+  height: 3px;
+  border-radius: 999px;
+  background: #8c8273;
+  opacity: 0.5;
+}
+
+.apple-c .halo-c {
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  width: 12px;
+  height: 12px;
+  border-radius: 999px;
+  transition: transform 0.35s cubic-bezier(0.34, 1.6, 0.64, 1), background-color 0.25s ease, box-shadow 0.25s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+.apple-c .halo-c .core-dot {
+  width: 4px;
+  height: 4px;
+  border-radius: 999px;
+  background: #ffffff;
+  box-shadow: 0 0 3px #ffffff;
+}
+
+.apple-c .halo-c.p0 {
+  transform: translateX(0px);
+  background: var(--apple-red);
+  box-shadow: 0 0 8px var(--apple-red-glow);
+}
+
+.apple-c .halo-c.p1 {
+  transform: translateX(14px);
+  background: var(--apple-amber);
+  box-shadow: 0 0 8px var(--apple-amber-glow);
+}
+
+.apple-c .halo-c.p2 {
+  transform: translateX(28px);
+  background: var(--apple-green);
+  box-shadow: 0 0 8px var(--apple-green-glow);
+}
+
+.apple-c .label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+  transition: color 0.2s ease;
+  min-width: 44px;
+}
+
+.apple-c .label.unread {
+  color: var(--apple-red);
+}
+
+.apple-c .label.learning {
+  color: var(--apple-amber);
+}
+
+.apple-c .label.learned {
+  color: var(--apple-green);
+}

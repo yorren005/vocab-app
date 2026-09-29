@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-09-29T19:17:53.666Z",
+  "sourceVault": "D:\\Language",
+  "sections": {
+    "Greek roots": {
+      "notesCount": 17987,
+      "bytesCount": 107646596,
+      "mb": "102.66",
+      "clusterCount": 0,
+      "clusters": {}
+    },
+    "Latin roots": {
+      "notesCount": 33028,
+      "bytesCount": 187887550,
+      "mb": "179.18",
+      "clusterCount": 0,
+      "clusters": {}
+    },
+    "English vocabulary master": {
+      "notesCount": 583,
+      "bytesCount": 3743425,
+      "mb": "3.57",
+      "clusterCount": 0,
+      "clusters": {}
+    }
+  },
+  "totalNotes": 51599,
+  "totalBytes": 299297864,
+  "totalMb": "285.43"
+}

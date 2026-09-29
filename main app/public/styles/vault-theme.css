@@ -1,0 +1,526 @@
+/* =========================================================================
+   VAULT THEME: Zen Ink — Japanese Calligraphic Minimalism
+   Dual Ambient Mode: Washi Paper (Light) ⇄ Sumi Slate (Dark)
+   Serif Typography · Ensō Ring & Hanko Seal · Apple Glide Toggles
+   ========================================================================= */
+
+:root, .theme-light {
+  --zen-bg: #faf8f4;
+  --zen-bg-card: #faf8f4;
+  --zen-bg-subtle: #f4f0e7;
+  --zen-paper-texture: rgba(200, 184, 160, 0.12);
+  --zen-ink: #1f1f1e;
+  --zen-ink-soft: #4a4946;
+  --zen-muted: #8c8273;
+  --zen-border: #e6dfd3;
+  --zen-border-subtle: #eee8dd;
+  
+  --zen-vermillion: #c23b2b;
+  --zen-vermillion-glow: rgba(194, 59, 43, 0.25);
+  --zen-ochre: #b58514;
+  --zen-moss: #2b6d3b;
+  --zen-moss-glow: rgba(43, 109, 59, 0.25);
+
+  --apple-red: #c23b2b;
+  --apple-red-glow: rgba(194, 59, 43, 0.3);
+  --apple-amber: #b58514;
+  --apple-amber-glow: rgba(181, 133, 20, 0.3);
+  --apple-green: #2b6d3b;
+  --apple-green-glow: rgba(43, 109, 59, 0.3);
+  --apple-cyan: #8c8273;
+
+  --zen-toggle-bg: #eae4d8;
+  --zen-toggle-track: #dfd8cb;
+  --zen-shadow: 0 4px 20px rgba(40, 35, 30, 0.06);
+}
+
+.theme-dark {
+  --zen-bg: #131315;
+  --zen-bg-card: #1a1a1e;
+  --zen-bg-subtle: #222227;
+  --zen-paper-texture: rgba(255, 255, 255, 0.03);
+  --zen-ink: #ececec;
+  --zen-ink-soft: #b0afb4;
+  --zen-muted: #86848c;
+  --zen-border: #2d2d34;
+  --zen-border-subtle: #24242a;
+
+  --zen-vermillion: #e05244;
+  --zen-vermillion-glow: rgba(224, 82, 68, 0.35);
+  --zen-ochre: #d49c24;
+  --zen-moss: #429e57;
+  --zen-moss-glow: rgba(66, 158, 87, 0.35);
+
+  --apple-red: #e05244;
+  --apple-red-glow: rgba(224, 82, 68, 0.35);
+  --apple-amber: #d49c24;
+  --apple-amber-glow: rgba(212, 156, 36, 0.35);
+  --apple-green: #429e57;
+  --apple-green-glow: rgba(66, 158, 87, 0.35);
+  --apple-cyan: #86848c;
+
+  --zen-toggle-bg: #27272e;
+  --zen-toggle-track: #1e1e24;
+  --zen-shadow: 0 6px 24px rgba(0, 0, 0, 0.4);
+}
+
+/* --- Zen Ink HUD Card --- */
+.zen-hud-card {
+  background: var(--zen-bg-card) !important;
+  color: var(--zen-ink) !important;
+  border: 1px solid var(--zen-border) !important;
+  border-radius: 10px !important;
+  padding: 24px 28px !important;
+  margin: 16px 0 24px !important;
+  box-shadow: var(--zen-shadow) !important;
+  position: relative !important;
+  box-sizing: border-box !important;
+}
+
+/* Watermark Seal */
+.zen-watermark {
+  position: absolute !important;
+  top: 14px !important;
+  right: 28px !important;
+  font-family: Georgia, serif !important;
+  font-size: 48px !important;
+  font-weight: 300 !important;
+  color: var(--zen-muted) !important;
+  line-height: 1 !important;
+  pointer-events: none !important;
+  user-select: none !important;
+  opacity: 0.25 !important;
+}
+
+/* Language Stamp */
+.zen-stamp {
+  display: inline-flex !important;
+  align-items: center !important;
+  border: 1px solid var(--zen-vermillion) !important;
+  color: var(--zen-vermillion) !important;
+  font-size: 10px !important;
+  font-weight: 700 !important;
+  letter-spacing: 1.5px !important;
+  text-transform: uppercase !important;
+  padding: 2px 7px !important;
+  border-radius: 2px !important;
+  margin-bottom: 6px !important;
+  background: var(--zen-vermillion-glow) !important;
+}
+
+/* Dashboard Title */
+.zen-title {
+  font-family: Georgia, serif !important;
+  font-size: 28px !important;
+  font-weight: 700 !important;
+  color: var(--zen-ink) !important;
+  letter-spacing: -0.5px !important;
+  line-height: 1.2 !important;
+}
+
+/* Subtitle */
+.zen-subtitle {
+  font-family: Georgia, serif !important;
+  font-size: 14px !important;
+  font-style: italic !important;
+  color: var(--zen-muted) !important;
+  margin-top: 3px !important;
+}
+
+/* Ink Divider */
+.zen-divider {
+  width: 100% !important;
+  height: 1px !important;
+  background: linear-gradient(to right, var(--zen-ink) 25%, transparent 95%) !important;
+  opacity: 0.15 !important;
+  margin: 16px 0 !important;
+}
+
+/* Ensō Circular Gauge */
+.enso-wrapper {
+  position: relative !important;
+  width: 68px !important;
+  height: 68px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.enso-svg {
+  width: 68px !important;
+  height: 68px !important;
+  transform: rotate(-90deg) !important;
+}
+
+.enso-track {
+  stroke: var(--zen-border-subtle) !important;
+  stroke-width: 3.6 !important;
+  fill: none !important;
+}
+
+.enso-fill {
+  stroke: var(--zen-moss) !important;
+  stroke-width: 3.8 !important;
+  stroke-linecap: round !important;
+  fill: none !important;
+  transition: stroke-dasharray 0.7s cubic-bezier(0.34, 1.4, 0.64, 1) !important;
+}
+
+.enso-text {
+  position: absolute !important;
+  font-family: Georgia, serif !important;
+  font-size: 14px !important;
+  font-weight: 700 !important;
+  color: var(--zen-ink) !important;
+}
+
+/* Stat Box Metrics */
+.zen-stat-box {
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+.zen-stat-val {
+  font-family: Georgia, serif !important;
+  font-size: 26px !important;
+  font-weight: 600 !important;
+  color: var(--zen-ink) !important;
+  line-height: 1 !important;
+}
+
+.zen-stat-key {
+  font-size: 9.5px !important;
+  text-transform: uppercase !important;
+  letter-spacing: 1.4px !important;
+  color: var(--zen-muted) !important;
+  margin-top: 4px !important;
+  font-weight: 600 !important;
+}
+
+/* Hanko (印鑑) Mastery Seal */
+.hanko-seal {
+  width: 42px !important;
+  height: 42px !important;
+  border: 2px solid var(--zen-vermillion) !important;
+  border-radius: 4px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  color: var(--zen-vermillion) !important;
+  font-family: Georgia, serif !important;
+  font-size: 20px !important;
+  font-weight: 700 !important;
+  user-select: none !important;
+  transition: all 0.35s cubic-bezier(0.34, 1.56, 0.64, 1) !important;
+  opacity: 0.25 !important;
+  transform: rotate(-6deg) scale(0.92) !important;
+}
+
+.hanko-seal.stamped {
+  opacity: 0.95 !important;
+  transform: rotate(-3deg) scale(1) !important;
+  box-shadow: inset 0 0 4px var(--zen-vermillion-glow), 0 0 8px var(--zen-vermillion-glow) !important;
+}
+
+/* Hairline Progress Track */
+.zen-hairline-track {
+  width: 100% !important;
+  height: 3px !important;
+  background: var(--zen-border-subtle) !important;
+  border-radius: 2px !important;
+  overflow: hidden !important;
+  margin: 14px 0 !important;
+  display: flex !important;
+  gap: 1px !important;
+}
+
+.zen-fill-learned {
+  height: 100% !important;
+  background: var(--zen-moss) !important;
+  border-radius: 2px 0 0 2px !important;
+  transition: width 0.5s ease !important;
+}
+
+.zen-fill-learning {
+  height: 100% !important;
+  background: var(--zen-ochre) !important;
+  transition: width 0.5s ease !important;
+}
+
+/* Apple Toggle Overrides */
+.apple-c {
+  position: relative !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+  padding: 2px 10px 2px 4px !important;
+  border-radius: 999px !important;
+  background: var(--zen-toggle-bg) !important;
+  border: 1px solid var(--zen-border) !important;
+  cursor: pointer !important;
+  user-select: none !important;
+  transition: border-color .2s ease, transform .2s ease, box-shadow .2s ease !important;
+  line-height: 1 !important;
+  vertical-align: middle !important;
+  box-sizing: border-box !important;
+}
+
+.apple-c:hover {
+  border-color: var(--zen-muted) !important;
+  transform: translateY(-1px) !important;
+  box-shadow: 0 2px 6px rgba(0,0,0,.15) !important;
+}
+
+.apple-c:active {
+  transform: scale(.96) !important;
+}
+
+.apple-c .track-c {
+  position: relative !important;
+  width: 44px !important;
+  height: 16px !important;
+  background: var(--zen-toggle-track) !important;
+  border-radius: 999px !important;
+  border: 1px solid var(--zen-border-subtle) !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  padding: 0 5px !important;
+  box-sizing: border-box !important;
+}
+
+.apple-c .c-dot {
+  width: 3px !important;
+  height: 3px !important;
+  border-radius: 999px !important;
+  background: var(--zen-muted) !important;
+  opacity: .5 !important;
+}
+
+.apple-c .halo-c {
+  position: absolute !important;
+  top: 1px !important;
+  left: 1px !important;
+  width: 12px !important;
+  height: 12px !important;
+  border-radius: 999px !important;
+  transition: transform .35s cubic-bezier(.34,1.6,.64,1), background-color .25s ease, box-shadow .25s ease !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  box-sizing: border-box !important;
+}
+
+.apple-c .halo-c .core-dot {
+  width: 4px !important;
+  height: 4px !important;
+  border-radius: 999px !important;
+  background: #fff !important;
+  box-shadow: 0 0 3px #fff !important;
+}
+
+.apple-c .halo-c.p0 { transform: translateX(0) !important; background: var(--zen-vermillion) !important; box-shadow: 0 0 8px var(--zen-vermillion-glow) !important; }
+.apple-c .halo-c.p1 { transform: translateX(14px) !important; background: var(--zen-ochre) !important; box-shadow: 0 0 8px rgba(212,156,36,0.35) !important; }
+.apple-c .halo-c.p2 { transform: translateX(28px) !important; background: var(--zen-moss) !important; box-shadow: 0 0 8px var(--zen-moss-glow) !important; }
+
+.apple-c .label {
+  font-size: 11px !important;
+  font-weight: 700 !important;
+  letter-spacing: .2px !important;
+  transition: color .2s ease !important;
+  min-width: 44px !important;
+}
+.apple-c .label.unread { color: var(--zen-vermillion) !important; }
+.apple-c .label.learning { color: var(--zen-ochre) !important; }
+.apple-c .label.learned { color: var(--zen-moss) !important; }
+
+/* Dotted Tables */
+.markdown-rendered table {
+  width: 100% !important;
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  margin: 16px 0 !important;
+  border-radius: 6px !important;
+  border: 1px solid var(--zen-border) !important;
+  background: var(--zen-bg-card) !important;
+  overflow: hidden !important;
+}
+
+.markdown-rendered th {
+  background: var(--zen-bg-subtle) !important;
+  font-weight: 700 !important;
+  font-size: 0.78em !important;
+  text-transform: uppercase !important;
+  letter-spacing: 1px !important;
+  color: var(--zen-muted) !important;
+  padding: 10px 16px !important;
+  border-bottom: 1px solid var(--zen-border) !important;
+  text-align: left !important;
+}
+
+.markdown-rendered td {
+  padding: 10px 16px !important;
+  border-bottom: 1px dotted var(--zen-border) !important;
+  vertical-align: middle !important;
+  font-size: 0.92em !important;
+  color: var(--zen-ink-soft) !important;
+}
+
+.markdown-rendered tr:last-child td { border-bottom: none !important; }
+.markdown-rendered tbody tr:hover td { background-color: rgba(200, 184, 160, 0.08) !important; }
+
+.markdown-rendered td .internal-link {
+  color: var(--zen-ink) !important;
+  font-weight: 600 !important;
+  text-decoration: none !important;
+  border-bottom: 1px dotted var(--zen-muted) !important;
+  transition: color 0.2s, border-color 0.2s !important;
+}
+
+.markdown-rendered td .internal-link:hover {
+  color: var(--zen-moss) !important;
+  border-bottom-color: var(--zen-moss) !important;
+}
+
+/* Callouts & Blockquotes */
+.callout {
+  border-radius: 6px !important;
+  border: 1px solid var(--zen-border) !important;
+  background: var(--zen-bg-card) !important;
+  box-shadow: var(--zen-shadow) !important;
+  margin: 14px 0 !important;
+  padding: 12px 16px !important;
+}
+
+.callout[data-callout="tip"] {
+  border-left: 3px solid var(--zen-moss) !important;
+  background: rgba(66, 158, 87, 0.08) !important;
+}
+
+.callout[data-callout="abstract"] {
+  border-left: 3px solid var(--zen-muted) !important;
+  background: rgba(134, 132, 140, 0.08) !important;
+}
+
+.callout[data-callout="status"] {
+  border-left: 3px solid var(--zen-ochre) !important;
+  background: rgba(212, 156, 36, 0.08) !important;
+}
+
+.markdown-rendered blockquote {
+  border-left: 2px solid var(--zen-border) !important;
+  background: var(--zen-bg-subtle) !important;
+  border-radius: 0 6px 6px 0 !important;
+  padding: 12px 20px !important;
+  margin: 14px 0 !important;
+  font-family: Georgia, serif !important;
+  font-style: italic !important;
+  font-size: 1.05em !important;
+  color: var(--zen-ink) !important;
+  line-height: 1.65 !important;
+}
+
+/* =========================================================================
+   NOTE WIDTH & FULL LAYOUT EXPANSION
+   Removes narrow column constraints; expands reading & editing views
+   ========================================================================= */
+
+:root {
+  --file-line-width: 100% !important;
+  --line-width: 100% !important;
+  --line-width-adaptive: 100% !important;
+  --content-width: 100% !important;
+  --page-width: 100% !important;
+}
+
+/* Ensure reading view sizer and editor content take full available width */
+.markdown-preview-sizer,
+.markdown-preview-view .markdown-preview-sizer,
+.markdown-source-view.mod-cm6 .cm-content,
+.markdown-source-view.mod-cm6 .cm-line {
+  max-width: 96% !important;
+  width: 96% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Remove default narrow limits on readable line length containers */
+.markdown-preview-view.mod-readable-line-width .markdown-preview-sizer,
+.markdown-source-view.mod-cm6.mod-readable-line-width .cm-content {
+  max-width: 96% !important;
+  width: 96% !important;
+}
+
+/* Ensure dataview tables, cards, and triage grids stretch beautifully */
+.markdown-rendered table,
+.dataview,
+.zen-hud-card,
+.zen-triage-card {
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* Zen Accent Previous / Next Lesson Navigation Buttons */
+.ae-nav-bar {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  gap: 12px !important;
+  margin: 24px 0 12px !important;
+  padding-top: 12px !important;
+  border-top: 1px solid var(--zen-border-subtle, var(--background-modifier-border, rgba(128, 128, 128, 0.18))) !important;
+}
+
+.ae-nav-btn {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 10px !important;
+  padding: 8px 14px !important;
+  border-radius: 6px !important;
+  border: 1px solid var(--zen-border, var(--background-modifier-border)) !important;
+  background: var(--zen-bg-card, var(--background-secondary)) !important;
+  font-family: Georgia, serif !important;
+  font-size: 13.5px !important;
+  font-weight: 600 !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06) !important;
+  cursor: pointer !important;
+  user-select: none !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease, background-color 0.2s ease !important;
+}
+
+.ae-nav-btn.ae-nav-prev {
+  border-left: 3px solid var(--zen-ochre, #b58514) !important;
+}
+
+.ae-nav-btn.ae-nav-next {
+  margin-left: auto !important;
+  border-right: 3px solid var(--zen-moss, #2b6d3b) !important;
+}
+
+.ae-nav-btn:hover {
+  transform: translateY(-1px) !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.10) !important;
+}
+
+.ae-nav-btn:active {
+  transform: translateY(0) scale(0.98) !important;
+}
+
+.ae-nav-btn a.internal-link,
+.ae-nav-btn .cm-hmd-internal-link,
+.ae-nav-btn .cm-underline {
+  display: inline-flex !important;
+  align-items: center !important;
+  margin: -8px -14px !important;
+  padding: 8px 14px !important;
+  color: var(--zen-ink, var(--text-normal)) !important;
+  text-decoration: none !important;
+  border-bottom: none !important;
+  font-family: Georgia, serif !important;
+  font-size: 13.5px !important;
+  font-weight: 600 !important;
+}
+
+
+

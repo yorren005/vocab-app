@@ -1,0 +1,23 @@
+services:
+  - type: web
+    name: obsidian-studio-cloud
+    env: docker
+    dockerfilePath: Dockerfile
+    plan: free
+    region: oregon
+    healthCheckPath: /api/auth/status
+    envVars:
+      - key: PORT
+        value: 3080
+      - key: VAULT_PATH
+        value: /data/vault
+      - key: GIT_REPO_URL
+        sync: false
+      - key: GITHUB_TOKEN
+        sync: false
+      - key: AUTH_TOKEN
+        sync: false
+    disk:
+      name: obsidian-vault-disk
+      mountPath: /data/vault
+      sizeGB: 5
