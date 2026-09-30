@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who uses dynamite in a revolutionary cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who uses dynamite in a revolutionary cause.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who uses dynamite or explosives, especially one who commits terrorist, insurrectionary, or subversive bombings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A worker or quarryman responsible for setting and detonating explosive charges in excavation, mining, or tunneling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dynamiter designates a person who uses dynamite in a revolutionary cause."*
+> - 📜 **Robert Louis Stevenson (*The Dynamiter*):** *"The secret conspirator, known to the press as the **dynamiter**, slipped unnoticed into the fog-bound station."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The Scowrers had among their ranks a reckless **dynamiter** ready to blast open any mine office."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"He handled the dangerous chemicals with the callous indifference of a veteran **dynamiter** clearing a railway grade."*

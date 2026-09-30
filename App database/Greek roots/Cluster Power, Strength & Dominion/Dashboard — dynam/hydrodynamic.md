@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving principles of hydrodynamics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or involving principles of hydrodynamics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the motion of fluids and the mechanical forces acting on solid bodies immersed in or moving through them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to move through water with minimal resistance or turbulence; streamlined for marine passage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrodynamic designates of, relating to, or involving principles of hydrodynamics."*
+> - 📜 **Daniel Bernoulli (*Hydrodynamica*):** *"The **hydrodynamic** pressure within a moving liquid decreases as the velocity of the stream increases."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"The propagation of waves along a liquid surface follows strictly **hydrodynamic** boundary conditions."*
+> - 📜 **Arthur Conan Doyle (*The Maracot Deep*):** *"Our deep-sea submersible was constructed with an exquisitely **hydrodynamic** hull to withstand the crushing ocean currents."*

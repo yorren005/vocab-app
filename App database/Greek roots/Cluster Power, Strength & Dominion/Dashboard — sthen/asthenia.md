@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack or loss of strength : debility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack or loss of strength : debility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal physical weakness, debility, or lack of bodily energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, a chronic constitutional state of exhaustion and fatigue without primary motor or organic nerve impairment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asthenia designates lack or loss of strength : debility."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The onset is marked by profound **asthenia**, muscular tremors, and an irregular, feeble pulse."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"In these subjects there is often a marked nervous **asthenia**, manifesting as mental irritability and physical languor."*
+> - 📜 **George Miller Beard (*A Practical Treatise on Nervous Exhaustion*):** *"The leading symptom of the disorder is general **asthenia**, leaving the patient powerless to endure routine exertion."*

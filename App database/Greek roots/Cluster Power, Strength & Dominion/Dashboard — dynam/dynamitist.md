@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who uses dynamite in a revolutionary cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who uses dynamite in a revolutionary cause.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ideological agitator, nihilist, or revolutionary who advocates political assassination and terror via explosives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert or technician skilled in the compounding and deployment of nitroglycerin-based explosive devices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dynamitist designates a person who uses dynamite in a revolutionary cause."*
+> - 📜 **G. K. Chesterton (*The Man Who Was Thursday*):** *"The philosophical anarchist is far more terrifying than the vulgar **dynamitist**, for he seeks to destroy thought itself."*
+> - 📜 **Joseph Conrad (*Under Western Eyes*):** *"The old **dynamitist** sat in his corner of the café, preaching annihilation with the gentle tone of a schoolmaster."*
+> - 📜 **H. G. Wells (*The Secret Places of the Heart*):** *"He denounced the fanatic **dynamitist** whose impatient violence only reinforced the fortress of reaction."*

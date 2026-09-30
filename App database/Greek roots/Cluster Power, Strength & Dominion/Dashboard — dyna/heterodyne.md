@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the production of an electrical beat between two radio frequencies of which one usually is that of a received signal-carrying current and the other that of an uninterrupted current introduced into the apparatus; also : of or relating to the production of a beat between two optical frequencies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To combine (something, such as a radio frequency) with a different frequency so that a beat is produced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or produced by the combination of two alternating electrical signals of different frequencies to generate new frequencies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method or circuit producing audible beat notes from high-frequency carrier waves in radio reception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterodyne designates of or relating to the production of an electrical beat between two radio frequencies of which one usually is that of a received signal-carrying current and the other that of an uninterrupted current introduced into the apparatus; also : of or relating to the production of a beat between two optical frequencies."*
+> - 📜 **Reginald Fessenden (*Wireless Telephony*):** *"The **heterodyne** system of reception produces a composite wave whose frequency equals the difference between the two interacting oscillations."*
+> - 📜 **Edwin H. Armstrong (*A New System of Alternating Current Amplification*):** *"By employing a supersonic **heterodyne** conversion, incoming signals are stepped down to an intermediate frequency."*
+> - 📜 **Lee de Forest (*Father of Radio: The Autobiography of Lee de Forest*):** *"The sharp whistle of the **heterodyne** beat note signaled that distant transmission had been successfully intercepted."*

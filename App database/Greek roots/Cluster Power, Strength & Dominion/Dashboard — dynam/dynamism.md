@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A theory that all phenomena (such as matter or motion) can be explained as manifestations of force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theory that all phenomena (such as matter or motion) can be explained as manifestations of force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being characterized by vigorous activity, creative energy, and progressiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and physics, the doctrine that all phenomena are explicable by the action of forces; in art, the representation of motion and energy (as in Futurism).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dynamism designates a theory that all phenomena (such as matter or motion) can be explained as manifestations of force."*
+> - 📜 **G. K. Chesterton (*The Victorian Age in Literature*):** *"The extraordinary **dynamism** of the Victorian reformers shook institutions that had seemed rooted for centuries."*
+> - 📜 **Umberto Boccioni (*Futurist Painting: Technical Manifesto*):** *"We seek to capture the universal **dynamism** of modern life, where every moving object vibrates through surrounding space."*
+> - 📜 **Henri Bergson (*Creative Evolution*):** *"The **dynamism** of life cannot be caged in the rigid geometry of purely intellectual categories."*

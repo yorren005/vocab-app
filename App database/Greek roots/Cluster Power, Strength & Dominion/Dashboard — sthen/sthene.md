@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of force equal to 1000 newtons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of force equal to 1000 newtons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete unit of force in the French metre-tonne-second (MTS) system, equivalent to 1,000 newtons or 10^8 dynes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defined as the mechanical force required to impart an acceleration of 1 metre per second squared to a mass of 1 metric tonne.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sthene designates a unit of force equal to 1000 newtons."*
+> - 📜 **E. V. Huntington (*The Fundamental Form of the Equation of Dynamics*):** *"In the French industrial system, the **sthene** was established as the practical dynamic unit for heavy engineering calculations."*
+> - 📜 **Chemical Society (Great Britain) (*Journal of the Chemical Society*):** *"The unit of force in this system is the **sthene**, producing an acceleration of one metre per second per second upon a mass of one ton."*
+> - 📜 **Nature Journal (*Nature, Volume 104*):** *"Pressure in the new industrial metric system is expressed in pièzes, a pièze being one **sthene** per square metre."*

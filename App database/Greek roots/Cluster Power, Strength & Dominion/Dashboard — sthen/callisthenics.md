@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sthen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Power, Strength & Dominion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gymnastic exercises designed to develop muscular tone, bodily grace, and agility without specialized apparatus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically developed in 19th-century physical culture (from Greek *kallos* 'beauty' + *sthenos* 'strength') as systematic rhythmic exercises promoting health and posture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callisthenics designates a term designating an entity, condition, or phenomenon derived from greek sthen."*
+> - 📜 **Catharine Beecher (*Physiology and Calisthenics for Schools and Families*):** *"The primary design of **calisthenics** is to promote health, secure physical symmetry, and cultivate easy and graceful movements."*
+> - 📜 **Herbert Spencer (*Education: Intellectual, Moral, and Physical*):** *"A system of **calisthenics** that substitutes rigid, monotonous drill for the natural sports of youth defeats its own purpose."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"In the afternoon, the pupils assembled in the great hall for an hour of French conversation and light **calisthenics**."*

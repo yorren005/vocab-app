@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sthen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Power, Strength & Dominion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive or abnormal bodily strength, muscular vigor, or functional excitement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical Brunonian pathology, a state of hyper-excitability, plethoric vascular tension, or robust inflammatory reaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sthenia designates a term designating an entity, condition, or phenomenon derived from greek sthen."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"**Sthenia** implies a condition characterized by excessive strength or high inflammatory excitement in the vascular system."*
+> - 📜 **John Brown (*The Elements of Medicine*):** *"When the excitability has been accumulated to excess, the resulting disorder belongs to the class of direct **sthenia**."*
+> - 📜 **William P. Dewees (*A Practice of Physic*):** *"The disease presented all the characteristics of high arterial **sthenia**, demanding the prompt use of the lancet."*

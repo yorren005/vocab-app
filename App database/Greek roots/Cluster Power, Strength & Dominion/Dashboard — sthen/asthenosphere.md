@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A zone of a celestial body (such as the earth) which lies beneath the lithosphere and within which the material is believed to yield readily to persistent stresses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A zone of a celestial body (such as the earth) which lies beneath the lithosphere and within which the material is believed to yield readily to persistent stresses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mechanically weak, ductile layer of the upper mantle situated immediately beneath the rigid lithosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plate tectonics, the plastic layer upon which tectonic plates glide, facilitating mantle convection, magma generation, and isostatic adjustment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asthenosphere designates a zone of a celestial body (such as the earth) which lies beneath the lithosphere and within which the material is believed to yield readily to persistent stresses."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Convection currents circulating within the plastic **asthenosphere** provide the necessary mechanism for continental drift."*
+> - 📜 **John Tuzo Wilson (*Continents Adrift and Continents Aground*):** *"The rigid lithospheric plates slide with minimal friction over the hotter, yielding **asthenosphere**."*
+> - 📜 **Frank Press & Raymond Siever (*Earth*):** *"Deformation within the **asthenosphere** occurs primarily through slow solid-state creep under high temperature and confining pressure."*

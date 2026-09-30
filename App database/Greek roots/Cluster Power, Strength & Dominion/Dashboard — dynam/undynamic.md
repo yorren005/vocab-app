@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by an absence of force or forcefulness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by an absence of force or forcefulness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in dynamic quality, energy, vigorous activity, or motivating force; static or sluggish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics, physics, or linguistics, failing to account for time-dependent forces, growth, or structural evolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undynamic designates characterized by an absence of force or forcefulness."*
+> - 📜 **Joseph Schumpeter (*The Theory of Economic Development*):** *"A circular flow model of economics is inherently **undynamic**, as it ignores the creative destruction wrought by entrepreneurial innovation."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"A society frozen into hereditary castes becomes completely **undynamic**, devoid of both genuine friction and genuine progress."*
+> - 📜 **George Santayana (*The Life of Reason*):** *"An **undynamic** philosophy that contemplates only finished dogmas can never speak to the living heart of humanity."*

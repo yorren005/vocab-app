@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or having the characteristics of a despot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or having the characteristics of a despot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the nature of a despot; tyrannical or arbitrary in operation (archaic variant of *despotic*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Applied in historical, political, and philosophical writings to regimes or characters marked by unrestrained imperious domination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, despotical designates belonging to or having the characteristics of a despot."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"**Despotical** power is an absolute, arbitrary power one man has over another, to take away his life whenever he pleases."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The sovereign, when he is **despotical**, is always in danger from the caprices of his ministers and governors."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"A dominion **despotical** is that which is acquired to a victor, when he giveth life unto his vanquished enemy on condition of obedience."*

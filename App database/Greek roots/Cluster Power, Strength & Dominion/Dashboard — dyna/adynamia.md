@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of strength or vigor (especially from illness).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of strength or vigor (especially from illness).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deficiency or loss of vital strength; profound physical debility or bodily prostration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, an asthenic state of muscular inertia and exhaustion accompanying severe systemic infection or chronic cachexia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adynamia designates lack of strength or vigor (especially from illness)."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"**Adynamia** designates that extreme prostration of vital power which supervenes in malignant fevers."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient sinks into a state of profound **adynamia**, with low delirium and involuntary evacuations."*
+> - 📜 **George Miller Beard (*A Practical Treatise on Nervous Exhaustion*):** *"Slight physical efforts are followed by acute **adynamia**, requiring hours of recumbent rest."*

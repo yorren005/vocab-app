@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: ruler.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: ruler.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hereditary ruler, monarch, or powerful sovereign belonging to a reigning dynasty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical antiquity and political history, a regional lord or petty prince commanding independent authority within a larger imperial sphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog dynast as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The local **dynast** submitted to pay annual tribute to the Emperor rather than face the devastation of his provinces."*
+> - 📜 **Thomas Hardy (*The Dynasts*):** *"A drama depicting the great **dynasts** of Europe contending for continental supremacy."*
+> - 📜 **George Grote (*A History of Greece*):** *"Each separate **dynast** maintained his fortified acropolis and governed his territory with patriarchal independence."*

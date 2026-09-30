@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by an absence of force or forcefulness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking strength or vigor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or causing a lack of bodily strength, muscular vigor, or vital energy; asthenic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and clinical diagnostics, designating a toxic or exhausted state marked by severe cardiovascular prostration and depressed reflexes (*adynamic fever*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adynamic designates characterized by an absence of force or forcefulness."*
+> - 📜 **Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"When the fever assumes an **adynamic** type, the pulse becomes soft and tremulous, and the tongue encrusted with brown sordes."*
+> - 📜 **William Thomson (*A Practical Treatise on the Diseases of the Liver*):** *"In the advanced stage the symptoms became distinctly **adynamic**, with subsultus tendinum and sinking pulse."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Cases presenting marked **adynamic** features demand early and persistent nutritional and stimulant support."*

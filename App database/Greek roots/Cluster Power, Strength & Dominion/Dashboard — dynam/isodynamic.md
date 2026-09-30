@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of dynam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of dynam.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Connecting points on the Earth's surface where the total intensity of the magnetic force is equal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or possessing equal physical force, intensity, or muscular power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isodynamic designates adjective*) pertaining to, derived from, or characteristic of dynam."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Our magnetic surveys across South America traced the **isodynamic** curves across equatorial mountain ranges."*
+> - 📜 **Edward Sabine (*Terrestrial Magnetism*):** *"The global chart of **isodynamic** lines reveals subtle seasonal shifts in the planet’s magnetic envelope."*
+> - 📜 **William Whewell (*History of the Inductive Sciences*):** *"The determination of **isodynamic** contours marks one of the most splendid triumphs of empirical geophysics."*

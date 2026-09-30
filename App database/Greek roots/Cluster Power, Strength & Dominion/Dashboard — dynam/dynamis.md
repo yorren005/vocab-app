@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dynam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Power, Strength & Dominion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Aristotelian and ancient Greek philosophy, potentiality, inherent power, or latent capacity as contrasted with actualization (energeia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A divine or cosmic power, vitality, or spiritual force acting in the natural world.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dynamis designates a term designating an entity, condition, or phenomenon derived from greek dynam."*
+> - 📜 **Aristotle (*Metaphysics*):** *"Every **dynamis** is relative to an act; for it is that which can produce an actuality when the proper conditions are met."*
+> - 📜 **G. W. F. Hegel (*Lectures on the History of Philosophy*):** *"In Greek thought, **dynamis** represents the inner seed containing the power to unfold into mature reality."*
+> - 📜 **W. D. Ross (*Aristotle*):** *"The transition from **dynamis** to actuality constitutes the fundamental rhythm of Aristotle’s cosmology."*

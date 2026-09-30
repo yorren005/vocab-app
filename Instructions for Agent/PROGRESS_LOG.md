@@ -43,3 +43,4 @@
 | 2026-09-30 17:15 | Milestone 1 | Upgraded `mobile-app.js` and `mobile-app.css`: mounted `.apple-c` status toggle at top of definition on Tab 2 & Tab 3, and added 3-citation stack rendering | 2 | ✅ Completed |
 | 2026-09-30 17:30 | Milestone 2 | Moved `> [!status]` + `dataviewjs` `.apple-c` toggle block to the top of the definition across all 47,447 word notes; manually curated `actin.md`, `abactinal.md`, `action.md`, `comely.md`, `phoneme.md`, `digraph.md`, and `enormously.md` | 47,447 | ✅ Completed |
 | 2026-09-30 20:36 | Milestone 3 | Completed individualized curation of all 30 clusters in `English vocabulary master` (514 word notes). Verified 0 issues via `audit-clusters.mjs`. | 514 | ✅ Completed |
+| 2026-09-30 20:47 | Milestone 4 | Completed individualized curation of Greek roots `Cluster Power, Strength & Dominion` (60 word notes across `despot`, `sthen`, `dyna`, `dynam`). Verified 0 issues via `audit-roots.mjs`. | 60 | ✅ Completed |

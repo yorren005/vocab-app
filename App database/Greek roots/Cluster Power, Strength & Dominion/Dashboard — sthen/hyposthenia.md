@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sthen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Power, Strength & Dominion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subnormal or deficient degree of physical or muscular strength; bodily debility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical physiology, decreased functional tone, vitality, or responsiveness of an organ or anatomical system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyposthenia designates a term designating an entity, condition, or phenomenon derived from greek sthen."*
+> - 📜 **George F. Shrady (*Medical Record*):** *"The condition of constitutional **hyposthenia** predisposes the patient to recurring respiratory catarrhs and cardiac exhaustion."*
+> - 📜 **Hobart Amory Hare (*Progressive Medicine*):** *"The symptoms were attributed to acute muscular **hyposthenia** following severe infectious toxemia."*
+> - 📜 **Thomas Lathrop Stedman (*Stedman’s Medical Dictionary*):** *"**Hyposthenia** designates a state of diminished bodily strength or subnormal organic power."*

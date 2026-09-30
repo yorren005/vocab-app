@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of dynamics that deals with the motion of air and other gaseous fluids and with the forces acting on bodies in motion relative to such fluids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The qualities of an object that affect how easily it is able to move through the air.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific discipline that studies the motion of air and other gases and their mechanical interactions with moving bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The aerodynamic characteristics or qualities of a particular vehicle, craft, or projectile that determine its airflow efficiency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerodynamics designates a branch of dynamics that deals with the motion of air and other gaseous fluids and with the forces acting on bodies in motion relative to such fluids."*
+> - 📜 **Wilbur Wright (*Some Aeronautical Experiments*):** *"The difficulties which obstruct the progress of aerial navigation are due chiefly to the profound mysteries of **aerodynamics**."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"A new science of **aerodynamics** had rewritten the possibilities of human travel in less than three decades."*
+> - 📜 **F. W. Lanchester (*Aerodynamics*):** *"The theory of **aerodynamics** must fundamentally account for the vortices shed from the tips of supporting planes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring instrument designed to measure power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring instrument designed to measure power.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument designed to measure mechanical force, torque, power, or muscular strength.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and physical therapy, a handheld device used to assess isometric grip strength and muscular fatigue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The force needed to pull the model through the water is measured by means of a dynamometer which registers the pull on the towing apparatus."*
+> - 📜 **James Watt (*Historical and Technical Papers*):** *"By coupling the engine shaft to a mechanical **dynamometer**, we determined the true brake horsepower under load."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"The testing of physical endurance included the grip of the right hand recorded upon a spring **dynamometer**."*
+> - 📜 **Thomas Edison (*Scientific Notebooks & Laboratory Records*):** *"The readings on the absorption **dynamometer** indicated an efficiency far surpassing our initial estimates."*

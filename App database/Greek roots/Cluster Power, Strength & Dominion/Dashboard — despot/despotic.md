@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a despot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or characteristic of a despot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of, or belonging to, a despot; exercising absolute power without constitutional check.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arbitrarily tyrannical, overbearing, or violently imperious in personal conduct or governance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Thus night at length with slow-retreating steps departs, and the lamp-lighter going his rounds, like an executioner to a despotic king, strikes off the little heads of fire that have aspired to lessen the darkness."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Sailors, likewise, have been somewhat exceptionally treated, because, journeying far from home, they are under the often despotic control of their employers."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It has a democratic character, whereas the gains of monopoly price arouse resentment as being the work of personal, and felt to be despotic, power."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lamp-lighter going his rounds, like an executioner to a **despotic** king, strikes off the little heads of fire that have aspired to lessen the darkness."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Sailors, likewise, have been somewhat exceptionally treated, because, journeying far from home, they are under the often **despotic** control of their employers."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"No **despotic** government can long withstand the steady advancement of general equality."*

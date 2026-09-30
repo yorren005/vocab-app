@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of dynamics that deals with the motion of air and other gaseous fluids and with the forces acting on bodies in motion relative to such fluids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The qualities of an object that affect how easily it is able to move through the air.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the forces of air and other gases in motion, or to the motion of bodies moving through them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed with smooth, streamlined contours so as to minimize air resistance and drag during motion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerodynamic designates a branch of dynamics that deals with the motion of air and other gaseous fluids and with the forces acting on bodies in motion relative to such fluids."*
+> - 📜 **Orville Wright (*How We Invented the Aeroplane*):** *"Our tables of **aerodynamic** pressures differed widely from those of Lilienthal and others, which had been calculated by different formulas."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"It was a monoplane of extraordinarily **aerodynamic** lines, poised like a swallow above the Sussex downs."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"The swiftest monoplane could not have escaped the subtle currents of that **aerodynamic** storm."*

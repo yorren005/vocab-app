@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek asthen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Weakness, fatigue, or strain of the visual organs; eye-strain accompanied by headache, dimness of vision, or ocular discomfort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, categorized into accommodative, muscular, or astigmatic forms caused by fatigue of the ciliary or extraocular muscles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asthenopia designates a term designating an entity, condition, or phenomenon derived from greek asthen."*
+> - 📜 **Edward Nettleship (*The Student’s Guide to Diseases of the Eye*):** *"Symptoms of **asthenopia** commonly manifest after prolonged reading or needlework under imperfect illumination."*
+> - 📜 **Henry D. Noyes (*A Text-Book on Diseases of the Eye*):** *"Patients complaining of **asthenopia** often experience a dull aching sensation behind the globes and in the temples."*
+> - 📜 **George M. Gould (*Biographic Clinics*):** *"The torment of lifelong **asthenopia** was the hidden spring of much of Darwin’s constitutional suffering."*

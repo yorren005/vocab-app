@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: generator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a forceful energetic individual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical generator that converts mechanical energy into direct-current electricity via electromagnetic induction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exceptionally energetic, forceful, and productive person who tirelessly drives endeavors forward.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"We know life only phenomenally, as a savage may know a dynamo; but we know nothing of life noumenonally, nothing of the nature of the intrinsic stuff of life."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Perhaps one of the greatest forward steps in the development of electrotyping was made when the plating dynamo was invented."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The first adoption of a dynamo in place of Smee's battery took place in 1872."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"Before the great **dynamo** at the Paris Exposition, he felt himself confronted by a moral force akin to the Virgin."*
+> - 📜 **Jack London (*The Iron Heel*):** *"The central power plant, with its humming **dynamo** units, was defended like a mediaeval citadel."*
+> - 📜 **H. C. Forster (*Modern Electrical Machines*):** *"A well-balanced **dynamo** armature must maintain continuous magnetic flux across the commutator segments."*

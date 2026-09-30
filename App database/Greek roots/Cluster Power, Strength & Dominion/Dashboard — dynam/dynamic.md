@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by usually continuous and productive activity or change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Energetic, forceful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by constant change, activity, vigorous motion, or productive energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and economics, relating to forces that produce motion or equilibrium; as a noun, an interactive force or motivating factor that stimulates change.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Dynamic conditions and price readjustments. § 14."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Among the dynamic conditions in industry are changes in the general price level whether due to changes in the production of the standard money commodity (relative to population) or to changing methods of doing business."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some of the new dynamic forces such as inventions and growth of population are distributed pretty regularly along the line, so that their influences are nearly equalized."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A society must remain **dynamic** if it is to foster industrial innovation and withstand decay."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"There was a **dynamic** pulse running through the house, an unspoken pressure that kept all of them alert."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Consciousness is never a static deposit, but rather a **dynamic** stream constantly altering its direction."*

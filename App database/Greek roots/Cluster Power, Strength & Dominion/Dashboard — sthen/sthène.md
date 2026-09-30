@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sthen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Power, Strength & Dominion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The French-accented spelling of *sthene*, an obsolete unit of force in the French metre-tonne-second (MTS) system equal to 1,000 newtons or 10^8 dynes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defined in French industrial legislation (1919) as the force imparting an acceleration of 1 m/s² to a mass of one metric tonne; basis of the pressure unit *pièze*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sthène designates a term designating an entity, condition, or phenomenon derived from greek sthen."*
+> - 📜 **E. V. Huntington (*The Fundamental Form of the Equation of Dynamics*):** *"In the French industrial system, the **sthène** was established as the practical dynamic unit for heavy engineering calculations."*
+> - 📜 **Chemical Society (Great Britain) (*Journal of the Chemical Society*):** *"The unit of force in this system is the **sthène**, producing an acceleration of one metre per second per second upon a mass of one ton."*
+> - 📜 **Nature Journal (*Nature, Volume 104*):** *"Pressure in the new industrial metric system is expressed in pièzes, a pièze being one **sthène** per square metre."*

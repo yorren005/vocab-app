@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of power.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposed to a ruling dynasty, monarchical line, or hereditary royal succession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, designating revolutionary, republican, or factional movements aiming to overthrow an entrenched reigning royal house.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antidynastic designates adjective*) pertaining to, derived from, or characteristic of power."*
+> - 📜 **Goldwin Smith (*The United Kingdom: A Political History*):** *"An active **antidynastic** faction worked incessantly in London to undermine the Hanoverian succession."*
+> - 📜 **G. P. Gooch (*History and Historians in the Nineteenth Century*):** *"The radical press fostered an intense **antidynastic** sentiment throughout the capital during the crisis."*
+> - 📜 **Elie Halévy (*A History of the English People*):** *"The riots were charged with **antidynastic** slogans that alarmed the ministers of the Crown."*

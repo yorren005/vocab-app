@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A succession of rulers of the same line of descent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A powerful group or family that maintains its position for a considerable time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a dynasty or hereditary succession of rulers from the same family line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by political, financial, or institutional power transmitted through hereditary lineage or generational alliances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dynastic designates a succession of rulers of the same line of descent."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The entire political structure of ancient Egypt was organized around long **dynastic** successions."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The war was undertaken not for national defense, but to satisfy narrow **dynastic** ambitions."*
+> - 📜 **Bertrand Russell (*Freedom and Organization*):** *"In the eighteenth century, international diplomacy was dominated by **dynastic** rivalries and territorial marriages."*

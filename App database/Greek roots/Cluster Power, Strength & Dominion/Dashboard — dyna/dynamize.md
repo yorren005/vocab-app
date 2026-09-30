@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more dynamic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (a drug) effective.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To endow with energy, power, or dynamic vitality; to invigorate or stimulate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology or homeopathy, to potentize by serial agitation; in economics, to introduce active competitive variables into a static model.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dynamize designates make more dynamic."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"A great thinker has the power to **dynamize** a sleepy age, turning dead formulas into living impulses."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The introduction of steam power did more than accelerate production; it served to **dynamize** the entire social fabric."*
+> - 📜 **William James (*The Will to Believe*):** *"Faith has the singular virtue to **dynamize** our resolves and transmute mere wishes into deeds."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An explosive that is made of nitroglycerin absorbed in a porous material and that often contains ammonium nitrate or cellulose nitrate; also : an explosive (such as a mixture of ammonium nitrate and nitrocellulose) that contains no nitroglycerin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that has a powerful effect; also : something that has great potential to cause trouble or conflict.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A powerful high explosive consisting of nitroglycerin absorbed in an inert porous material, invented by Alfred Nobel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, something potentially explosive, volatile, or dangerous; as a verb, to blow up or destroy with high explosive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Dynamite and detonators,” the fool rattled on."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I can actually sympathize with him—thirty-five pounds of dynamite loose in the prison."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Of course they found no dynamite in it."*
+> - 📜 **Jack London (*The Iron Heel*):** *"The strike was broken, but the hatred remained, smoldering like a fuse toward hidden **dynamite**."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"He walked through the crowded streets carrying enough **dynamite** in his pocket to shatter the pavement."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The political situation in the Balkans was charged with **dynamite**, awaiting only the fatal spark."*

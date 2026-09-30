@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of power.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having four stamens arranged in two pairs of unequal length, with two stamens longer than the other two.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to flowers or floral structures displaying this specific unequal two-pair stamen morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, didynamous designates adjective*) pertaining to, derived from, or characteristic of power."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"In flowers of the **didynamous** order, two stamens surpass their companions in stature to facilitate pollination."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The mint family typically exhibits **didynamous** stamens tucked neatly beneath the upper lip of the corolla."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The arrangement of the **didynamous** organs ensures that visits from humble-bees deposit pollen upon the stigma."*

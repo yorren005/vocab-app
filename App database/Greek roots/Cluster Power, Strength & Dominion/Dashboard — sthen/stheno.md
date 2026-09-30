@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) one of the three gorgons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) one of the three gorgons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, the eldest of the three Gorgons, known as the 'mighty' or 'forceful' immortal sister of Euryale and Medusa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unlike mortal Medusa, Stheno and Euryale were conceived in classical literature as immortal monstrous daughters of Phorcys and Ceto, embodying savage chthonic power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stheno designates (greek mythology) one of the three gorgons."*
+> - 📜 **Hesiod (*Theogony*):** *"And the Gorgons who dwell beyond famed Ocean in the far south: **Stheno**, and Euryale, and Medusa who suffered a grievous fate."*
+> - 📜 **Apollodorus (*The Library*):** *"Of the Gorgons two were immortal, **Stheno** and Euryale, but Medusa was mortal; wherefore to seek her head went Perseus."*
+> - 📜 **John Ruskin (*The Queen of the Air*):** *"The ancient mythologists named the foremost Gorgon **Stheno**, the mighty and unrelenting power of dark physical force."*

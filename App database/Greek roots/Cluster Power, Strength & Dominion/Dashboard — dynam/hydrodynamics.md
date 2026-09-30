@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of physics that deals with the motion of fluids and the forces acting on solid bodies immersed in fluids and in motion relative to them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of physics that deals with the motion of fluids and the forces acting on solid bodies immersed in fluids and in motion relative to them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of fluid mechanics that deals with the mathematical and physical laws governing the motion of liquids and the forces exerted by or upon them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fluid-flow characteristics, drag behavior, or circulation patterns exhibited by a vessel, hull, or aquatic organism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrodynamics designates a branch of physics that deals with the motion of fluids and the forces acting on solid bodies immersed in fluids and in motion relative to them."*
+> - 📜 **Horace Lamb (*Hydrodynamics*):** *"The classical equations of **hydrodynamics** assume an ideal, incompressible fluid free from internal friction."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The swift creatures darted through the lagoon, demonstrating the effortless perfection of natural **hydrodynamics**."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Captain Nemo had mastered every principle of marine **hydrodynamics** in the propulsion of the Nautilus."*

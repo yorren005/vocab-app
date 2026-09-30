@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking strength or vigor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a slender physique.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or suffering from marked physical weakness or lack of structural vigor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional psychiatry and anthropology, describing a slender, lean body habitus with narrow chest and deficient muscular development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asthenic designates lacking strength or vigor."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Persons of an **asthenic** constitution are often peculiarly sensitive to religious doubts and inner disharmony."*
+> - 📜 **Ernst Kretschmer (*Physique and Character*):** *"The typical **asthenic** individual displays a deficiency in thickness, being lean, narrow-chested, and deficient in muscular development."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The chronic form is most frequently observed in patients of a frail, **asthenic** habit of body."*

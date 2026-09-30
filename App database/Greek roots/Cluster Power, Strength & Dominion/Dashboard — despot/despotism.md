@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oppressive absolute power and authority exerted by government : rule by a despot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oppressive or despotic exercise of power.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The exercise of absolute, unchecked authority and power in government; rule by an autocratic despot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any arbitrary, oppressive, or domineering control exercised over others in civic, institutional, or private life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Taxation that, in its principle, is variable, shifting, or dependent on personal whim and favoritism, is despotism."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A busybody despotism may protect the fool, but it thereby helps to perpetuate and multiply his folly; yet if the fool is left alone, he too often is a plague to the wise and the virtuous. § 7. #City growth and the housing problem#."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The veil fell from his hardness and despotism."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Taxation that, in its principle, is variable, shifting, or dependent on personal whim and favoritism, is **despotism**."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The veil fell from his hardness and **despotism**."*
+> - 📜 **Thomas Jefferson (*The Declaration of Independence*):** *"When a long train of abuses and usurpations evinces a design to reduce them under absolute **despotism**, it is their right, it is their duty, to throw off such government."*

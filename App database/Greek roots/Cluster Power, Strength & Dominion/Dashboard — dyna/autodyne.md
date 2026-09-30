@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dyna.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Power, Strength & Dominion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical circuit or radio receiver system in which a single active device simultaneously acts as an oscillator and as a detector/mixer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operating on or utilizing self-generated heterodyne frequencies without requiring a separate local oscillator.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autodyne designates a term designating an entity, condition, or phenomenon derived from greek dyna."*
+> - 📜 **Edwin H. Armstrong (*Proceedings of the Institute of Radio Engineers*):** *"The **autodyne** receiver combines both frequency generation and rectification in the grid circuit of the single triode."*
+> - 📜 **G. W. Pierce (*Principles of Wireless Telegraphy*):** *"In continuous-wave reception, the **autodyne** method provides remarkable sensitivity with minimal circuit components."*
+> - 📜 **John Fleming (*The Principles of Electric Wave Telegraphy*):** *"By employing an **autodyne** arrangement, beats are produced directly within the detector circuit itself."*

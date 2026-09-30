@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dyna.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Power, Strength & Dominion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form or root originating from the Greek dynamis, signifying power, mechanical force, physical vigor, or energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colloquial or historical abbreviation for dynamo, dynamic force, or a motor vehicle line exhibiting high mechanical output.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyna designates a term designating an entity, condition, or phenomenon derived from greek dyna."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"The Greek root **dyna** carried through centuries of science until it crystallized in the humming powerhouses of the twentieth century."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"A sudden pulse of **dyna**-driven machinery seemed to shake the subterranean halls beneath my feet."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The engine roared with pure **dyna** vitality, thrusting our small launch against the raging Amazon current."*

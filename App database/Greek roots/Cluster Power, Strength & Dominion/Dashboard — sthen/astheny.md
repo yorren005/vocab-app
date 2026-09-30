@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal loss of strength.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal loss of strength.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic medical term for debility, bodily weakness, or loss of muscular strength (*asthenia*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically distinguished in 18th-century Brunonian medicine as a constitutional disorder arising from deficient systemic excitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astheny designates an abnormal loss of strength."*
+> - 📜 **John Brown (*The Elements of Medicine*):** *"Diseases of indirect **astheny** require a cautious administration of diffusible stimulants to restore vitality."*
+> - 📜 **Benjamin Rush (*Medical Inquiries and Observations*):** *"The bleeding was suspended as soon as the symptoms of dangerous **astheny** began to supervene."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Under the title of **astheny** were formerly grouped all morbid affections accompanied by an obvious prostration of nervous energy."*

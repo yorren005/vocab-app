@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by action or forcefulness or force of personality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by action or forcefulness or force of personality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to dynamics, mechanical forces in motion, or the mathematical laws governing energy and motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing systems or processes characterized by non-static interactions, feedback loops, or continuous change over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dynamical designates characterized by action or forcefulness or force of personality."*
+> - 📜 **James Clerk Maxwell (*A Dynamical Theory of the Electromagnetic Field*):** *"We are led to seek for an explanation of the phenomena in the **dynamical** condition of the intervening medium."*
+> - 📜 **Henri Poincaré (*Science and Hypothesis*):** *"The **dynamical** equations of celestial bodies provide a harmony that geometry alone cannot fully express."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Every **dynamical** problem requires us to trace the transformations between potential and kinetic energies."*

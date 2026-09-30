@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dyna.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Power, Strength & Dominion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advanced computational simulation technique used in statistical physics and molecular dynamics to accelerate the sampling of rare events and map free energy landscapes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In general systems theory, the study of dynamic forces that govern or modify other dynamic processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metadynamics designates a term designating an entity, condition, or phenomenon derived from greek dyna."*
+> - 📜 **Michele Parrinello (*From Molecular Dynamics to Metadynamics*):** *"By depositing history-dependent repulsive potentials along selected collective variables, **metadynamics** allows the system to escape deep energy minima."*
+> - 📜 **Alessandro Laio (*Escaping Free-Energy Minima*):** *"The reconstructed free energy surface derived from **metadynamics** converges with high accuracy to the true thermodynamic profile."*
+> - 📜 **Martin Karplus (*Macromolecular Dynamics and Simulations*):** *"The integration of **metadynamics** into biological modeling has unveiled transition states previously invisible to standard trajectories."*

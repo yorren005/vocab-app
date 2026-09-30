@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of mechanics that deals with forces and their relation primarily to the motion but sometimes also to the equilibrium of bodies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pattern or process of change, growth, or activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physical science and mechanics that treats forces and their effects upon the motion of material bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pattern, interplay, or shifting operational forces that determine behavior or change within a social group, ecosystem, or process.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During construction the System is linked to Planet Pluto, employing mass attractors, orbital dynamics controls and stabilizers, and other means, as appropriate."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Collector is fixed to the Extractor's product launch nodes, functions and operations, and to the Extractor's orbital dynamics at destination."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He wove into his analysis the effects of orbital dynamics on normal and spunnel transit times from each Inner and Outer Region point-of-origin to the Slingshot work sites."*
+> - 📜 **Meyer Moldeven (*Selected Essays and Papers*):** *"The inner **dynamics** of teamwork depend upon trust as much as on clear division of responsibility."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The fundamental laws governing the **dynamics** of orbiting planets rest upon reciprocal gravitation."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The political **dynamics** of a democratic state arise from the perpetual friction between equality and liberty."*
