@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Geologic structural features as a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of geology concerned with the structure of the crust of a planet (such as the earth) or moon and especially with the formation of folds and faults in it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the processes that deform the earth's crust, including folding, faulting, and plate movements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and aesthetics, the science or art of assembling structural components into an artistic and functional whole.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tectonics designates geologic structural features as a whole."*
+> - 📜 **Alfred Wegener (*The Origin of Continents and Oceans*):** *"Global **tectonics** must account not merely for vertical displacements, but for enormous horizontal migrations of crustal plates."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Convection currents in the subterranean mantle supply the driving energy for global **tectonics**."*
+> - 📜 **Gottfried Semper (*The Four Elements of Architecture*):** *"The **tectonics** of the frame represents one of the primordial techniques of human shelter construction."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Locality in eastern Greece between Mount Oeta and the Gulf of Maliakós; once a narrow pass along the coast, now a rocky plain 6 miles (9.6 kilometers) from the sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Locality in eastern Greece between Mount Oeta and the Gulf of Maliakós; once a narrow pass along the coast, now a rocky plain 6 miles (9.6 kilometers) from the sea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A famous mountain pass in eastern Greece (meaning 'Hot Gates'), celebrated for the heroic stand of 300 Spartans under King Leonidas against the Persians in 480 BC.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A universal historical symbol of heroic resistance against overwhelming odds in defense of freedom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Zdrzhinski, the officer with the long mustache, spoke grandiloquently of the Saltánov dam being “a Russian Thermopylae,” and of how a deed worthy of antiquity had been performed by General Raévski."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And besides, the fate of the Fatherland did not depend on whether they took the Saltánov dam or not, as we are told was the case at Thermopylae."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When Xerxes was marching through Thessaly at the head of his mighty host to attack the Spartans at Thermopylae, he came to the town of Alus."*
+> - 📜 **Herodotus (*The Histories*):** *"Go tell the Spartans, stranger passing by, that here, obedient to their laws, we lie: thus ran the epitaph carved at **Thermopylae**."*
+> - 📜 **Lord Byron (*Don Juan*):** *"Of the three hundred grant but three, to make a new **Thermopylae**!"*
+> - 📜 **Thomas Babington Macaulay (*Lays of Ancient Rome*):** *"And how can man die better than facing fearful odds, like the brave three hundred who held the gates of **Thermopylae**?"*

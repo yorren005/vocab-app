@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having stories as indicated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having stories as indicated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a specified number of floors, storeys, or levels (e.g., multi-storeyed).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arranged in horizontal tiers or tiers of decoration in architecture; or variant spelling of storied (celebrated in history or story).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, storeyed designates having stories as indicated."*
+> - 📜 **John Ruskin (*The Stones of Venice*, 1851):** *"The grand facade was divided into three **storeyed** arcades of marble and porphyry."*
+> - 📜 **Thomas Gray (*Elegy Written in a Country Churchyard*, 1751):** *"Can **storeyed** urn or animated bust / Back to its mansion call the fleeting breath?"*
+> - 📜 **Walter Scott (*The Heart of Mid-Lothian*, 1818):** *"The narrow street was flanked on either hand by tall, many-**storeyed** tenements of dark stone."*

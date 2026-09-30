@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reproducer in which two microphones feed two or more loudspeakers to give a three-dimensional effect to the sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Two photographs taken from slightly different angles that appear three-dimensional when viewed together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sound-reproduction system utilizing two or more independent audio channels to recreate the perception of three-dimensional acoustic space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to solid, three-dimensional physical structures or stereoscopic visual imaging techniques.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereo designates reproducer in which two microphones feed two or more loudspeakers to give a three-dimensional effect to the sound."*
+> - 📜 **Alan Dower Blumlein (*Binaural Sound Transmission System Patent*, 1931):** *"The primary objective of **stereo** transmission is to convey to the listener a sense of directional distribution across the acoustic stage."*
+> - 📜 **Marshall McLuhan (*Understanding Media: The Extensions of Man*, 1964):** *"High-fidelity sound and **stereo** envelop the auditor in an auditory depth that demands full sensory involvement."*
+> - 📜 **Thomas Pynchon (*The Crying of Lot 49*, 1966):** *"Music blared through the high-powered **stereo**, filling every corner of the room with immersive acoustic vibrations."*

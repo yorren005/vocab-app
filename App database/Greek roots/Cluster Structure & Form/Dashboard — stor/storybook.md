@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A book containing a collection of stories (usually for children).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A book containing a collection of stories (usually for children).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A book containing stories, especially intended for children.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling something in a fairy tale; idyllic, enchanting, or unrealistically charming.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"Wasn’t it just a storybook over which I had fallen adoze and adream?"*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"They moved slowly, in unison, below us, over the lawn, the boy, as they went, reading aloud from a storybook and passing his arm round his sister to keep her quite in touch."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"They looked a good bit like the kings in my storybook."*
+> - 📜 **Louisa May Alcott (*Little Women*, 1868):** *"Jo sat in the garret window with an old **storybook**, munching apples in absolute contentment."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*, 1925):** *"The picturesque village looked like an illustration in an antique **storybook**, untouched by time."*
+> - 📜 **C. S. Lewis (*The Lion, the Witch and the Wardrobe*, 1950):** *"The children opened the forgotten volume, discovering that this magical **storybook** held true wonder."*

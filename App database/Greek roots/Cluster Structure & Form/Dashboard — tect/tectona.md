@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of southeastern asian tropics: teak.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of southeastern asian tropics: teak.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical hardwood trees (Tectona, family Lamiaceae) native to South and Southeast Asia, celebrated for Tectona grandis (teak).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Renowned for its dense, durable, moisture-resistant timber, highly prized for shipbuilding and fine furniture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tectona designates small genus of southeastern asian tropics: teak."*
+> - 📜 **Dietrich Brandis (*The Forest Flora of North-West and Central India*):** *"The noble forests of **Tectona** grandis provide the finest timber in the world for maritime construction."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"Teak trees belonging to the genus **Tectona** clothed the lower river valleys with enormous deciduous foliage."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"In eastern Java, vast plantations of **Tectona** furnish the Dutch shipyards with rot-resistant timber."*

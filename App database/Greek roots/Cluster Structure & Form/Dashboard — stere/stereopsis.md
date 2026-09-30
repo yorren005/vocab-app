@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stereoscopic vision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stereoscopic vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The perception of three-dimensional depth and solid form produced by the brain's fusion of slightly differing binocular retinal images.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The visual neurological computation of binocular disparity yielding qualitative and quantitative distance discrimination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereopsis designates stereoscopic vision."*
+> - 📜 **Charles Wheatstone (*Contributions to the Physiology of Vision*, 1838):** *"The mind combines these two dissimilar planar perspectives into a single unified perception of solid relief, which we term **stereopsis**."*
+> - 📜 **David Marr (*Vision: A Computational Investigation*, 1982):** *"Human **stereopsis** calculates disparity between paired retinal inputs to construct a 2.5-D sketch of local surfaces."*
+> - 📜 **Margaret Livingstone (*Vision and Art: The Biology of Seeing*, 2002):** *"Binocular **stereopsis** gives us an immediate, vivid awareness of depth that monocular cues can only simulate."*

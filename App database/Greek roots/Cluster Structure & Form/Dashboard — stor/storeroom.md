@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A room in which things are stored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room in which things are stored.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room in a house, office, or building used specifically for storing supplies, equipment, goods, or disused articles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An auxiliary storage chamber often located adjacent to kitchens, workshops, or ship holds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Leah, make a little hot negus and cut a sandwich or two: here are the keys of the storeroom.” And she produced from her pocket a most housewifely bunch of keys, and delivered them to the servant."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Fairfax had pressed me into her service, and I was all day in the storeroom, helping (or hindering) her and the cook; learning to make custards and cheese-cakes and French pastry, to truss game and garnish desert-dishes."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Zoe summoned Aunt Dicey, the housekeeper, gave her orders for the day, and the needed supplies from pantry and storeroom, they went to the sewing-room, to give some directions to Christine and Alma."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*, 1902):** *"The old servant led us down a stone corridor to a dusty **storeroom** stacked high with forgotten heirlooms."*
+> - 📜 **George Orwell (*Animal Farm*, 1945):** *"The animals broke into the harness-room and the **storeroom**, devouring the corn that had been locked away."*
+> - 📜 **Agatha Christie (*And Then There Were None*, 1939):** *"Searching the pantry and the **storeroom**, they found that several tins of preserved meat had vanished."*

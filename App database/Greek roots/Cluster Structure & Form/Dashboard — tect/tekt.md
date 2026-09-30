@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek tect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Structure & Form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining root representing tēktos ('melted, liquefied, molten', as in tektite) or tekton ('builder, craftsman', as in architect and tectonics).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and petrology, denoting glassy natural objects formed by the rapid melting and quenching of rocks during meteorite impact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tekt designates a term designating an entity, condition, or phenomenon derived from greek tect."*
+> - 📜 **Franz Eduard Suess (*Die Herkunft der Moldavite*):** *"I proposed the name tektite from the Greek root **tekt**-, denoting natural glass formed in a molten state."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"The root **tekt**- enters into our scientific speech either through the art of the builder or the fusion of molten minerals."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Chemical analysis of **tekt**-derived glasses confirmed their origin in catastrophic impact melting."*

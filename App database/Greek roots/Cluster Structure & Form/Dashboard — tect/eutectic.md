@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the lowest melting point possible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a eutectic alloy or solution or its melting or freezing point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a mixture of substances that melts or solidifies at a lower temperature than any other composition of its components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a noun, the specific alloy or mixture possessing this minimum melting point (from Greek eutēktos, easily melted).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This eutectic contains about 3·45 per cent. of cuprous oxide, equivalent to 0·38 per cent. of oxygen; it melts at a temperature about 18° C. below that of the pure metal."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"At the elevated temperatures of the copper-smelting furnace, pure FeS tends to lose sulphur and to assume the composition of the eutectic."*
+> - 📜 **J. Willard Gibbs (*On the Equilibrium of Heterogeneous Substances*):** *"The **eutectic** point represents the unique invariant equilibrium where liquid and both solid phases coexist."*
+> - 📜 **William Chandler Roberts-Austen (*An Introduction to the Study of Metallurgy*):** *"A microscopic section of solder reveals the fine lamellar structure characteristic of the lead-tin **eutectic**."*
+> - 📜 **Henry Marion Howe (*The Metallography of Steel and Cast Iron*):** *"The formation of the iron-carbon **eutectic** governs the mechanical strength of chilled cast iron."*

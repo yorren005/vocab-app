@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of colubridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of colubridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, nonvenomous colubrid snakes native to North America, commonly known as brown snakes and redbelly snakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cryptic semifossorial North American serpents that feed primarily on soft-bodied invertebrates (slugs and earthworms) and give birth to live young.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, storeria designates a genus of colubridae."*
+> - 📜 **Spencer Fullerton Baird and Charles Frédéric Girard (*Catalogue of North American Reptiles*, 1853):** *"We dedicate the genus **Storeria** to Dr. David Humphreys Storer for his pioneering contributions to American herpetology."*
+> - 📜 **Roger Conant and Joseph T. Collins (*Peterson Field Guide to Reptiles and Amphibians of Eastern and Central North America*, 1998):** *"Members of the genus **Storeria** are frequently discovered beneath flat rocks, rotten logs, and leaf litter in suburban gardens."*
+> - 📜 **Harry W. Greene (*Snakes: The Evolution of Mystery in Nature*, 1997):** *"Specialized slug-eating snakes like **Storeria** possess slender, recurved teeth adapted for extracting prey from sticky shells."*

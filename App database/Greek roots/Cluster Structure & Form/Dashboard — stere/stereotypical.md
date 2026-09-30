@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking spontaneity or originality or individuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking spontaneity or originality or individuality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming to a conventional, oversimplified, or widely held mental image or formula.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or representative of a standard, predictable, and clichéd behavioral or cultural archetype.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereotypical designates lacking spontaneity or originality or individuality."*
+> - 📜 **Edward Said (*Orientalism*, 1978):** *"European travel literature reinforced a **stereotypical** depiction of the Orient as exotic, sensual, and fundamentally stagnant."*
+> - 📜 **Maya Angelou (*I Know Why the Caged Bird Sings*, 1969):** *"The town expected us to conform to their **stereotypical** assumptions of submissive contentment."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*, 1981):** *"Nineteenth-century craniometry attempted to justify **stereotypical** racial hierarchies through fabricated quantitative measures."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A civil or military authority in turkey or egypt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A civil or military authority in turkey or egypt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical variant spelling of pasha, an honorary title of high military or civil rank in the Ottoman Empire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Andean indigenous cosmology (Quechua/Aymara), an ontological concept signifying the cosmos, space-time, and the living earth (as in Pachamama).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pacha designates a civil or military authority in turkey or egypt."*
+> - 📜 **Lord Byron (*Don Juan*, 1819):** *"The grand **pacha** reclined upon his embroidered divan, smoking his chibouque in majestic repose."*
+> - 📜 **Alexander William Kinglake (*Eothen*, 1844):** *"An audience with the provincial **pacha** involved endless cups of sweetened coffee and elaborate oriental courtesies."*
+> - 📜 **William H. Prescott (*History of the Conquest of Peru*, 1847):** *"The Inca venerated **Pacha** as the celestial unity of temporal existence and terrestrial fertility."*

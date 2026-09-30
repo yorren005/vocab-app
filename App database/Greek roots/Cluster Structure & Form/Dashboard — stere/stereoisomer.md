@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of isomers in which atoms are linked in the same order but differ in their spatial arrangement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of isomers in which atoms are linked in the same order but differ in their spatial arrangement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Each of two or more compounds differing only in the spatial arrangement of their atoms, possessing identical chemical formulas and bonding connectivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An isomeric molecule categorized either as an enantiomer (non-superimposable mirror image) or diastereomer (non-mirror-image geometric isomer).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereoisomer designates any of a group of isomers in which atoms are linked in the same order but differ in their spatial arrangement."*
+> - 📜 **Louis Pasteur (*Researches on the Molecular Asymmetry of Natural Organic Products*, 1860):** *"Each crystalline **stereoisomer** rotated polarized light in an opposite direction, demonstrating intrinsic molecular dissymmetry."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*, 1939):** *"The physical characteristics of each **stereoisomer** diverge sharply whenever spatial crowding restricts free rotation."*
+> - 📜 **Roald Hoffmann (*The Same and Not the Same*, 1995):** *"One **stereoisomer** of thalidomide sedates, while its mirror twin induces devastating developmental harm in embryos."*

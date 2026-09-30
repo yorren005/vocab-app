@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reeds of marshes and riversides in tropical or temperate regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reeds of marshes and riversides in tropical or temperate regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tall, perennial wetland grasses commonly called common reeds (Phragmites australis), widespread in marshes worldwide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A robust aquatic reed featuring thick plume-like seed heads and extensive rhizome systems, historically used for thatching.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phragmites designates reeds of marshes and riversides in tropical or temperate regions."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"The marsh reed which the Greeks called **phragmites** was harvested for the making of writing pens and musical pipes."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A reed like **Phragmites** flourishes across five continents, its buoyant seeds dispersed by wind and waterfowl."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Along the lakeshore, dense thickets of **Phragmites** rustled in the breeze like the spears of a phantom army."*

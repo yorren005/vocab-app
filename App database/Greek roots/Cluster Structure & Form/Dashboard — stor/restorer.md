@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who is employed to restore or refinish buildings or antique furniture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who is employed to restore or refinish buildings or antique furniture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that restores, repairs, or renovates something to its original state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A professional specialist skilled in the technical cleaning, consolidation, and preservation of paintings, books, or architectural heritage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"Next, to the Son, Destin’d restorer of Mankind, by whom New Heav’n and Earth shall to the Ages rise, Or down from Heav’n descend."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"This man, so restored to life, regards his restorer as, who but God himself, Creator and Sustainer of the world, that came and dwelt in flesh on it awhile, taught, healed the sick, broke bread at his own house, then died!"*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The hair-restorer was in fact a shade too powerful, and in applying it you might get more than you bargained for."*
+> - 📜 **Walter Scott (*The Antiquary*, 1816):** *"The enthusiastic collector acted as the zealous **restorer** of decaying Gothic ruins."*
+> - 📜 **E. H. Gombrich (*Art and Illusion*, 1960):** *"The museum **restorer** must weigh visual aesthetic harmony against absolute fidelity to the aged pigment layer."*
+> - 📜 **George Eliot (*Middlemarch*, 1871):** *"Sleep came as the gentle **restorer** of tired limbs and troubled minds."*

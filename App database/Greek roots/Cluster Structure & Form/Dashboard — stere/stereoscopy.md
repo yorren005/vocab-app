@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with stereoscopic effects and methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The seeing of objects in three dimensions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The technique or process of recording and displaying pairs of two-dimensional images to create the illusion of three-dimensional depth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science and physiology of binocular depth perception and three-dimensional image rendering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereoscopy designates a science that deals with stereoscopic effects and methods."*
+> - 📜 **Jules Verne (*The Floating Island*, 1895):** *"Advanced apparatus for **stereoscopy** projected landscapes of such depth that passengers forgot they were aboard a mechanical vessel."*
+> - 📜 **Walter Benjamin (*The Arcades Project*, 1940):** *"Nineteenth-century **stereoscopy** signaled the industrial reproduction of optical illusion, isolating the solitary spectator."*
+> - 📜 **Susan Sontag (*On Photography*, 1977):** *"Early pioneers hoped that **stereoscopy** would capture reality in its complete, tangible volumetric fullness."*

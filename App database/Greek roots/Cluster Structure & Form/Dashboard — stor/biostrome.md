@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Structure & Form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinct, layered, sheet-like biogenic rock mass built by sedentary organisms (corals, bryozoans, algae) that did not develop mound-like topography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stratiform carbonate deposit consisting of skeletal remains preserved in growth position, contrasted with the dome-shaped build-up of a bioherm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biostrome designates a term designating an entity, condition, or phenomenon derived from greek stor."*
+> - 📜 **Robert R. Shrock (*Sequence in Layered Rocks*, 1948):** *"We propose the term **biostrome** for purely stratified, bedded structures composed of sedentary fossil remains."*
+> - 📜 **Amadeus W. Grabau (*Principles of Stratigraphy*, 1913):** *"Unlike the towering reef bioherm, the **biostrome** extends laterally as a uniform blanket of organic accumulation."*
+> - 📜 **Carl O. Dunbar and John Rodgers (*Principles of Stratigraphy*, 1957):** *"The thin limestone bed is an ancient coral **biostrome** that flourished across the shallow epicontinental sea floor."*

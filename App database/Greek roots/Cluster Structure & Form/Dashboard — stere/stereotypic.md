@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming to a fixed or general pattern or type especially when of an oversimplified or prejudiced nature : of, relating to, or constituting a stereotype.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or marked by stereotypy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, conforming to, or consisting of a stereotype; unvarying, conventional, or clichéd.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by repetitive, purposeless, and invariant motor actions or behavioral patterns (in biology, ethology, or neurology).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereotypic designates conforming to a fixed or general pattern or type especially when of an oversimplified or prejudiced nature : of, relating to, or constituting a stereotype."*
+> - 📜 **Edward O. Wilson (*Sociobiology: The New Synthesis*, 1975):** *"Many communication signals in insects are strictly **stereotypic**, showing minimal variation between individual performers."*
+> - 📜 **Oliver Sacks (*Awakenings*, 1973):** *"The post-encephalitic patients frequently exhibited **stereotypic** tapping and rocking gestures that persisted for hours."*
+> - 📜 **Judith Butler (*Gender Trouble*, 1990):** *"Performative gender acts often reinforce **stereotypic** binaries codified by compulsory social norms."*

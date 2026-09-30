@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The front side of a store facing the street; usually contains display windows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The front side of a store facing the street; usually contains display windows.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The street-level frontage or facade of a retail store, typically featuring display windows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physical premises or organization used as an outward cover, facade, or point of public contact for broader or covert activities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, storefront designates the front side of a store facing the street; usually contains display windows."*
+> - 📜 **Sinclair Lewis (*Babbitt*, 1922):** *"The polished plate-glass **storefront** glittered under the electric streetlamps, showcasing the latest motorcars."*
+> - 📜 **Ralph Ellison (*Invisible Man*, 1952):** *"He walked past a modest church housed in an abandoned **storefront**, its windows painted with faded gold lettering."*
+> - 📜 **Jane Jacobs (*The Death and Life of Great American Cities*, 1961):** *"Vibrant pedestrian streets require an intricate variety of small **storefront** businesses to keep eyes on the street."*

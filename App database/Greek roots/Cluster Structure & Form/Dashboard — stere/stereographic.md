@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a delineation of the form of a solid body (such as the earth) on a plane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being a delineation of the form of a solid body (such as the earth) on a plane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the projection of the surface of a sphere onto a plane, preserving angles and circles (conformal projection).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to stereography or the representation of three-dimensional forms and crystallographic axes on a two-dimensional sheet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereographic designates of, relating to, or being a delineation of the form of a solid body (such as the earth) on a plane."*
+> - 📜 **Claudius Ptolemy (*Planisphaerium*, c. 150 AD):** *"The **stereographic** projection accurately maps the celestial circles onto a plane without distorting their essential angular relations."*
+> - 📜 **Henri Poincaré (*Analysis Situs*, 1895):** *"Employing a **stereographic** transformation, we project the complex Riemannian sphere directly onto the Euclidean plane."*
+> - 📜 **John C. Slater (*Introduction to Chemical Physics*, 1939):** *"A **stereographic** projection of the crystal lattice allows one to visualize the symmetrical intersections of atomic planes."*

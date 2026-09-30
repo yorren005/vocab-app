@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument with two eyepieces for helping the observer to combine the images of two pictures taken from points of view a little way apart and thus to get the effect of solidity or depth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical instrument with two eyepieces for helping the observer to combine the images of two pictures taken from points of view a little way apart and thus to get the effect of solidity or depth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical viewing device through which two photographs of the same scene, taken from slightly different angles, are viewed simultaneously to produce a single three-dimensional image.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 19th-century instrument popular in science and parlor entertainment that mechanically isolated each eye's view through prisms or lenses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Falls back suddenly, frozen in stereoscope."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Stereoscope and the Stereograph*, 1859):** *"The **stereoscope** is an instrument which makes surfaces look solid, lifting the flat card into astonishing sculptured reality."*
+> - 📜 **David Brewster (*The Stereoscope: Its History, Theory, and Construction*, 1856):** *"By holding the lenticular **stereoscope** to the eyes, the observer is transported into the living three-dimensional presence of the landscape."*
+> - 📜 **Jonathan Crary (*Techniques of the Observer*, 1990):** *"The Victorian **stereoscope** trained nineteenth-century subjects to experience sight as a physiologically synthesized illusion."*

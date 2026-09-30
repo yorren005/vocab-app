@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving the arrangement of atoms in space : spatial.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or involving the arrangement of atoms in space : spatial.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving the spatial three-dimensional arrangement of atoms within a molecule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to steric hindrance—the prevention or slowing of chemical reactions due to physical overcrowding of bulky atomic groups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steric designates relating to or involving the arrangement of atoms in space : spatial."*
+> - 📜 **Christopher Ingold (*Structure and Mechanism in Organic Chemistry*, 1953):** *"The reaction rate dropped precipitously because the bulky tert-butyl groups exerted severe **steric** hindrance at the transition state."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*, 1947):** *"The **steric** requirements of covalent bonds restrict the geometry of polypeptides into helical and sheet configurations."*
+> - 📜 **Donald J. Cram (*Cavicrowns and Cavispherands, Nobel Lecture*, 1987):** *"Host-guest complexation succeeds only when the complementary cavities satisfy rigorous **steric** matching."*

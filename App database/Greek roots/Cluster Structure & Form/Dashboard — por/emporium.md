@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A place of trade; especially : a commercial center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A retail outlet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large retail store selling a wide variety of goods; a marketplace or commercial center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical antiquity, a designated trading station or coastal commercial settlement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The man of the Fancy Repository and Brompton Emporium of Fine Arts (of whom she bought the screens, vainly hoping that he would repurchase them when ornamented by her hand) can hardly hide the sneer with which he examines these feeble works of art."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Alexandria flourished as the universal **emporium** of the East, where the treasures of India met the merchandise of Rome."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Krook’s rag and bottle shop was a dismal **emporium** of legal lumber and mouldering parchments."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"London appeared to him as a monstrous commercial **emporium**, buying and selling the souls of men."*

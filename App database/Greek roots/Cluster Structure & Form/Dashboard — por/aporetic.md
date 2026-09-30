@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of passage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of passage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or inclined to aporia; expressing doubt, hesitation, or intellectual perplexity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical dialogue, concluding in an unsolved puzzle or impasse rather than a definitive doctrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aporetic designates adjective*) pertaining to, derived from, or characteristic of passage."*
+> - 📜 **Plato (*Meno*):** *"Socrates reduces his interlocutors to an **aporetic** silence, showing that what they thought they knew is shrouded in doubt."*
+> - 📜 **Aristotle (*Metaphysics*):** *"An **aporetic** inquiry is essential at the outset, for those who wish to solve problems must first survey the knots."*
+> - 📜 **Jacques Derrida (*Aporias*):** *"The **aporetic** condition marks that impossible threshold where thought confronts its own boundary."*

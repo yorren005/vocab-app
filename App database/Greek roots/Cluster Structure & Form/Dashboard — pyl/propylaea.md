@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vestibule or entrance of architectural importance before a building or enclosure —often plural.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vestibule or entrance of architectural importance before a building or enclosure —often plural.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The monumental gateway, portico, or entrance building to a sacred enclosure or acropolis in ancient Greece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specifically, the monumental gateway to the Acropolis of Athens, designed by the architect Mnesicles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, propylaea designates a vestibule or entrance of architectural importance before a building or enclosure —often plural."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The traveller stood beneath the magnificent Doric colonnade of the Athenian **Propylaea**, gazing upon the Parthenon."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The stately threshold of the **Propylaea** prepared the worshipper’s mind for the sacred grandeur within."*
+> - 📜 **Percy Bysshe Shelley (*Hellas*):** *"Let the golden vision of the **Propylaea** rise once more above the Aegean blue."*

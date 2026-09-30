@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Structure & Form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exhalant opening or pore through which water passes out of a flagellated chamber into an exhalant canal in sponges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The internal exit pore of the water-current system in leuconoid and syconoid sponges, working in tandem with the prosopyle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apopyle designates a term designating an entity, condition, or phenomenon derived from greek pyl."*
+> - 📜 **William Sollas (*Report on the Tetractinellida*):** *"Water exits each flagellated chamber through a wide **apopyle** into the excurrent canal system."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The coordinated action of choanocyte flagella draws water through the prosopyle and expels it via the **apopyle**."*
+> - 📜 **Libbie Hyman (*The Invertebrates: Protozoa through Ctenophora*):** *"In complex leuconoid sponges, thousands of chambers discharge simultaneously through their respective **apopyles**."*

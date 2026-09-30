@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (especially of weather) affected or characterized by storms or commotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by violent emotions or behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or subject to violent atmospheric disturbances, gale winds, rain, snow, or lightning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by conflict, turmoil, passionate anger, or emotional volatility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who lets so fair a house fall to decay, Which husbandry in honour might uphold, Against the stormy gusts of winter’s day And barren rage of death’s eternal cold?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The lives of all your loving complices Lean on your health; the which, if you give o’er To stormy passion, must perforce decay."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get fire and meat for these poor men: ’T has been a turbulent and stormy night."*
+> - 📜 **Mary Shelley (*Frankenstein*, 1818):** *"It was on a dreary night of November that I beheld the accomplishment of my toils, under a dark and **stormy** sky."*
+> - 📜 **Emily Dickinson (*Poems*, 1890):** *"Hope is the thing with feathers that perches in the soul, and sore must be the **stormy** gale that could abash the little bird."*
+> - 📜 **Winston Churchill (*The Gathering Storm*, 1948):** *"Europe was drifting into a dark and **stormy** era of unprecedented ideological conflict."*

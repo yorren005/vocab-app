@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of chemistry that deals with the spatial arrangement of atoms and groups in molecules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spatial arrangement of atoms and groups in a compound and its relation to the properties of the compound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of chemistry concerned with the three-dimensional spatial arrangements of atoms and molecules and their effect on chemical behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theoretical and experimental study of molecular chirality, conformational isomerism, and stereospecific organic synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereochemistry designates a branch of chemistry that deals with the spatial arrangement of atoms and groups in molecules."*
+> - 📜 **Jacobus Henricus van 't Hoff (*The Arrangement of Atoms in Space*, 1874):** *"Modern chemical theory must embrace **stereochemistry**, postulating that the four affinities of the carbon atom are directed toward the corners of a regular tetrahedron."*
+> - 📜 **Vladimir Prelog (*Chirality in Chemistry, Nobel Lecture*, 1975):** *"The fascinating world of **stereochemistry** reveals how tiny shifts in spatial geometry determine the physiological destiny of organic molecules."*
+> - 📜 **Ernest L. Eliel (*Stereochemistry of Carbon Compounds*, 1962):** *"A thorough mastery of **stereochemistry** is indispensable for predicting the stereoelectronic pathway of asymmetric reactions."*

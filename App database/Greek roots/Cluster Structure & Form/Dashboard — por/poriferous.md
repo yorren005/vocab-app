@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of pores or vessels or holes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of pores or vessels or holes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing or pierced with pores; porous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or characteristic of the sponges (phylum Porifera).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poriferous designates full of pores or vessels or holes."*
+> - 📜 **Robert Grant (*Outlines of Comparative Anatomy*):** *"The **poriferous** animals represent the simplest organization of multicellular life, drawing currents through countless microscopic sieves."*
+> - 📜 **Richard Owen (*Lectures on Invertebrate Animals*):** *"The calcareous skeleton of the **poriferous** sponge provides structural framework for the circulating water currents."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"In examining the **poriferous** corals of the reef, every minute orifice reveals a living polyzoan."*

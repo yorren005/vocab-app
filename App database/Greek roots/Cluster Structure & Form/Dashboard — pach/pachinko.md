@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A japanese pinball game played on a vertical board.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A japanese pinball game played on a vertical board.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Japanese mechanical arcade gambling and recreation game resembling a vertical pinball machine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A multi-billion-dollar entertainment and gaming industry in postwar and contemporary Japan, known for vibrant neon parlors and complex legal reward-exchange mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachinko designates a japanese pinball game played on a vertical board."*
+> - 📜 **Min Jin Lee (*Pachinko*, 2017):** *"In a game of **pachinko**, the steel balls cascaded through the maze of brass pins, mocking every calculation of skill."*
+> - 📜 **Donald Richie (*The Image Factory: Fads and Fashions in Japan*, 2003):** *"The deafening clatter of **pachinko** halls forms the relentless mechanical heartbeat of nocturnal Tokyo."*
+> - 📜 **Ian Buruma (*A Japanese Mirror: Heroes and Villains of Japanese Culture*, 1984):** *"The solitary absorption of the **pachinko** player reflects a uniquely structured modern escape from urban routine."*

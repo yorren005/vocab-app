@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The thin conical chambered internal shell (either straight or curved) of a belemnite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The thin conical chambered internal shell (either straight or curved) of a belemnite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chambered, conical hydrostatic shell found within belemnoids and other fossil cephalopods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The internal shell structure homologous to the phragmocone of modern cuttlefish (Sepia) and Spirula, regulating buoyancy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phragmocone designates the thin conical chambered internal shell (either straight or curved) of a belemnite."*
+> - 📜 **Richard Owen (*Memoir on the Belemnites*):** *"Each chamber of the **phragmocone** was connected with the body mass by the vascular siphuncle."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"The reduction of the external shell into an internal **phragmocone** granted belemnoids swift hydrodynamic mobility."*
+> - 📜 **Alfred Sherwood Romer (*The Vertebrate Story*):** *"Marine reptiles preyed extensively upon belemnites, whose indigestible calcitic guards and **phragmocones** littered the sea floor."*

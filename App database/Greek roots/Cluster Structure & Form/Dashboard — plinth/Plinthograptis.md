@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plinth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Structure & Form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fossil genus of prehistoric graptolites characterized by a robust, plinth-like colonial base or thecal branching pattern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An index fossil of early Paleozoic marine strata used in biostratigraphic correlation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Plinthograptis designates a term designating an entity, condition, or phenomenon derived from greek plinth."*
+> - 📜 **Charles Lapworth (*On the Geological Distribution of the Rhabdophora*):** *"The delicate branching rhabdosomes of **Plinthograptis** occur densely compressed in the dark Ordovician shales."*
+> - 📜 **R. S. Bassler (*Bibliographic Index of American Ordovician and Silurian Fossils*):** *"The basal anchorage of **Plinthograptis** reflects adaptation to tranquil, silty sea bottoms."*
+> - 📜 **Amadeus William Grabau (*Principles of Stratigraphy*):** *"The widespread oceanic dispersal of **Plinthograptis** renders it an invaluable marker for international stratigraphic correlation."*

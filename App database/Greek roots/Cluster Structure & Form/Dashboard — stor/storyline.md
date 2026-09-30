@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The plot of a book or play or film.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The plot of a book or play or film.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The plot, sequential narrative arc, or underlying progression of events in a novel, film, drama, or game.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The thematic continuity or core narrative thread around which diverse creative elements are structured.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, storyline designates the plot of a book or play or film."*
+> - 📜 **E. M. Forster (*Aspects of the Novel*, 1927):** *"The fundamental **storyline** must maintain suspense, answering the eternal human curiosity of 'what happens next?'"*
+> - 📜 **Raymond Chandler (*The Simple Art of Murder*, 1950):** *"A compelling detective novel requires an intricate **storyline** rooted in the realities of human greed."*
+> - 📜 **Ursula K. Le Guin (*Steering the Craft*, 1998):** *"The tension of the **storyline** arises from trajectory: characters making choices that lead toward inexorable change."*

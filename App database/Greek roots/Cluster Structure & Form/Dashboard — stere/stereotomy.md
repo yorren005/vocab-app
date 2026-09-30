@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Structure & Form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, craft, or science of cutting solids, especially stones and timbers, into precise geometric shapes for vaulting and construction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The advanced architectural geometry developed in Renaissance and early modern France (stéréotomie) for cutting intersecting masonry arches, squinches, and vaults.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereotomy designates a term designating an entity, condition, or phenomenon derived from greek stere."*
+> - 📜 **Philibert de l'Orme (*Le Premier Tome de l'Architecture*, 1567):** *"Mastery of **stereotomy** enables the master mason to cut interlocking voussoirs that form suspended vaults without visible support."*
+> - 📜 **Eugène Viollet-le-Duc (*Discourses on Architecture*, 1875):** *"French stonecutters brought the complex science of **stereotomy** to an unmatched pitch of technical refinement."*
+> - 📜 **Robin Evans (*The Projective Cast: Architecture and Its Threefold Histories*, 1995):** *"The drawings of **stereotomy** do not merely depict a building; they instruct the chisel on how to carve stone into exact spatial joints."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stereotypical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a stereotypical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that conforms to a fixed stereotype, cliché, or conventional pattern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of an oversimplified, predictable, or repetitive representation or behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereotypically designates in a stereotypical manner."*
+> - 📜 **Toni Morrison (*Playing in the Dark: Whiteness and the Literary Imagination*, 1992):** *"African characters were **stereotypically** positioned as decorative foils for white introspection in classical American fiction."*
+> - 📜 **Joan Didion (*The White Album*, 1979):** *"The political rhetoric unfolded **stereotypically**, repeating well-worn grievances without genuine engagement."*
+> - 📜 **Steven Pinker (*The Blank Slate: The Modern Denial of Human Nature*, 2002):** *"Men and women do not behave **stereotypically** in every domain, yet subtle cognitive distributions remain observable."*

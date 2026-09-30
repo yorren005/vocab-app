@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of pachyderms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of pachyderms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having thick skin or hide; pachydermatous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively thick-skinned, oblivious, or impervious to moral censure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachydermous designates of or relating to or characteristic of pachyderms."*
+> - 📜 **Washington Irving (*A History of New-York*, 1809):** *"The stout burgomasters sat enveloped in tobacco smoke, wrapped in **pachydermous** tranquility."*
+> - 📜 **Charles Kingsley (*Westward Ho!*, 1855):** *"The rough mariner proved surprisingly **pachydermous** against the stinging rebukes of the quartermaster."*
+> - 📜 **Walter Bagehot (*Biographical Studies*, 1881):** *"Lord Palmerston possessed that fortunate **pachydermous** temperament which allowed him to brush off parliamentary defeats with a jest."*

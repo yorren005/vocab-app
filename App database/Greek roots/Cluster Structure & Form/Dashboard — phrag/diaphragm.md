@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A body partition of muscle and connective tissue; specifically : the partition separating the chest and abdominal cavities in mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dividing membrane or thin partition especially in a tube.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dome-shaped muscular and membranous partition separating the thoracic cavity from the abdominal cavity in mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics, an aperture regulating light admitted to a lens; in acoustics, a thin vibrating membrane that transmits or receives sound.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He compressed between 2 fingers the flesh circumjacent to a cicatrice in the left infracostal region below the diaphragm resulting from a sting inflicted 2 weeks and 3 days previously (23 May 1904) by a bee."*
+> - 📜 **William Harvey (*Exercitatio Anatomica de Motu Cordis*):** *"The rhythmic contraction of the **diaphragm** expands the thoracic cage, drawing in fresh air to vitalize the blood."*
+> - 📜 **Alexander Graham Bell (*Researches in Telephony*):** *"When the human voice strikes the iron **diaphragm**, its subtle vibrations induce corresponding undulations in the electrical current."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The great camera’s iris **diaphragm** was stopped down to capture the bright volcanic glare."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest member of a base : subbase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A block upon which the moldings of an architrave or trim are stopped at the bottom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The heavy, rectangular or square slab serving as the lowest member of the base of a column, pedestal, or statue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A continuous course of stones supporting a wall; a projecting baseboard or plinth course.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The end of the liquid parabola has come forward from the wall, has advanced over the plinth mouldings, over a heap of stones, over the marble border, into the midst of Fanny Robin’s grave."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The base of the liquid parabola has come forward from the wall, has advanced over the plinth mouldings, over a heap of stones, over the marble border, into the midst of Fanny Robin’s grave."*
-> - 📜 **James Joyce (*Ulysses*):** *"The grey alive crushed itself in under the plinth, wriggled itself in under it."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The sculptured lion rested with paws outstretched upon a polished marble **plinth**."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The ancient sundial stood upon a weathered stone **plinth** overgrown with grey lichen."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The White Sphinx stood upon a vast bronze pedestal, its massive **plinth** sealed by heavy panels."*

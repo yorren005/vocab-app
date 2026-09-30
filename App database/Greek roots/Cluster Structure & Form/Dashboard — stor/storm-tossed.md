@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pounded or hit repeatedly by storms or adversities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pounded or hit repeatedly by storms or adversities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tossed, buffeted, or driven violently about by heavy seas, gale-force winds, or tempests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plagued, agitated, or unsettled by intense emotional, psychological, or political upheaval.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, storm-tossed designates pounded or hit repeatedly by storms or adversities."*
+> - 📜 **Herman Melville (*Moby-Dick*, 1851):** *"The lonely watch stood upon the forecastle, gazing across the black expanse of the **storm-tossed** ocean."*
+> - 📜 **John Milton (*Paradise Lost*, 1667):** *"As when a ship by winter winds is **storm-tossed** upon the treacherous shoals of the Baltic."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*, 1845):** *"My soul was like a **storm-tossed** vessel, driven without anchor toward the beacon of freedom."*

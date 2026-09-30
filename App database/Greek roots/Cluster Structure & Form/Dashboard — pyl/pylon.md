@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually massive gateway.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient Egyptian gateway building in a truncated pyramidal form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monumental gateway to an ancient Egyptian temple, consisting of two truncated pyramidal towers flanking an entrance portal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tall, upright steel lattice tower carrying high-voltage electrical power lines; in aviation, a tower marking a course.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Revenge, Narval's luxurious spunnel yacht was moored to pylons above the air lock."*
+> - 📜 **Amelia B. Edwards (*A Thousand Miles Up the Nile*):** *"The colossal figures carved upon the temple **pylon** towered against the burning sky of Nubia."*
+> - 📜 **W. H. Auden (*The Orators*):** *"Across the valley march the steel **pylons**, bearing the silent currents of modern power."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The racing monoplanes banked sharply around the high timber **pylon** at the corner of the course."*

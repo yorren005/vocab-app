@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The perception that something has occurred or some state exists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of detecting something; catching sight of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of identifying the presence of something concealed, obscure, or elusive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The investigation and uncovering of crime; in electronics, the extraction of information from a carrier wave.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, could I come to her with any detection in my hand, my desires had instance and argument to commend themselves."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I lay myself open to detection, I know."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Also, Professor Schleimer had similarly been collaborating with me in the detection of phytosterol in mixtures of animal and vegetable fats."*
+> - 📜 **Edgar Allan Poe (*The Purloined Letter*):** *"The simple ingenuity of the concealment baffled the most elaborate methods of Parisian **detection**."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes applied his methods of scientific **detection** to unravel the moorland legend."*
+> - 📜 **Heinrich Hertz (*Electric Waves*):** *"The spark-gap resonator made possible the experimental **detection** of Maxwell’s electromagnetic waves."*

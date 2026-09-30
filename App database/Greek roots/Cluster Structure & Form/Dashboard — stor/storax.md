@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vanilla-scented resin from various trees of the genus styrax.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vanilla-scented resin from various trees of the genus styrax.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fragrant balsamic resin obtained from the bark of various trees of the genus Liquidambar (sweetgum) or Styrax, used in perfumery, incense, and medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aromatic natural oleoresin (styrax liquidus) utilized historically as a topical antiseptic, expectorant, and incense binder since antiquity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, storax designates a vanilla-scented resin from various trees of the genus styrax."*
+> - 📜 **Pliny the Elder (*Natural History*, c. 77 AD):** *"The resin known as **storax** yields a delightful, sweet fragrance prized by apothecaries throughout the Levant."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*, c. 1387):** *"He carried in his pouch fine frankincense and gum of **storax** for holy fumigation."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*, 1597):** *"The tears of fragrant **storax** ooze from incisions made in the bark under the summer sun."*

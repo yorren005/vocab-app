@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A depository for goods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A depository for goods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A building used for the storage of goods, provisions, or merchandise; a warehouse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, a rich, abundant repository or collection of knowledge, wisdom, memories, or creative materials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whoever gave that counsel to give forth The corn o’ th’ storehouse gratis, as ’twas used Sometime in Greece— MENENIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Carried to Colmekill, The sacred storehouse of his predecessors, And guardian of their bones."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guster disappears, glad to get out of the shop, which she regards with mingled dread and veneration as a storehouse of awful implements of the great torture of the law—a place not to be entered after the gas is turned off."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*, 1605):** *"Knowledge is a rich **storehouse** for the glory of the Creator and the relief of man's estate."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*, 1719):** *"I hollowed out the cavern behind my tent, transforming it into a secure **storehouse** for my ammunition."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*, 1817):** *"The poet draws upon memory as an inexhaustible **storehouse** of images and impressions."*

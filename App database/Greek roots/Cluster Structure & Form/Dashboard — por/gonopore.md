@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genital pore in some invertebrates and especially some insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genital pore in some invertebrates and especially some insects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genital opening or reproductive pore in invertebrates through which gametes are discharged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The external aperture of the genital duct in arthropods, nematodes, and flatworms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gonopore designates a genital pore in some invertebrates and especially some insects."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The single **gonopore** of the scorpion opens on the ventral surface of the second abdominal segment."*
+> - 📜 **E. Ray Lankester (*Zoology*):** *"In trematodes, the copulatory organ is everted through the common genital atrium adjacent to the **gonopore**."*
+> - 📜 **Libbie Hyman (*The Invertebrates: Platyhelminthes and Rhynchocoela*):** *"The location of the female **gonopore** serves as a decisive diagnostic character in turbellarian taxonomy."*

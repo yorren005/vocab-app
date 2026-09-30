@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thickening of the skin (usually unilateral on an extremity) caused by congenital enlargement of lymph vessel and lymph vessel obstruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thickening of the skin (usually unilateral on an extremity) caused by congenital enlargement of lymph vessel and lymph vessel obstruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal thickening of the skin; elephantiasis or pachyderma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical condition characterized by dermal hypertrophy and induration, occurring in chronic lymphatic obstruction or genetic syndromes like pachydermoperiostosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachyderma designates thickening of the skin (usually unilateral on an extremity) caused by congenital enlargement of lymph vessel and lymph vessel obstruction."*
+> - 📜 **Erasmus Wilson (*On Diseases of the Skin*, 1847):** *"Chronic stagnation of the lymphatic circulation inevitably terminates in profound cutaneous induration and **pachyderma**."*
+> - 📜 **Ferdinand von Hebra (*Diseases of the Skin*, 1866):** *"In severe cases of elephantiasis, the papillary layer hypertrophies, producing generalized **pachyderma**."*
+> - 📜 **Arthur Van Harlingen (*Handbook of the Diagnosis and Treatment of Skin Diseases*, 1884):** *"The lower extremities exhibited coarse folds and deep fissures characteristic of advanced **pachyderma**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to tectonics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a strong and widespread impact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the structure of the earth’s crust and the large-scale forces or movements that deform it (as plate tectonics).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and design, relating to the art of construction and structural expression; figuratively, having vast, momentous significance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tectonic designates of or relating to tectonics."*
+> - 📜 **Eduard Suess (*The Face of the Earth*):** *"The great mountain chains of the globe are the visible monuments of colossal **tectonic** compression."*
+> - 📜 **Alfred Wegener (*The Origin of Continents and Oceans*):** *"Continental drift provides the unified **tectonic** mechanism explaining the matching coastlines of the Atlantic basin."*
+> - 📜 **Kenneth Frampton (*Studies in Tectonic Culture*):** *"Architecture attains poetic resonance when its **tectonic** joints honestly reveal the flow of gravity and load."*

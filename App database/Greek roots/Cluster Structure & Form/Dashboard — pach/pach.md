@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Structure & Form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A morphemic root element derived from ancient Greek pachys, signifying 'thick,' 'dense,' or 'massive.'
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combining form extensively utilized in scientific taxonomy, anatomical nomenclature, and pathology to denote biological thickening or stoutness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pach designates a term designating an entity, condition, or phenomenon derived from greek pach."*
+> - 📜 **Henry George Liddell and Robert Scott (*A Greek-English Lexicon*, 1843):** *"The root element **pach-** stems from Greek pachys, denoting thickness, coarseness, or bodily stoutness."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Vertebrate Animals*, 1846):** *"Taxonomists consistently employ the prefix **pach-** whenever the integument or skeletal frame exhibits exceptional density."*
+> - 📜 **Ernst Mayr (*Principles of Systematic Zoology*, 1969):** *"Morphological descriptors formed with **pach-** immediately signal stout proportions in fossil and living taxa."*

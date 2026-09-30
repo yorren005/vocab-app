@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sheep frogs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sheep frogs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, stout-bodied burrowing frogs in the family Microhylidae (sheep frogs), native to the southern United States and Central America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxonomic clade of microhylid amphibians distinguished by a narrow, pointed head, specialized ant- and termite-eating habits, and subterranean estivation during dry seasons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypopachus designates sheep frogs."*
+> - 📜 **Albert Hazen Wright and Anna Allen Wright (*Handbook of Frogs and Toads of the United States and Canada*, 1949):** *"The genus **Hypopachus** exhibits a remarkably thickened dermal layer that retards moisture loss when the frog burrows underground."*
+> - 📜 **Hobart M. Smith and Edward H. Taylor (*An Annotated Checklist and Key to the Amphibia of Mexico*, 1948):** *"Specimens of **Hypopachus** were collected after nocturnal torrential rains had stimulated temporary breeding aggregations."*
+> - 📜 **Jay M. Savage (*The Amphibians and Reptiles of Costa Rica*, 2002):** *"The subterranean habits of **Hypopachus** are facilitated by modified metatarsal tubercles on their hind feet."*

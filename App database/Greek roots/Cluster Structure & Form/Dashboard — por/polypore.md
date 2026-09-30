@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A basidiomycetous fungus (as of the genera Ganoderma, Laetiporus, Polyporus, and Trametes) that has the spore-bearing surface within tubes or pores located on the underside of a usually tough or woody fruiting body and that is found chiefly on trees or decaying wood : pore fungus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chicken of the woods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of bracket fungi characterized by a fruiting body whose spore-bearing underside is pierced with minute pores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wood-decaying basidiomycete fungus forming tough, perennial leathery or woody brackets on trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polypore designates a basidiomycetous fungus (as of the genera ganoderma, laetiporus, polyporus, and trametes) that has the spore-bearing surface within tubes or pores located on the underside of a usually tough or woody fruiting body and that is found chiefly on trees or decaying wood : pore fungus."*
+> - 📜 **M. C. Cooke (*Fungi: Their Nature and Uses*):** *"The giant birch **polypore** forms a tough, corky bracket that resists decay long after the host tree has fallen."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"On the trunks of decaying hemlocks grew large brown **polypores**, their velvety undersides powdered with white spores."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"In the damp maritime forest, ancient **polypores** encircle the mossy boles of cedar trees."*

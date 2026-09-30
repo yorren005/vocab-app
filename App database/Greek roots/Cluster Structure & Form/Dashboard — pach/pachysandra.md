@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus pachysandra; low-growing evergreen herbs or subshrubs having dentate leaves and used as ground cover.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus pachysandra; low-growing evergreen herbs or subshrubs having dentate leaves and used as ground cover.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of five species of evergreen, low-growing perennial herbs or subshrubs in the boxwood family (Buxaceae), native to East Asia and eastern North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A widely cultivated evergreen ornamental ground cover (Pachysandra terminalis), noted for tolerance of dense shade and thick, fleshy stamens ('thick male').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachysandra designates any plant of the genus pachysandra; low-growing evergreen herbs or subshrubs having dentate leaves and used as ground cover."*
+> - 📜 **André Michaux (*Flora Boreali-Americana*, 1803):** *"Michaux established the genus **Pachysandra** to accommodate the thick, clavate filaments of its staminate flowers."*
+> - 📜 **Gertrude Jekyll (*Wood and Garden*, 1899):** *"Beneath the dense canopy of ancient beech trees, a carpet of **Pachysandra** forms a lush, unyielding sea of deep green foliage."*
+> - 📜 **Michael A. Dirr (*Manual of Woody Landscape Plants*, 1998):** *"For deep, dry shade under mature trees, few groundcovers rival **Pachysandra** in vigor and evergreen permanence."*

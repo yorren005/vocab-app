@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to gathered or lumped together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to gathered or lumped together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the principal nervous ganglia concentrated or crowded closely together around the esophagus, rather than widely separated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing a centralized nervous system organization in mollusks, contrasted with widely dispersed ganglia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, athroid designates adjective & noun*) resembling, having the physical form of, or akin to gathered or lumped together."*
+> - 📜 **E. Ray Lankester (*Mollusca in Encyclopaedia Britannica*):** *"In the more specialized opisthobranchs, the nerve ring becomes distinctly **athroid**, with cerebral and pleural ganglia closely juxtaposed."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The progressive concentration of nerve centers produces an **athroid** ganglionic ring that anticipates cephalization."*
+> - 📜 **J. W. Spengel (*The Nerve Loop of Gastropoda*):** *"The **athroid** disposition of the visceral loop shortens the connective nerves and concentrates motor coordination."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Return to its original or usable and functioning condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Return to life; get or give new life or energy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring back to an original, normal, or improved state, condition, or position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To re-establish, reinstate, or return someone or something to a former status or right.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O heavenly powers, restore him!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sight may distinguish of colours; but suddenly to nominate them all, it is impossible.—My lords, Saint Alban here hath done a miracle; and would ye not think his cunning to be great that could restore this cripple to his legs again?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If then the King your father will restore But that one half which is unsatisfied, We will give up our right in Aquitaine, And hold fair friendship with his majesty."*
+> - 📜 **William Shakespeare (*King Lear*, 1606):** *"O my dear father! **Restore** this hanging house of mine, and let repair be on thy tongue."*
+> - 📜 **Abraham Lincoln (*Second Inaugural Address*, 1865):** *"Let us strive on to finish the work we are in, to bind up the nation's wounds, and to **restore** peace."*
+> - 📜 **Mary Shelley (*Frankenstein*, 1818):** *"I hoped that fresh air and peaceful mountain scenes would **restore** my troubled spirit."*

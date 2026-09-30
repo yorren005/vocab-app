@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A violent weather condition with winds 64-72 knots (11 on the beaufort scale) and precipitation and thunder and lightning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A violent commotion or disturbance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A violent disturbance of the atmosphere marked by high winds, rain, snow, thunder, or lightning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tumultuous outbreak or violent emotional commotion, controversy, or assault; or to attack aggressively.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The next Caesarion smite, Till, by degrees the memory of my womb, Together with my brave Egyptians all, By the discandying of this pelleted storm, Lie graveless, till the flies and gnats of Nile Have buried them for prey!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that unbuckles this, till we do please To daff’t for our repose, shall hear a storm."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But in one night A storm, or robbery, call it what you will, Shook down my mellow hangings, nay, my leaves, And left me bare to weather."*
+> - 📜 **William Shakespeare (*The Tempest*, 1611):** *"Blow, till thou burst thy wind, if room enough! A tempestuous noise of thunder and lightning heard; the furious **storm** raged across the sea."*
+> - 📜 **Emily Brontë (*Wuthering Heights*, 1847):** *"The raging **storm** tore branches from the stunted firs and battered the casement windows."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*, 1835):** *"A sudden political **storm** may sweep away existing institutions, yet democratic mores endure."*

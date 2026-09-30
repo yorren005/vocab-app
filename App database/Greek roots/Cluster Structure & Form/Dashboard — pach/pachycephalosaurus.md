@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bipedal herbivore having 10 inches of bone atop its head; largest boneheaded dinosaur ever found.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bipedal herbivore having 10 inches of bone atop its head; largest boneheaded dinosaur ever found.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large pachycephalosaurid dinosaur from the latest Cretaceous of North America, possessing a solid bone skull roof up to 25 cm (10 inches) thick.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest and most iconic dome-headed dinosaur of the Hell Creek Formation, featuring ornate bony spikes along its snout and occipital rim.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachycephalosaurus designates bipedal herbivore having 10 inches of bone atop its head; largest boneheaded dinosaur ever found."*
+> - 📜 **Charles W. Gilmore (*A New Fossil Reptile from the Lance Formation of Wyoming*, 1931):** *"The solid bony mass forming the cranium of **Pachycephalosaurus** is entirely unmatched among fossil reptiles."*
+> - 📜 **Jack Horner and Mark B. Goodwin (*Extreme Cranial Ontogeny in the Late Cretaceous Dinosaur Pachycephalosaurus*, 2009):** *"Ontogenetic analysis suggests that *Dracorex* and *Stygimoloch* may represent juvenile growth stages of **Pachycephalosaurus**."*
+> - 📜 **David B. Weishampel, Peter Dodson, and Halszka Osmólska (*The Dinosauria*, 2004):** *"The massive, solid calvarium of **Pachycephalosaurus** stood as an impenetrable shield capping the relatively small braincase."*

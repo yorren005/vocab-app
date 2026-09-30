@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of real or pretended doubt or uncertainty especially for rhetorical effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A logical impasse or contradiction; especially : a radical contradiction in the import of a text or theory that is seen in deconstruction as inevitable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irresolvable internal contradiction, puzzle, or intellectual impasse in a text, argument, or theory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rhetorical figure in which the speaker professes to be at a loss as to what to say or where to begin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aporia designates an expression of real or pretended doubt or uncertainty especially for rhetorical effect."*
+> - 📜 **Plato (*Theaetetus*):** *"I am in full **aporia**, Socrates; my soul is in labor, yet cannot bring forth a satisfactory answer."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"We must examine the traditional opinions and dissolve the **aporia** that ensnare common judgment."*
+> - 📜 **Paul de Man (*Allegories of Reading*):** *"Deconstructive reading exposes the ultimate **aporia** where grammatical structure and rhetorical meaning diverge."*

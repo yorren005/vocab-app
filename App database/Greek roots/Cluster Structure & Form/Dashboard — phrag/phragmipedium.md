@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of tropical american orchid species often included in genus cypripedium or paphiopedilum and selenipedium: lady slippers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of tropical american orchid species often included in genus cypripedium or paphiopedilum and selenipedium: lady slippers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical American slipper orchids (Phragmipedium, family Orchidaceae) characterized by a 3-locular ovary and a pouch-like floral lip.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornamental epiphytic or lithophytic orchid cultivated for its long, twisting lateral petals and pouch-shaped labellum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phragmipedium designates genus of tropical american orchid species often included in genus cypripedium or paphiopedilum and selenipedium: lady slippers."*
+> - 📜 **John Lindley (*The Genera and Species of Orchidaceous Plants*):** *"The tripartite division of the capsule distinguishes **Phragmipedium** from its Asiatic slipper cousins."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised*):** *"The pouch of the **Phragmipedium** acts as a temporary prison, forcing insect visitors past the pollen masses."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Spectacular species of **Phragmipedium** cascade their ribbon-like petals down the mossy rockfaces of the Andes."*

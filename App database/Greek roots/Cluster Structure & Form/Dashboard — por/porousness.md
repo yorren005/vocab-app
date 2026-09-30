@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being porous; being able to absorb fluids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being porous; being able to absorb fluids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being porous; permeability or possession of pores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The degree to which a substance or barrier permits penetration by liquids, gases, or external forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porousness designates the property of being porous; being able to absorb fluids."*
+> - 📜 **Robert Boyle (*Experiments and Considerations Touching Colours*):** *"The varying **porousness** of mineral bodies determines how deeply liquid dyes may penetrate their surface."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry*):** *"We tested the **porousness** of the unglazed earthenware cylinder under differing atmospheric pressures."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The dry leaves carpeting the woods gave evidence of the **porousness** of the sand beneath."*

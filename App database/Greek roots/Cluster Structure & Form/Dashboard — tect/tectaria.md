@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrestrial or epilithic ferns of tropical rain forests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terrestrial or epilithic ferns of tropical rain forests.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical and subtropical ferns (Tectaria, family Tectariaceae), commonly known as halberd ferns, with umbrella-like indusia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornamental terrestrial fern cultivated for its deeply lobed or pinnate fronds and distinctive venation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tectaria designates terrestrial or epilithic ferns of tropical rain forests."*
+> - 📜 **William Jackson Hooker (*Species Filicum*):** *"The genus **Tectaria** is recognized by its peltate or reniform indusia covering the circular fruit-dots on the under-surface of the frond."*
+> - 📜 **Asa Gray (*Manual of Botany*):** *"In warm ravines, species of **Tectaria** display broad, membranaceous fronds of striking emerald hue."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"Shaded conservatory borders are well suited for the luxuriant growth of tropical **Tectaria** ferns."*

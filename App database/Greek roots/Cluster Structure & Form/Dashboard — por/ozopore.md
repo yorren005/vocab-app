@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek por.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Structure & Form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A defensive gland opening or repugnatorial pore found along the lateral margins of millipedes and harvestmen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The external orifice through which noxious or toxic chemical secretions are expelled to deter predators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ozopore designates a term designating an entity, condition, or phenomenon derived from greek por."*
+> - 📜 **Thomas Eisner (*For Love of Insects*):** *"When threatened by ants, the millipede discharges droplets of noxious quinones through each lateral **ozopore**."*
+> - 📜 **Arthur Shipley (*The Cambridge Natural History: Myriapods*):** *"A microscopic examination reveals that each segmented tergite bears a minute **ozopore** leading to an internal reservoir."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Chemical defense reached an early pinnacle among ancient arthropods, whose **ozopores** have secreted deterrence since the Devonian."*

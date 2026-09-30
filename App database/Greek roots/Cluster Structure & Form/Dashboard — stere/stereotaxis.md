@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Structure & Form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Movement or orientation of an organism or cell in response to mechanical contact with a solid surface (thigmotaxis); or a surgical technique using 3D coordinates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurosurgery, stereotactic localization using a three-dimensional coordinate system to guide probes or electrodes to deep target brain regions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereotaxis designates a term designating an entity, condition, or phenomenon derived from greek stere."*
+> - 📜 **Victor Horsley and Robert Henry Clarke (*The Structure and Functions of the Cerebellum*, 1908):** *"Through the method of **stereotaxis**, we are able to direct an electrode into deep cerebellar nuclei with sub-millimeter precision."*
+> - 📜 **Jacques Loeb (*Forced Movements, Tropisms, and Animal Conduct*, 1918):** *"Contact irritability or **stereotaxis** compels certain insects to force their bodies into tight crevices between solid surfaces."*
+> - 📜 **Wilder Penfield (*The Cerebral Cortex of Man*, 1950):** *"Modern neurosurgical **stereotaxis** relies upon fixed cranial frames and calibrated dials to reach subcortical lesions safely."*

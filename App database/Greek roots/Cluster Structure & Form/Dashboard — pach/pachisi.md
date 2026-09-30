@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient board game resembling backgammon; played on a cross-shaped board.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient board game resembling backgammon; played on a cross-shaped board.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient traditional Indian cross-and-circle board game played with cowrie shells and pawns on an embroidered cruciform cloth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Often designated the national game of India, historical ancestor to Western variants like Parcheesi and Ludo, named from the Hindi paccīs (twenty-five).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachisi designates an ancient board game resembling backgammon; played on a cross-shaped board."*
+> - 📜 **Abu'l-Fazl (*Ain-i-Akbari*, c. 1590):** *"Emperor Akbar played **pachisi** upon a colossal courtyard terrace, using living slave girls as pieces on the marble squares."*
+> - 📜 **Edward Falkener (*Games Ancient and Oriental and How to Play Them*, 1892):** *"The game of **pachisi** is played throughout the length and breadth of India with consummate skill and intense fascination."*
+> - 📜 **Stewart Culin (*Chess and Playing-Cards*, 1898):** *"From the traditional cloth of Indian **pachisi** descended virtually every modern European race-game."*

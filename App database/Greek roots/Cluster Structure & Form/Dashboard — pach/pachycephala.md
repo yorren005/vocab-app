@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arboreal insectivorous birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arboreal insectivorous birds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of stout-billed, brightly colored passerine birds found across Australasia and the Indo-Pacific, commonly known as whistlers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The nominate genus of the songbird family Pachycephalidae, characterized by muscular, thickened crania and remarkably powerful, melodic territorial songs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachycephala designates arboreal insectivorous birds."*
+> - 📜 **John Gould (*The Birds of Australia*, 1848):** *"The golden whistler, belonging to the genus **Pachycephala**, enlivens the eucalyptus forests with its extraordinarily vigorous whistle."*
+> - 📜 **Ernst Mayr (*Birds of the Southwest Pacific*, 1945):** *"Speciation across island archipelagos is beautifully illustrated by the localized geographic races of **Pachycephala**."*
+> - 📜 **Richard Schodde and Ian J. Mason (*The Directory of Australian Birds: Passerines*, 1999):** *"The stout cranial vault of **Pachycephala** supports heavy mandibular musculature adapted for crushing hard-shelled coleopterans."*

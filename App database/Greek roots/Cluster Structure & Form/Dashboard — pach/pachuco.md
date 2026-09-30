@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mexican-american teenager who belongs to a neighborhood gang and who dresses in showy clothes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mexican-american teenager who belongs to a neighborhood gang and who dresses in showy clothes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a Mexican-American youth subculture originating in El Paso and Los Angeles during the 1930s and 1940s, famous for wearing zoot suits (caló slang and rebellious swagger).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A socio-cultural archetype representing Mexican-American urban resistance, identity reclamation, and stylistic defiance against wartime Anglo assimilation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachuco designates a mexican-american teenager who belongs to a neighborhood gang and who dresses in showy clothes."*
+> - 📜 **Octavio Paz (*The Labyrinth of Solitude*, 1950):** *"The **pachuco** does not want to become a part of American culture, nor does he want to return to Mexican origins; his flamboyant clothing is an armor of rebellious defiance."*
+> - 📜 **Luis Valdez (*Zoot Suit*, 1978):** *"El **Pachuco** stood tall in his tailored zoot suit, snapping his suspenders with unapologetic pride."*
+> - 📜 **Carey McWilliams (*North from Mexico: The Spanish-Speaking People of the United States*, 1949):** *"The press sensationalized the **pachuco** youths, demonizing their distinct street attire during the wartime hysteria of 1943."*

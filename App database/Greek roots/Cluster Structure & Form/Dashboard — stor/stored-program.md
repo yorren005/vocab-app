@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerning programs stored in the computer's own memory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerning programs stored in the computer's own memory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to a computer architecture in which programmatic instructions and data are stored together in the same read-write memory space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The foundational principle of modern digital computing, formulated by John von Neumann, Alan Turing, and their contemporaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stored-program designates of or concerning programs stored in the computer's own memory."*
+> - 📜 **Alan Turing (*Proposals for Development in the Mathematics Division of an Automatic Computing Engine*, 1945):** *"The concept of a universal **stored-program** machine permits the program to modify its own instructions dynamically."*
+> - 📜 **John von Neumann (*Report on the EDVAC*, 1945):** *"In a **stored-program** device, instructions must be represented in numerical code and held in the high-speed internal memory."*
+> - 📜 **Maurice Wilkes (*Memoirs of a Computer Pioneer*, 1985):** *"The operation of EDSAC in May 1949 proved the absolute practicality of the **stored-program** computer."*

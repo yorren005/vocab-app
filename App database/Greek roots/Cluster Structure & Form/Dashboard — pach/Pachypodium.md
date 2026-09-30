@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Structure & Form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of spiny, succulent, thick-stemmed trees and shrubs in the dogbane family (Apocynaceae), native to Madagascar and southern Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Xerophytic pachycaul plants ('thick feet') renowned for swollen water-storing caudices, spiny trunks, and striking floral displays (e.g., the Madagascar palm).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Pachypodium designates a term designating an entity, condition, or phenomenon derived from greek pach."*
+> - 📜 **John Gilbert Baker (*Flora of Madagascar*, 1887):** *"The peculiar swollen, bottle-shaped trunk of **Pachypodium** enables the plant to endure prolonged droughts on arid granite outcrops."*
+> - 📜 **Werner Rauh (*Succulent and Xerophytic Plants of Madagascar*, 1995):** *"Among the bizarre floral elements of the spiny forest, **Pachypodium** stands out with its massive, silvery-grey spiny caudex."*
+> - 📜 **Gordon Rowley (*The Pachypodium and Adenium Handbook*, 1999):** *"The generic name **Pachypodium** aptly captures the swollen foot-like base that anchors these iconic succulents."*

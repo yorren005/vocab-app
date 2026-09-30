@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an illustrious past.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having stories as indicated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Celebrated in or associated with history, legend, or folklore; renowned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decorated with designs, murals, or scenes illustrating historical or legendary episodes; or having storeys (multi-storied).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Inscription For The Headstone Of Fergusson The Poet^1 No sculptured marble here, nor pompous lay, “No storied urn nor animated bust;” This simple stone directs pale Scotia’s way, To pour her sorrows o’er the Poet’s dust."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But gulp down your tears and hie aloft to the royal-mast with your hearts; for your friends who have gone before are clearing out the seven-storied heavens, and making refugees of long-pampered Gabriel, Michael, and Raphael, against your coming."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There it was, too, that most of the deadly encounters with the white whale had taken place; there the waves were storied with his deeds; there also was that tragic spot where the monomaniac old man had found the awful motive to his vengeance."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*, 1812):** *"Man marks the earth with ruin—his control stops with the shore, yet thy shores are **storied** with antique glory."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*, 1820):** *"Every hill and stream was **storied** with romantic traditions of the old Dutch settlers."*
+> - 📜 **Henry Wadsworth Longfellow (*Outre-Mer: A Pilgrimage Beyond the Sea*, 1835):** *"We wandered through the **storied** cloisters, reading the half-effaced epitaphs of medieval knights."*

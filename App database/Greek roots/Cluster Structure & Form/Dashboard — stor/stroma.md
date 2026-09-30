@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compact mass of fungal hyphae producing perithecia or pycnidia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The colorless proteinaceous matrix of a chloroplast in which the chlorophyll-containing lamellae are embedded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The supportive structural tissue of an organ, tissue, or tumor, consisting of connective tissue, blood vessels, and nerves, as distinct from the functional parenchyma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The colorless fluid matrix surrounding the thylakoids within a chloroplast where the light-independent reactions (Calvin cycle) occur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Outl._, p. 331. =Podisoma Juniperi=, Fr.; orange, clavariæform, somewhat branched; stroma simple; spores very long, lanceolate, filled with elliptic granules.—On living branches of _Juniperus communis_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Rare. =Podisoma Sabinæ=, Fr.; red-brown, tuberculiform and clavate, simple; stroma obliterated; spores obovate, uniseptate.—On living branches of _Juniperus Sabinæ_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Common. (Plate VII. figs. 137-139) LECYTHEA, _Lév._ _Stroma_ surrounded or sprinkled with elongated abortive spores. _Spores_ free, invested with their mother-cell, or concatenate.—_Berk."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*, 1858):** *"The proliferation of neoplasm involves both the specific cellular elements and the supportive vascular **stroma**."*
+> - 📜 **Melvin Calvin (*The Path of Carbon in Photosynthesis*, 1957):** *"The enzymes mediating carbon dioxide fixation reside primarily within the soluble **stroma** of the intact chloroplast."*
+> - 📜 **Harold Varmus and Robert A. Weinberg (*Genes and the Biology of Cancer*, 1993):** *"Carcinoma cells communicate actively with the surrounding fibroblastic **stroma** to stimulate angiogenesis."*

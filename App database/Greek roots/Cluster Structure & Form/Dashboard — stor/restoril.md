@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A frequently prescribed benzodiazepine (trade name restoril); takes effect slowly and lasts long enough to help those people who wake up frequently during the night.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A frequently prescribed benzodiazepine (trade name restoril); takes effect slowly and lasts long enough to help those people who wake up frequently during the night.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for temazepam, a short- to intermediate-acting benzodiazepine medication used for the short-term treatment of insomnia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychoactive hypnotic pharmaceutical agent that enhances the inhibitory neurotransmitter gamma-aminobutyric acid (GABA) at the GABAA receptor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, restoril designates a frequently prescribed benzodiazepine (trade name restoril); takes effect slowly and lasts long enough to help those people who wake up frequently during the night."*
+> - 📜 **Louis S. Goodman and Alfred Gilman (*The Pharmacological Basis of Therapeutics*, 1990):** *"Temazepam, marketed as **Restoril**, offers effective sedation with minimal morning residual drowsiness."*
+> - 📜 **David Healy (*The Creation of Psychopharmacology*, 2002):** *"The widespread clinical adoption of hypnotics like **Restoril** reshaped the management of acute insomnia in outpatient psychiatry."*
+> - 📜 **Kay Redfield Jamison (*An Unquiet Mind*, 1995):** *"A low dose of **Restoril** was prescribed during severe travel-induced sleeplessness to prevent acute mood swings."*

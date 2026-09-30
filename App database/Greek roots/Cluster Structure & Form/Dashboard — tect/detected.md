@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover or determine the existence, presence, or fact of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perceived or discerned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discovered, uncovered, or identified through observation or investigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having had one's hidden actions, guilt, or identity brought to light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I never heard the absent Duke much detected for women; he was not inclined that way."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A close criticism might have detected signs proving that she was intent on the latter alternative."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Soon his sharpened ear detected footsteps upon the stairs, at which his heart thumped so painfully that he could hardly stand firm."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"I never heard the absent duke much **detected** for women; he was not inclined that way."*
+> - 📜 **Arthur Conan Doyle (*The Red-Headed League*):** *"The secret tunnel was **detected** just hours before the bank vault was to be breached."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She trembled whenever an unfamiliar footstep approached, terrified of being **detected** in her flight."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of pachyderms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of pachyderms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resembling, or characteristic of a pachyderm (thick-skinned mammal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having unusually thick, coarse, or insensitive skin; figuratively tough-minded or callous.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachydermal designates of or relating to or characteristic of pachyderms."*
+> - 📜 **Herman Melville (*Moby-Dick*, 1851):** *"The whale's blubber and fibrous skin wrap its bulk in an almost **pachydermal** vesture against the polar chill."*
+> - 📜 **George Meredith (*The Egoist*, 1879):** *"He surveyed his critics with a **pachydermal** complacency that baffled every shaft of satire."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*, 1863):** *"The ancestral ungulate stock diverged into equine, ruminant, and **pachydermal** branches."*

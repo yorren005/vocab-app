@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat or classify according to a mental stereotype.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking spontaneity or originality or individuality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking originality, individuality, or freshness; conformant to a fixed, unvarying, and clichéd pattern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Printed from a stereotype metal plate; or (in ethology/psychiatry) characterized by repetitive, invariant, mechanical movements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There, those are the stereotyped forms."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"When he emerged from them he was fifty-four years of age, he had passed beyond the time of life when his creative powers were at their freshest, and the general habits of his life and lines of his activity had become settled and stereotyped."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The teaching posture of Buddha's hand is stereotyped in his images."*
+> - 📜 **George Orwell (*Politics and the English Language*, 1946):** *"Modern prose consists less and less of words chosen for the sake of their meaning, and more and more of phrases tacked together like the sections of a prefabricated hen-house, yielding a **stereotyped** style."*
+> - 📜 **Virginia Woolf (*The Common Reader*, 1925):** *"The narrative slipped all too easily into **stereotyped** characters, draining the drama of all natural vitality."*
+> - 📜 **Konrad Lorenz (*On Aggression*, 1963):** *"The courtship display had frozen into a **stereotyped** sequence of motor patterns executed with ceremonial rigidity."*

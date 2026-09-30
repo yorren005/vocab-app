@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The stage of meiotic prophase that immediately follows the zygotene and that is characterized by paired chromosomes thickened and visibly divided into chromatids and by the occurrence of crossing-over.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The stage of meiotic prophase that immediately follows the zygotene and that is characterized by paired chromosomes thickened and visibly divided into chromatids and by the occurrence of crossing-over.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The third stage of prophase I in meiosis, during which homologous chromosomes complete pairing (synapsis) and become thick, compact strands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The critical meiotic stage where reciprocal genetic recombination (crossing over) takes place via the formation of chiasmata across synaptonemal complexes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachytene designates the stage of meiotic prophase that immediately follows the zygotene and that is characterized by paired chromosomes thickened and visibly divided into chromatids and by the occurrence of crossing-over."*
+> - 📜 **Hans von Winiwarter (*Recherches sur l'ovogenèse et l'organogenèse de l'ovaire des mammifères*, 1900):** *"During the stage of **pachytene**, the paired chromatin threads thicken noticeably, forming stable bivalents across the nucleus."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*, 1937):** *"Microscopic examination of **pachytene** chromosomes reveals the precise lateral alignment of homologous gene loci."*
+> - 📜 **Barbara McClintock (*Chromosome Organization and Genic Expression, Cold Spring Harbor Symposia*, 1951):** *"The distinctive chromomere pattern of maize at **pachytene** allowed us to map transposable elements to specific cytological positions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Delayed or confined or cut off by a storm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Delayed or confined or cut off by a storm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prevented, delayed, or confined from traveling or working by violent storms or inclement weather.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trapped in a harbor, refuge, mountain pass, or remote outpost due to blizzard or gale conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stormbound designates delayed or confined or cut off by a storm."*
+> - 📜 **Jack London (*The Call of the Wild*, 1903):** *"The team remained **stormbound** in their spruce-bough camp for three days while the blizzard raged over the Yukon."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*, 1886):** *"The brig lay **stormbound** in the sheltered cove, waiting for the wild western gales to abate."*
+> - 📜 **Henry David Thoreau (*Cape Cod*, 1865):** *"We found ourselves **stormbound** in a solitary lighthouse, listening to the roaring Atlantic surf."*

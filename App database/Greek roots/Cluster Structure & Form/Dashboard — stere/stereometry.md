@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Structure & Form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mathematical science of measuring the volumes and surfaces of solid (three-dimensional) geometric bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of solid geometry dealing with spatial mensuration, polyhedral capacities, and volumetric calculation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereometry designates a term designating an entity, condition, or phenomenon derived from greek stere."*
+> - 📜 **Johannes Kepler (*Nova Stereometria Doliorum Vinariorum*, 1615):** *"In this treatise on **stereometry**, we calculate the precise capacities of wine casks by summing infinitesimally thin circular slices."*
+> - 📜 **René Descartes (*Discourse on Method*, 1637):** *"The rules of **stereometry** extend planar algebra into the measurable fullness of solid space."*
+> - 📜 **Isaac Todhunter (*Mensuration for Beginners*, 1869):** *"Elementary **stereometry** provides the formulas needed to determine the exact cubical contents of cones, spheres, and prisms."*

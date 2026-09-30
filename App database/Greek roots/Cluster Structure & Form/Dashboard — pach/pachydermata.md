@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Structure & Form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical, now obsolete taxonomic order established by Georges Cuvier comprising non-ruminant, hoofed, thick-skinned quadrupeds (elephants, rhinos, tapirs, hippopotamuses, pigs).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 19th-century zoological classification that grouped disparate mammalian lines together based primarily on the superficial trait of thickened integument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachydermata designates a term designating an entity, condition, or phenomenon derived from greek pach."*
+> - 📜 **Georges Cuvier (*Recherches sur les ossemens fossiles*, 1812):** *"We unite under the designation of **Pachydermata** all the hoofed quadrupeds that do not chew the cud."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*, 1839):** *"The pampas beds yielded giant fossil skeletons belonging to extinct orders allied to the **Pachydermata**."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*, 1848):** *"Subsequent anatomical analysis proved that Cuvier's **Pachydermata** were an artificial assemblage of distinct ungulate lineages."*

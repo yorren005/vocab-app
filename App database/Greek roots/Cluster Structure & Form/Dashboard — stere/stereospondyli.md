@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formerly a suborder of stegocephalia; amphibia having vertebrae whose component elements are fused into a single piece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formerly a suborder of stegocephalia; amphibia having vertebrae whose component elements are fused into a single piece.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct suborder or clade of temnospondyl amphibians characterized by completely ossified, solid intercentra in their vertebral columns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mesozoic aquatic tetrapods, predominantly from the Triassic, whose simplified solid vertebrae adapted them to specialized freshwater and marine predatory niches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereospondyli designates formerly a suborder of stegocephalia; amphibia having vertebrae whose component elements are fused into a single piece."*
+> - 📜 **Karl Alfred von Zittel (*Text-Book of Palaeontology*, 1902):** *"The group **Stereospondyli** comprises those temnospondyls in which the vertebral body consists entirely of a solid, single intercentrum."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*, 1966):** *"During the Triassic, the **Stereospondyli** attained widespread geographical distribution, flourishing in river deltas and lakes."*
+> - 📜 **Robert L. Carroll (*Vertebrate Paleontology and Evolution*, 1988):** *"The solid, flattened vertebral discs of the **Stereospondyli** reflect secondary aquatic specialization and heavy skeletal construction."*

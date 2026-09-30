@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to absorb fluids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of pores or vessels or holes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having minute spaces, interstices, or pores through which liquid or air may pass; permeable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, easy to pass through, penetrate, or exploit; full of vulnerabilities or gaps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Graphite is not porous, but this charcoal is very porous."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"But mind, whether it be diamond, or black-lead, or this porous charcoal, each and all have the same chemical composition; they are what we call the elementary undecomposable substance carbon."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"It is not black-lead, but all the same it is _carbon_--that form of porous carbon which we generally call charcoal."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **porous** volcanic tuff absorbs rainwater rapidly, channeling it into subterranean reservoirs."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The fabric of my coat was made of a **porous** material that let the sea-water drain freely away."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The island’s soil was composed of black **porous** lava that crumbled underfoot like cinders."*

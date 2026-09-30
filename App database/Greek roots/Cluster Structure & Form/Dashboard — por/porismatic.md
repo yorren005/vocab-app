@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of passage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of passage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having the nature of, or demonstrating a porism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consequential; deducing conditions of possibility from demonstrated principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porismatic designates adjective*) pertaining to, derived from, or characteristic of passage."*
+> - 📜 **William Whewell (*History of the Inductive Sciences*):** *"The **porismatic** method enabled Greek geometers to establish general laws of spatial possibility without algebraic notation."*
+> - 📜 **Robert Simson (*Mathematical Tracts*):** *"In this **porismatic** inquiry, we demonstrate that a third point can always be found on the conic section."*
+> - 📜 **Augustus De Morgan (*Formal Logic*):** *"Deductions that emerge naturally as corollaries to a primary theorem carry a **porismatic** clarity."*

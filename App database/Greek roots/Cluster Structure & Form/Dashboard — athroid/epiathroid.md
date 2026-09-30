@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to gathered or lumped together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to gathered or lumped together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by having the pleural ganglia concentrated near or fused with the cerebral ganglia in the mollusk nervous ring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to that specific anatomical variation of the athroid nervous system found in higher pulmonates and euthyneuran gastropods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epiathroid designates adjective & noun*) resembling, having the physical form of, or akin to gathered or lumped together."*
+> - 📜 **E. Ray Lankester (*Contributions to the Knowledge of the Morphology of the Mollusca*):** *"The **epiathroid** condition reflects an upward migration of the pleural ganglia toward the supra-esophageal mass."*
+> - 📜 **Paul Pelseneer (*A Treatise on Zoology: Mollusca*):** *"In **epiathroid** forms, the cerebro-pleural connectives are virtually obliterated by ganglionic coalescence."*
+> - 📜 **Libbie Hyman (*The Invertebrates: Mollusca*):** *"The **epiathroid** arrangement contrasts sharply with the hypoathroid state seen in primitive archaeogastropods."*

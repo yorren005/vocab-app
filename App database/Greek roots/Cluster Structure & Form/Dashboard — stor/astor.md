@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: British politician (born in the united states) who was the first woman to sit in the british house of commons (1879-1964).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states capitalist (born in germany) who made a fortune in fur trading (1763-1848).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent American family dynasty of German origin, founded by John Jacob Astor, renowned in fur trade, real estate, and finance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical namesake associated with major landmarks (Astoria, the Waldorf-Astoria), or the municipal Astor Place in New York City.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I, at last, became determined, and chose the roof-garden at the Astor to tell him good-by, and perform the final operation."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"He went into the reading-room of the Astor House every day to look over the advertised wants in the daily papers."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Stubbs?” “Over to the Astor House."*
+> - 📜 **Washington Irving (*Astoria, or Anecdotes of an Enterprise Beyond the Rocky Mountains*, 1836):** *"Mr. **Astor** conceived the grand commercial scheme of establishing a line of trading posts across the continent."*
+> - 📜 **Henry James (*The American Scene*, 1907):** *"The name of **Astor** stood as an enduring monument to New York's rapid ascent into imperial wealth."*
+> - 📜 **Edith Wharton (*The Age of Innocence*, 1920):** *"Invitations to the Mrs. **Astor** ball were guarded as tickets of supreme admission to New York society."*

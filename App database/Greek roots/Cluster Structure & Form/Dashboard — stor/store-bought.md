@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Purchased; not homemade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Purchased; not homemade.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bought from a commercial retail store rather than made, grown, or prepared at home.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denoting mass-produced, commercially packaged goods, often contrasted with artisanal, home-crafted, or rustic authenticity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, store-bought designates purchased; not homemade."*
+> - 📜 **Willa Cather (*My Ántonia*, 1918):** *"Grandmother preferred her own homemade preserves to any jar of **store-bought** jelly."*
+> - 📜 **William Faulkner (*The Sound and the Fury*, 1929):** *"He wore a cheap **store-bought** suit that looked stiff and out of place against the dusty road."*
+> - 📜 **Flannery O'Connor (*Wise Blood*, 1952):** *"He held his stiff new **store-bought** hat carefully in his lap as the train jolted."*

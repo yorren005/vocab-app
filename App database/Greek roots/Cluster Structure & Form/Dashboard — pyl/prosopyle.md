@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Structure & Form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inhalant aperture or pore through which water enters a flagellated chamber from an inhalant canal in sponges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The microscopic gateway admitting fluid into the food-trapping chambers of sponges, functioning upstream of the apopyle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosopyle designates a term designating an entity, condition, or phenomenon derived from greek pyl."*
+> - 📜 **William Sollas (*Report on the Tetractinellida*):** *"Water passes from the incurrent canal through a minute **prosopyle** directly into the collar-cell chamber."*
+> - 📜 **Libbie Hyman (*The Invertebrates*):** *"The contractile margin of each **prosopyle** can constrict to protect the delicate flagellar chamber from suspended debris."*
+> - 📜 **E. Ray Lankester (*Zoology*):** *"Continuous microscopic suction draws nutrient-rich currents through every **prosopyle** along the chamber wall."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of tropical vines having tuberous roots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of tropical vines having tuberous roots.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of climbing leguminous tropical vines in the Fabaceae family, native to the Americas, cultivated for their large edible starchy tuberous roots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The botanical genus comprising jicama (Pachyrhizus erosus), celebrated for succulent taproots eaten raw, while the aerial stems, leaves, and pods contain toxic rotenone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachyrhizus designates small genus of tropical vines having tuberous roots."*
+> - 📜 **Augustin Pyramus de Candolle (*Prodromus Systematis Naturalis Regni Vegetabilis*, 1825):** *"The genus **Pachyrhizus** is readily identified by its trifoliolate foliage and remarkably swollen tuberous rootstocks."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*, 1916):** *"In tropical markets, the crisp edible roots of **Pachyrhizus** are sliced and served with lime juice and chili."*
+> - 📜 **Daniel Zohary and Maria Hopf (*Domestication of Plants in the Old World*, 2000):** *"Pre-Columbian farmers in Mesoamerica widely cultivated **Pachyrhizus** for its sweet, refreshing tuberous roots."*

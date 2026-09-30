@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pyl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Structure & Form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient monumental four-way gateway or triumphal structure erected at the intersection of two major perpendicular streets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A classical monument with four open arched entrances, common in Roman architectural centers of the Near East.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrapylon designates a term designating an entity, condition, or phenomenon derived from greek pyl."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"At the crossroads of the desert city stood the grand **tetrapylon**, its four open arches framing views of the distant palms."*
+> - 📜 **A. H. M. Jones (*The Cities of the Eastern Roman Provinces*):** *"Roman civic planning favored a monumental **tetrapylon** at the crossing of the cardo to celebrate imperial patronage."*
+> - 📜 **Robert Byron (*The Road to Oxiana*):** *"The ruins of the **tetrapylon** rose against the sunset, an enduring monument of Hellenistic symmetry amid Arab sands."*

@@ -1,7 +1,7 @@
 # Vocabulary Database & Mobile UI Upgrade — Master Progress Log
 
 **Started At:** 2026-09-30T17:10:00+08:00  
-**Last Updated:** 2026-09-30T17:31:05+08:00  
+**Last Updated:** 2026-09-30T21:05:00+08:00  
 **Workspace:** `c:\Users\user\Desktop\Vocab app`  
 **Database Root:** `c:\Users\user\Desktop\Vocab app\App database`  
 **Checkpoint State File:** `c:\Users\user\Desktop\Vocab app\Instructions for Agent\checkpoint_state.json`
@@ -25,7 +25,10 @@
   - Audit results: 30 / 30 clusters verified pristine (0 issues remaining across 514 word notes).
   - All proper nouns, homograph traps (e.g. animal spine vs coastal ravine for *chine*, military rank vs overgrown for *rank*, Denver vs rock for *boulder*, Scottish dialect neck vs mountain cliff for *crag*, dog breed vs memorial heap for *cairn*), repeated authors, and missing quotes eradicated.
 - [ ] **Milestone 4: Individualized Curation — `Greek roots` (19,357 Words across 19 Clusters)**
-  - Root-by-root and cluster-by-cluster curation of Greek derivatives, eliminating homograph mismatches (such as `actin.md`), duplicate Primary/Secondary definitions, and synthetic placeholders.
+  - Cluster 1: `Cluster Power, Strength & Dominion` (60 words) — 100% Pristine (0 issues)
+  - Cluster 2: `Cluster Science & Inquiry` (79 words) — 100% Pristine (0 issues)
+  - Cluster 3: `Cluster Self & Identity` (131 words) — 100% Pristine (0 issues)
+  - Cluster 4: `Cluster Structure & Form` (132 words) — 100% Pristine (0 issues)
 - [ ] **Milestone 5: Individualized Curation — `Latin roots` (28,608 Words across 18 Clusters)**
   - Root-by-root and cluster-by-cluster curation of Latin derivatives, eliminating duplicate Primary/Secondary definitions, single-author repeats, and synthetic placeholders.
 - [ ] **Milestone 6: Full Verification, Re-Index, Android Sync & GitHub Commit**
@@ -46,3 +49,4 @@
 | 2026-09-30 20:47 | Milestone 4 | Completed individualized curation of Greek roots `Cluster Power, Strength & Dominion` (60 word notes across `despot`, `sthen`, `dyna`, `dynam`). Verified 0 issues via `audit-roots.mjs`. | 60 | ✅ Completed |
 | 2026-09-30 20:52 | Milestone 4 | Completed individualized curation of Greek roots `Cluster Science & Inquiry` (79 word notes across `heur`, `stoch`, `zet`, `axi`, `academ`, `an`, `organ`). Verified 0 issues via `audit-roots.mjs`. | 79 | ✅ Completed |
 | 2026-09-30 20:58 | Milestone 4 | Completed individualized curation of Greek roots `Cluster Self & Identity` (131 word notes across 10 dashboards). Verified 0 issues via `audit-roots.mjs`. | 131 | ✅ Completed |
+| 2026-09-30 21:05 | Milestone 4 | Completed individualized curation of Greek roots `Cluster Structure & Form` (132 word notes across 7 dashboards: `plinth`, `athroid`, `phrag`, `pyl`, `por`, `tect`, `stere`, `pach`, `stor`). Verified 0 issues via `audit-roots.mjs`. | 132 | ✅ Completed |

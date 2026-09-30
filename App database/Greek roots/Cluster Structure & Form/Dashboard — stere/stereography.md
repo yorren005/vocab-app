@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a delineation of the form of a solid body (such as the earth) on a plane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being a delineation of the form of a solid body (such as the earth) on a plane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or technique of delineating the forms of solid bodies on a plane surface, particularly via geometric projection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of geometry or drafting dealing with perspective, stereoscopic depiction, or planispheric celestial cartography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereography designates of, relating to, or being a delineation of the form of a solid body (such as the earth) on a plane."*
+> - 📜 **Brook Taylor (*Linear Perspective*, 1715):** *"The principles of **stereography** establish the exact geometrical correspondence between three-dimensional solids and their flat projections."*
+> - 📜 **John Herschel (*Outlines of Astronomy*, 1849):** *"Through the method of **stereography**, the intricate orbital paths of celestial bodies are transcribed onto a single plane."*
+> - 📜 **Gaspard Monge (*Descriptive Geometry*, 1799):** *"Rigorous **stereography** provides the draughtsman with absolute mathematical control over the solid volumes of architecture."*

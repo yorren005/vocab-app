@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Structure & Form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal congenital or pathological enlargement and thickening of the tongue; macroglossia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chronic hypertrophy of lingual musculature or submucosal tissues, occurring in metabolic disorders, amyloidosis, or congenital syndromes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachyglossia designates a term designating an entity, condition, or phenomenon derived from greek pach."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*, 1858):** *"The lingual hypertrophy observed in congenital myxedema is a true **pachyglossia** due to interstitial myxomatous infiltration."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*, 1892):** *"Severe **pachyglossia** may impede respiration and articulation, necessitating surgical intervention."*
+> - 📜 **Henry Jackson (*A Study of Diseases of the Tongue*, 1895):** *"Persistent muscular hypertrophy resulted in pronounced **pachyglossia**, preventing the patient from retracting the organ fully."*

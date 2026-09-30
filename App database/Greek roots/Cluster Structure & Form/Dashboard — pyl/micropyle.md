@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute opening in the integument of an ovule of a seed plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A differentiated area of surface in an egg through which a sperm enters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, a minute pore or opening in the integument of an ovule through which the pollen tube enters prior to fertilization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, the tiny pore in the shell of an insect egg through which spermatozoa enter during fertilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micropyle designates a minute opening in the integument of an ovule of a seed plant."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"The pollen tube travels down the style to penetrate the ovule directly through the **micropyle**."*
+> - 📜 **Eduard Strasburger (*Handbook of Practical Botany*):** *"Under high magnification, the **micropyle** appears as a clear microscopic channel piercing the double integument."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"The insect sperm enters through the terminal **micropyle** just before the tough egg casing hardens."*

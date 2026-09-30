@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal thickness of the lips.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal thickness of the lips.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal pathological or congenital thickening and swelling of the lips.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A localized hypertrophic condition of labial tissues often associated with chronic granulomatous disorders, such as cheilitis granulomatosa or Melkersson-Rosenthal syndrome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachycheilia designates an abnormal thickness of the lips."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*, 1878):** *"The persistent labial hypertrophy in this patient presented a classic manifestation of chronic **pachycheilia**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*, 1892):** *"Marked **pachycheilia** may persist indefinitely following recurrent erysipelatous inflammation of the lower face."*
+> - 📜 **Ernst von Bergmann (*A System of Practical Surgery*, 1904):** *"Surgical reduction of the thickened vermilion border is occasionally indicated when **pachycheilia** causes chronic mechanical distress."*

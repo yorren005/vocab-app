@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a stereotype from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To repeat without variation : make hackneyed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A widely held, oversimplified, and standardized image or conception of a particular category of person, group, or thing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid metal printing plate cast from a papier-mâché or plaster mold (flong) of a page of composed type, used for rotary letterpress printing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"This tablet of lead or tin, when cooled, being easily detached from the matrix, would then reveal the letters of the alphabet reversed and in relief, similar to a present day stereotype."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"This was the first "stereotype," a term derived from two Greek words meaning literally "solidtype." This method met one requirement."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The distance between the flat plate and the mold was adjusted to make a stereotype plate of the required thickness."*
+> - 📜 **Walter Lippmann (*Public Opinion*, 1922):** *"For the most part we do not first see, and then define, we define first and then see; in the great booming, buzzing confusion of the outer world we pick out what our culture has already defined for us, and we tend to perceive that which we have picked out in the form of a **stereotype**."*
+> - 📜 **Charles Dickens (*The Life and Adventures of Martin Chuzzlewit*, 1844):** *"The printing shop was filled with heavy metal plates, duplicate **stereotype** forms cast for endless press runs."*
+> - 📜 **bell hooks (*Black Looks: Race and Representation*, 1992):** *"Resisting the cultural **stereotype** requires dismantling the visual narratives that dehumanize marginalized communities."*

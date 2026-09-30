@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Damaged by storm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Damaged by storm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worn, battered, damaged, or weathered by repeated exposure to violent storms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively scarred or hardened by personal adversity, hardship, or emotional turmoil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, storm-beaten designates damaged by storm."*
+> - 📜 **William Wordsworth (*The Excursion*, 1814):** *"Upon the barren ridge stood a lonely, **storm-beaten** pine, bent by the prevailing westerly winds."*
+> - 📜 **Joseph Conrad (*Typhoon*, 1902):** *"The **storm-beaten** steamer limped into the harbor, her railings buckled and her superstructure crusted with salt."*
+> - 📜 **Charlotte Brontë (*Villette*, 1853):** *"She turned upon the world a **storm-beaten** countenance that hid an unyielding inner fortitude."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stormy or violent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a stormy or violent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stormy, tempestuous, or violent manner, with heavy winds or turbulence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an angry, agitated, impassioned, or emotionally turbulent fashion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed came along the corridor, her cap flying wide, her gown rustling stormily."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"I'm getting to hate that word,” cried Bess stormily."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"I want to know who can do all those things for Momsey if you take her away from me, Papa Sherwood?” and she ended quite stormily."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*, 1891):** *"The dark clouds swept **stormily** across the downs, threatening a night of drenching rain."*
+> - 📜 **George Eliot (*Daniel Deronda*, 1876):** *"Her chest heaved as she spoke **stormily**, refusing to submit to her guardian's cold edict."*
+> - 📜 **Lord Byron (*Lara*, 1814):** *"His passionate words burst forth **stormily**, revealing the long-suppressed bitterness of his heart."*

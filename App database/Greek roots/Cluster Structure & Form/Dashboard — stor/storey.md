@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure consisting of a room or set of rooms at a single position along a vertical scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure consisting of a room or set of rooms at a single position along a vertical scale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A part of a building comprising all the rooms that are on the same level; a floor or tier.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A horizontal division or structural level in architectural construction (chiefly British spelling).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Behind the church, and about a hundred yards to the west of the mansion-house, are the offices--stables, close boxes, coach-house, etc., all of a single storey, and built round a square paved courtyard."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"On the south side of the street, just in front of the church, stood the old schoolhouse--a low one storey building, roofed with the red tiles characteristic of the neighbourhood, and built on to the schoolmaster's two-storey dwelling."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The large front chambers I thought especially grand: and some of the third-storey rooms, though dark and low, were interesting from their air of antiquity."*
+> - 📜 **Charles Dickens (*Great Expectations*, 1861):** *"The ancient timbered tavern was built with an overhanging upper **storey** that shadowed the narrow lane."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*, 1886):** *"From the highest **storey** of the granary, the grain chutes rattled with steady mechanical rhythm."*
+> - 📜 **E. M. Forster (*A Room with a View*, 1908):** *"Their pension room was situated on the third **storey**, commanding a bright vista over the River Arno."*

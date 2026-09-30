@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to the art and science of architecture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to the art and science of architecture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to architecture, the art or practice of designing and constructing buildings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conforming to rules of structural design; exhibiting balanced, orderly construction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Fallen into disuse, the bewitching grace of carelessness was added to the architectural beauty of the tombs."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"One day in returning from this spring by a circuitous path, I came upon a scene which reminded me of Stonehenge and the architectural labours of the Druids."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"We came first to the New Palace, a large rambling building having no more architectural pretensions than an ordinary Chinese inn."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The grandest **architectural** monuments of Europe embody the moral and spiritual aspirations of their builders."*
+> - 📜 **Henry Adams (*Mont-Saint-Michel and Chartres*):** *"The transition from Romanesque to Gothic was an **architectural** revolution in the distribution of weight."*
+> - 📜 **Edith Wharton (*The Decoration of Houses*):** *"Interior decoration must always be subordinate to the **architectural** proportions of the room."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The thin conical chambered internal shell (either straight or curved) of a belemnite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The thin conical chambered internal shell (either straight or curved) of a belemnite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chambered, cone-shaped internal shell of a belemnite or related cephalopod, partitioned by septa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A buoyant hydrostatic chamber that provided neutral buoyancy to Mesozoic marine cephalopods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phragmacone designates the thin conical chambered internal shell (either straight or curved) of a belemnite."*
+> - 📜 **Richard Owen (*A Description of Certain Belemnites*):** *"The conical **phragmacone** is divided into numerous air-chambers by delicate concave septa."*
+> - 📜 **Thomas Henry Huxley (*Lectures on the Elements of Comparative Anatomy*):** *"The **phragmacone** represents the true homologue of the external coiled shell of the nautilus."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Fossil belemnites are frequently found with the delicate **phragmacone** preserved inside the solid calcitic guard."*

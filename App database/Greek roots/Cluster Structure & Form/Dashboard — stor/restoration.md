@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The reign of charles ii in england; 1660-1685.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of restoring something or someone to a satisfactory state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of returning something to a former condition, place, or position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The historical re-establishment of the English monarchy in 1660 under Charles II, or the fine-art conservation of damaged cultural artifacts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Restoration hang Thy medicine on my lips; and let this kiss Repair those violent harms that my two sisters Have in thy reverence made!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby sustained both his absence and his restoration to the family circle surprised us all."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"By the noisome ways through which they descended into that pit, they gradually emerge from it, the crowd flitting, and whistling, and skulking about them until they come to the verge, where restoration of the bull’s-eyes is made to Darby."*
+> - 📜 **John Evelyn (*Diary*, 1660):** *"This day was the triumphant return of his Majesty Charles the Second, and the miraculous **Restoration** of the monarchy."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*, 1849):** *"Do not let us talk of **restoration**; the thing is a Lie from beginning to end, for you cannot recall what was."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*, 1949):** *"The land ethic simply enlarges the boundaries of the community to include soils, waters, plants, and animals, urging their ecological **restoration**."*

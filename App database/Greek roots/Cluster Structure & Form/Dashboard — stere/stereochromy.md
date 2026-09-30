@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Structure & Form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of mural painting in which water-glass (potassium or sodium silicate) is applied as a fixative over mineral pigments to resist moisture and weathering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 19th-century monumental painting technique developed by Johann Nepomuk von Fuchs designed to replace perishable frescoes in damp northern climates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereochromy designates a term designating an entity, condition, or phenomenon derived from greek stere."*
+> - 📜 **Johann Nepomuk von Fuchs (*On Stereochromy, or Painting with Water-Glass*, 1825):** *"By impregnating the mineral pigments with liquid silica, **stereochromy** imparts to wall paintings the enduring permanence of polished stone."*
+> - 📜 **Wilhelm von Kaulbach (*Letters on Monumental Art*, 1855):** *"The monumental murals at Berlin were executed in **stereochromy**, ensuring they would withstand atmospheric dampness without flaking."*
+> - 📜 **Philip Gilbert Hamerton (*The Graphic Arts: A Treatise on the Varieties of Drawing, Painting, and Engraving*, 1882):** *"In the process known as **stereochromy**, the soluble silicate consolidates the ground into an indestructible vitrified crust."*

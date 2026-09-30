@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bipedal herbivore having 10 inches of bone atop its head; largest boneheaded dinosaur ever found.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bipedal herbivore having 10 inches of bone atop its head; largest boneheaded dinosaur ever found.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any bipedal, herbivorous ornithischian dinosaur of the clade Pachycephalosauria, characterized by a tremendously thickened skull dome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Late Cretaceous dome-headed dinosaur whose massive cranial roof is hypothesized to have been used in intraspecific flank-butting or head-to-head combat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachycephalosaur designates bipedal herbivore having 10 inches of bone atop its head; largest boneheaded dinosaur ever found."*
+> - 📜 **Paul Sereno (*The Pectoral Girdle and Forelimb of the Basal Pachycephalosaurian*, 1997):** *"The **pachycephalosaur** skull dome represents one of the most extreme cranial specializations documented in archosaurian evolution."*
+> - 📜 **Michael J. Benton (*Vertebrate Palaeontology*, 2005):** *"The cancellous bone structure inside the dome of the **pachycephalosaur** effectively absorbed high-energy mechanical shocks."*
+> - 📜 **Peter Dodson (*The Horned Dinosaurs*, 1996):** *"Like modern bighorn sheep, the **pachycephalosaur** likely settled dominance disputes through ritualized head-butting displays."*

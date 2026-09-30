@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Structure & Form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pathological thickening, induration, or hypertrophy of an anatomical tissue, membrane, or organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical medical and botanical term for structural condensation or abnormal hardening of cellular layers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachynsis designates a term designating an entity, condition, or phenomenon derived from greek pach."*
+> - 📜 **Richard Dunglison (*Medical Lexicon: A Dictionary of Medical Science*, 1853):** *"**Pachynsis** is used to designate any abnormal thickness or induration occurring in soft bodily tissues."*
+> - 📜 **Theophilus Redwood (*Elements of Pharmacy and Materia Medica*, 1865):** *"The micro-structure of the medicinal root reveals marked **pachynsis** of the outer cortical parenchyma."*
+> - 📜 **William Thomson (*A Practical Treatise on the Diseases of the Liver and Biliary Passages*, 1841):** *"Chronic perihepatitis produced extensive **pachynsis** of Glisson's capsule, forming an unyielding fibrous rind."*

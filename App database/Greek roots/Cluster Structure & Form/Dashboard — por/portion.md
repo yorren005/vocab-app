@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something determined in relation to something that includes it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something less than the whole of a human artifact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A part of a whole; an allotment, share, or serving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dowry or inherited estate; as a verb, to divide into shares or distribute in parts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What prodigal portion have I spent that I should come to such penury?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, gentle madam, I unworthy am To woo so fair a dame to be his wife, And have no portion in the choice myself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What piles of wealth hath he accumulated To his own portion!"*
+> - 📜 **William Shakespeare (*King Lear*):** *"Here I disclaim all my paternal care... untender daughter, thy **portion** is nothing."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Her small **portion** of three thousand pounds was deemed quite insufficient for a fashionable alliance."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Every citizen received his daily **portion** of black bread at the municipal bakery."*

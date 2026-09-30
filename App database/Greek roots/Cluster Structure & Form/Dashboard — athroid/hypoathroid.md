@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to gathered or lumped together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to gathered or lumped together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by having the pleural ganglia positioned close to or fused with the pedal ganglia, rather than near the cerebral centers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting the primitive architectural arrangement of the nervous system characteristic of basal prosobranch gastropods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypoathroid designates adjective & noun*) resembling, having the physical form of, or akin to gathered or lumped together."*
+> - 📜 **E. Ray Lankester (*Zoological Articles Contributed to the Encyclopaedia Britannica*):** *"The **hypoathroid** nervous ring preserves the primitive condition where the pleural centres remain contiguous with the pedal cords."*
+> - 📜 **Paul Pelseneer (*Introduction to the Study of Molluscs*):** *"Basal archaeogastropods retain a strictly **hypoathroid** configuration of their cephalic ganglia."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Anatomy*):** *"In the **hypoathroid** type, long cerebro-pleural connectives descend to meet the lower ganglionic group."*

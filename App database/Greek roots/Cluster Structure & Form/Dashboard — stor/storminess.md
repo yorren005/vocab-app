@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being stormy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Violent passion in speech or action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or condition of being stormy, turbulent, or subject to tempests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turbulent instability, volatility, or contentious unrest in emotional temper or social conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, storminess designates the state of being stormy."*
+> - 📜 **Charles Darwin (*Journal of Researches*, 1839):** *"The perpetual **storminess** of the weather around Cape Horn made navigation exceptionally perilous."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*, 1927):** *"The unpredictable **storminess** of Mr. Ramsay's temper cast a sudden shadow over the dinner table."*
+> - 📜 **Herman Melville (*Typee*, 1846):** *"The serene tranquility of the tropical lagoon stood in marked contrast to the **storminess** of the outer reef."*

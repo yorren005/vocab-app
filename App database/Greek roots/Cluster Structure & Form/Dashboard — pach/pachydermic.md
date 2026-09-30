@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of pachyderms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of pachyderms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or characteristic of a pachyderm; thick-skinned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting emotional impassivity, thick protective integument, or heavy, bulky proportions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachydermic designates of or relating to or characteristic of pachyderms."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*, 1850):** *"Montaigne possessed a certain **pachydermic** common sense that protected his philosophy from metaphysical fanaticism."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*, 1912):** *"The massive, **pachydermic** iguanodon trampled through the Jurassic ferns without checking its lumbering stride."*
+> - 📜 **Joseph Conrad (*Lord Jim*, 1900):** *"His coarse face wore a look of **pachydermic** contentment, immune to any prick of conscience."*

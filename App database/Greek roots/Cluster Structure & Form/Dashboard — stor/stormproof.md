@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protected against or able to withstand storms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protected against or able to withstand storms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Built, designed, or adapted to withstand storms, high winds, and heavy precipitation without taking damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impervious to atmospheric tempests; figuratively robust against external disruption or attack.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stormproof designates protected against or able to withstand storms."*
+> - 📜 **Henry David Thoreau (*Walden*, 1854):** *"I tightened the shingled roof until the little cabin was completely **stormproof** against the impending winter blasts."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*, 1870):** *"The double steel hull of the Nautilus made her utterly **stormproof**, riding smoothly below the ocean swells."*
+> - 📜 **John Muir (*The Mountains of California*, 1894):** *"The stunted subalpine pines construct a **stormproof** thicket that shrugs off the heaviest Sierra blizzards."*

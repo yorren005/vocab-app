@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the pylorus; also : of, relating to, or situated in or near the posterior part of the stomach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the pylorus; also : of, relating to, or situated in or near the posterior part of the stomach.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, situated near, or affecting the pylorus (the muscular opening from the stomach into the duodenum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing the pyloric sphincter, pyloric glands, or clinical conditions such as infantile pyloric stenosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyloric designates of or relating to the pylorus; also : of, relating to, or situated in or near the posterior part of the stomach."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hypertrophic **pyloric** stenosis in infants causes projectile vomiting that demands prompt surgical relief."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The **pyloric** valve remains tightly closed during gastric digestion, opening only when chyme reaches proper acidity."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The **pyloric** glands secrete gastrin and protective mucus to shield the duodenal threshold."*

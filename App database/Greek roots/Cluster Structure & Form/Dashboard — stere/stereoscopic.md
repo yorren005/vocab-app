@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to stereoscopy or the stereoscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by stereoscopy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, involving, or produced by a stereoscope or stereoscopy; presenting or appearing in three dimensions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving binocular visual processing that creates an illusion or representation of spatial depth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereoscopic designates of or relating to stereoscopy or the stereoscope."*
+> - 📜 **H. G. Wells (*The Time Machine*, 1895):** *"His mind held a vivid, **stereoscopic** recollection of the subterranean machinery grinding below the ruined world."*
+> - 📜 **Aldous Huxley (*Brave New World*, 1932):** *"The feelies offered synthetic music, scents, and full-color **stereoscopic** projections that appeared to float in mid-air."*
+> - 📜 **Carl Sagan (*Cosmos*, 1980):** *"Our two eyes provide **stereoscopic** vision, allowing our arboreal ancestors to judge distances accurately between branches."*

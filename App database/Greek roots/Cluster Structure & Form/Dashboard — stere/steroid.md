@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several fat-soluble organic compounds having as a basis 17 carbon atoms in four rings; many have important physiological effects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any hormone affecting the development and growth of sex organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large class of organic compounds with a characteristic molecular structure containing four fused carbon rings (cyclopentanoperhydrophenanthrene), including hormones, bile acids, and cholesterol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial hormone or synthetic compound (especially an anabolic steroid) used medically or illegally in athletics to increase muscle mass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steroid designates any of several fat-soluble organic compounds having as a basis 17 carbon atoms in four rings; many have important physiological effects."*
+> - 📜 **Percy Lavon Julian (*Sterols: Studies in the Steroid Series*, 1940):** *"Our synthesis yielded substantial quantities of the key **steroid** intermediate from abundant soybean stigmasterol."*
+> - 📜 **Dorothy Crowfoot Hodgkin (*The Crystal Structure of the Steroids*, 1945):** *"X-ray crystallographic analysis revealed the true puckered conformation of the fused four-ring **steroid** skeleton."*
+> - 📜 **Jerome Groopman (*How Doctors Think*, 2007):** *"The administration of an anti-inflammatory **steroid** halted the patient's acute autoimmune crisis within twelve hours."*

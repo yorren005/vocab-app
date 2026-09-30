@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phrag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Structure & Form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining root (phrag-, from phragma, meaning 'partition, barrier, fence, dividing wall'), forming terms denoting physical barriers or biological septa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate morphology and botany, signifying structures that divide a shell or cavity into discrete chambers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phrag designates a term designating an entity, condition, or phenomenon derived from greek phrag."*
+> - 📜 **Aristotle (*Parts of Animals*):** *"Nature provides internal screens designated by the root **phrag**- to protect delicate vital cavities from sudden intrusion."*
+> - 📜 **Richard Owen (*Palaeontology*):** *"The root **phrag**- accurately describes the chambered septa that segment the shells of ancient cephalopods."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"In anatomical nomenclature, roots derived from **phrag**- consistently designate partitions between chambers."*

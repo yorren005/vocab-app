@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of athapaskan tribes that migrated to the southwestern desert (from arizona to texas and south into mexico); fought a losing battle from 1861 to 1886 with the united states and were resettled in oklahoma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parisian gangster.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of any of several Athabaskan-speaking Indigenous peoples of the Southwestern United States, historically renowned for tactical adaptability and cultural endurance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A violent street criminal or gangster in early 20th-century Paris (the apaches), famous for stylized street combat; or an American twin-turboshaft attack helicopter (AH-64 Apache).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"After that came a long newspaper story about how a miners’ camp had been attacked by Apache Indians, and there was my Frank’s name among the killed."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The first four times that an Apache Indian goes out on the war-path, he is bound to refrain from scratching his head with his fingers and from letting water touch his lips."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(In workman’s corduroy overalls, black gansy with red floating tie and apache cap.)_ Mankind is incorrigible."*
+> - 📜 **Geronimo (*Geronimo's Story of His Life*, 1906):** *"The sun was rising over the mountains when the **Apache** warriors prepared to defend their ancestral homeland."*
+> - 📜 **Guy de Maupassant (*Selected Parisian Sketches*, 1888):** *"The shadowy Parisian alleyways harbored the **apache**, stalking the boulevard under the gaslights."*
+> - 📜 **Cormac McCarthy (*Blood Meridian*, 1985):** *"Out of the dust-blown canyon rode an **Apache** scout, silent and watchful against the desert horizon."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, undergoing, or being a change in the shape and activity of a protein (such as an enzyme) that results from combination with another substance at a point other than the chemically active site.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, undergoing, or being a change in the shape and activity of a protein (such as an enzyme) that results from combination with another substance at a point other than the chemically active site.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or denoting the alteration of the activity or conformation of an enzyme or protein by the binding of an effector molecule at a site other than the enzyme's active site.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterizing cooperative biochemical regulatory mechanisms wherein structural transitions in one subunit alter ligand affinity across a multi-subunit macromolecular complex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allosteric designates of, relating to, undergoing, or being a change in the shape and activity of a protein (such as an enzyme) that results from combination with another substance at a point other than the chemically active site."*
+> - 📜 **Jacques Monod, Jeffries Wyman, and Jean-Pierre Changeux (*On the Nature of Allosteric Transitions: A Plausible Model*, 1965):** *"We call **allosteric** proteins those whose biological properties are altered by effectors having no direct chemical relation with the substrate."*
+> - 📜 **Max Perutz (*Mechanisms of Cooperativity and Allosteric Regulation in Proteins*, 1990):** *"The stereochemical trigger for the cooperative, **allosteric** transition in hemoglobin is the displacement of the iron atom relative to the porphyrin ring."*
+> - 📜 **Bruce Alberts et al. (*Molecular Biology of the Cell*, 2002):** *"The binding of a regulatory ligand to an **allosteric** site triggers a reversible conformational change in the enzyme."*

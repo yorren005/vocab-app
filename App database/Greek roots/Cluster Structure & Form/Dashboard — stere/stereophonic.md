@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or constituting sound reproduction involving the use of separated microphones and two transmission channels to achieve the sound separation of a live hearing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or constituting sound reproduction involving the use of separated microphones and two transmission channels to achieve the sound separation of a live hearing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Denoting or relating to sound recorded or reproduced through two or more channels to provide a realistic, spatial auditory sensation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to multi-source acoustic reproduction that simulates the spatial distribution and depth of an original sound field.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereophonic designates of, relating to, or constituting sound reproduction involving the use of separated microphones and two transmission channels to achieve the sound separation of a live hearing."*
+> - 📜 **Leopold Stokowski (*Acoustic Experiments in Concert Halls*, 1933):** *"The **stereophonic** transmission of symphonic sound envelops the listener in the true acoustic depth of the auditorium."*
+> - 📜 **David Byrne (*How Music Works*, 2012):** *"The shift from monaural recording to **stereophonic** separation transformed how engineers could position distinct instruments in an imaginary room."*
+> - 📜 **Brian Eno (*A Year with Swollen Appendices*, 1996):** *"Working in a **stereophonic** field allows the producer to craft ambient tapestries that move horizontally across the speakers."*

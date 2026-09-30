@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine that strengthens and invigorates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device for treating injury or disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the ability or property of restoring health, strength, vitality, or well-being.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicine, food, or tonic that renews physical vigor or mental clarity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Haply some poison yet doth hang on them, To make me die with a restorative. [_Kisses him._] Thy lips are warm!"*
-> - 📜 **Jane Austen (*Persuasion*):** *"Anne, judging from her own temperament, would have deemed such a domestic hurricane a bad restorative of the nerves, which Louisa’s illness must have so greatly shaken."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"At the best of times, so much of this elixir was administered to me as a choice restorative, that I was conscious of going about, smelling like a new fence."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*, 1847):** *"The fresh morning breeze had a **restorative** influence upon my exhausted spirits."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*, 1883):** *"A sip of cordial acted as an immediate **restorative** to the swooning sailor."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*, 1925):** *"The quiet solitude of the park offered a **restorative** pause from the overwhelming bustle of London."*

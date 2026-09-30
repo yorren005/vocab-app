@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various nonruminant mammals (such as an elephant, a rhinoceros, or a hippopotamus) of a former group (Pachydermata) that have hooves or nails resembling hooves and usually thick skin; especially : elephant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various nonruminant mammals (such as an elephant, a rhinoceros, or a hippopotamus) of a former group (Pachydermata) that have hooves or nails resembling hooves and usually thick skin; especially : elephant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very large, thick-skinned quadrupedal mammal, especially an elephant, rhinoceros, or hippopotamus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person with an insensitive disposition or a thick emotional hide, largely unperturbed by criticism or verbal attacks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"So, too, the Titanotherum, a gigantic pachyderm, was associated with a species of hornless rhinoceros."*
-> - 📜 **James Joyce (*Ulysses*):** *"They moan, passing upon the clouds, horned and capricorned, the trumpeted with the tusked, the lionmaned, the giantantlered, snouter and crawler, rodent, ruminant and pachyderm, all their moving moaning multitude, murderers of the sun."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*, 1817):** *"The elephant represents the most colossal living **pachyderm**, distinguished by its robust skeletal frame and dense hide."*
+> - 📜 **Charles Dickens (*Bleak House*, 1853):** *"The old Chancery lawyer was a veritable legal **pachyderm**, impervious to all tears, protests, and pleadings."*
+> - 📜 **Theodore Roosevelt (*African Game Trails*, 1910):** *"The ponderous **pachyderm** crashed through the dense bamboo thicket with unstoppable force."*

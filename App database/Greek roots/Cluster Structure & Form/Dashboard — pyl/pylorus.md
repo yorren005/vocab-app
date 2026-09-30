@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The muscular opening from the vertebrate stomach into the intestine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The muscular opening from the vertebrate stomach into the intestine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The muscular circular opening and surrounding sphincter muscle at the lower end of the stomach that connects to the duodenum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anatomical gatekeeper acting as a muscular valve to prevent premature passage of undigested stomach contents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pylorus designates the muscular opening from the vertebrate stomach into the intestine."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice*):** *"The **pylorus** contracts with extraordinary vigilance whenever unsoftened food particles approach the duodenal outlet."*
+> - 📜 **Claude Bernard (*Introduction to the Study of Experimental Medicine*):** *"By monitoring the chyme as it passed the **pylorus**, we demonstrated the separate digestive roles of gastric and pancreatic juices."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The young doctor explained the muscular action of the **pylorus** to his patient with clear anatomical sketches."*

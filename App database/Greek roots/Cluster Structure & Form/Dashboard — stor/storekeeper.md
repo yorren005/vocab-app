@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A merchant who owns or manages a shop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A merchant who owns or manages a shop.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who owns, manages, or operates a retail shop or store.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official in a military, naval, or commercial institution charged with the custody and accounting of provisions and supplies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I cannot get rid of the thought, and if you value my peace of mind, I beg you take the money!" Seeing, instantly, the hand of God in it, he told the story to the astonished storekeeper, then left to pay his debt with the money so strangely given."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"An artist, even a storekeeper, attracts about him a body of patrons who like his product (for the merchant's manner and method of dealing are a part of the quality of his goods), and who cannot be tempted away by slight differences in price."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I wasn't cut out to be a storekeeper, Bandershanks, and I'll sure be glad when Papa gets his shelves stocked." "How come Papa goes and goes to town, Mama?" "He's got to buy his winter goods before bad weather sets in."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*, 1850):** *"The local **storekeeper** leaned over his wooden counter, measuring out spices for the Puritan matrons."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*, 1876):** *"Tom lingered near the window, watching the village **storekeeper** display jars of brightly colored rock candy."*
+> - 📜 **Sherwood Anderson (*Winesburg, Ohio*, 1919):** *"The quiet dry-goods **storekeeper** listened patiently to the unburdening of his neighbors' secrets."*

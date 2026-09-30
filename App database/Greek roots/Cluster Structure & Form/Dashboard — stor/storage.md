@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of storing something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A depository for goods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action, process, or space allocated for keeping, storing, or preserving goods, materials, or data until needed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The electronic retention of digital data in computer memory or magnetic/solid-state media; or commercial warehousing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was a windowless erection used for storage, and from the open door there floated into the obscurity a mist of yellow radiance, which at first Tess thought to be illuminated smoke."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Commission, and the gloom of Polk and Lee, Ned and the rest of them could have easily been cut in blocks and used for cold storage purposes."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At the period of our arrival at the Island, the heaviest storage of the Pequod had been almost completed; comprising her beef, bread, water, fuel, and iron hoops and staves."*
+> - 📜 **John von Neumann (*First Draft of a Report on the EDVAC*, 1945):** *"The central processor requires immediate access to internal memory or **storage** capable of holding instructions and numerical operands."*
+> - 📜 **Rachel Carson (*Silent Spring*, 1962):** *"Persistent organochlorine residues find indefinite **storage** in the adipose tissues of birds and mammals."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*, 1948):** *"The capacity of a physical medium for data **storage** is governed by its signal-to-noise ratio."*

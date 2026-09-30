@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek por.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Structure & Form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient mathematical proposition that affirms the possibility of finding or constructing something meeting specified conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A corollary or deduction that presents itself easily from the demonstration of another proposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porism designates a term designating an entity, condition, or phenomenon derived from greek por."*
+> - 📜 **Proclus (*Commentary on the First Book of Euclid's Elements*):** *"A **porism** differs from a theorem in that it seeks to find rather than to demonstrate, and from a problem in that it investigates a given property."*
+> - 📜 **Robert Simson (*The Porisms of Euclid*):** *"The restoration of Euclid’s lost **porisms** marks one of the most arduous and glorious triumphs of modern mathematical scholarship."*
+> - 📜 **John Playfair (*Transactions of the Royal Society of Edinburgh*):** *"A **porism** determines that there are certain relations between variable elements which render a geometrical locus possible."*

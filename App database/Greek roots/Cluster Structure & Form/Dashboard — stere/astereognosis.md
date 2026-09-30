@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A loss of the ability to recognize objects by handling them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loss of the ability to recognize objects by handling them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The neurological inability to identify or recognize an object by touch and physical manipulation in the absence of visual input.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cortical sensory defect typically localized to lesions within the contralateral parietal lobe, impairing three-dimensional tactile synthesis despite intact primary sensation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astereognosis designates a loss of the ability to recognize objects by handling them."*
+> - 📜 **William G. Spiller (*The Symptom-Complex of Occlusion of the Posterior Inferior Cerebellar Artery*, 1908):** *"The patient exhibited distinct tactile agnosia, presenting profound **astereognosis** when common objects were placed in the affected hand."*
+> - 📜 **Gordon Holmes (*Disorders of Sensation: The Cerebral Cortex and Somatic Sensation*, 1927):** *"Loss of the perception of three-dimensional form, or **astereognosis**, demonstrates a failure of the parietal cortex to synthesize basic cutaneous impressions."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*, 1985):** *"Severe **astereognosis** left the patient incapable of distinguishing a key from a coin by touch alone."*

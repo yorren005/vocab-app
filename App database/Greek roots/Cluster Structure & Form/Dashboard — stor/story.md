@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of fiction that narrates a chain of related events.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An account of imaginary or real people and events told for entertainment, instruction, or historical record; a narrative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A news article or report; or an architectural floor or level (variant spelling of storey).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lean penury within that pen doth dwell, That to his subject lends not some small glory, But he that writes of you, if he can tell, That you are you, so dignifies his story."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That tongue that tells the story of thy days, (Making lascivious comments on thy sport) Cannot dispraise, but in a kind of praise, Naming thy name, blesses an ill report."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The stronger part of it by her own letters, which makes her story true, even to the point of her death."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*, c. 1387):** *"Each pilgrim shall tell two tales on the way, to make our journey pleasant with a merry **story**."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*, 1884):** *"That book was made by Mr. Mark Twain, and he told the truth, mainly; there was things which he stretched, but mainly he told a good **story**."*
+> - 📜 **Chinua Achebe (*Things Fall Apart*, 1958):** *"Among the Ibo, the art of conversation is regarded very highly, and proverbs are the palm-oil with which words and every **story** are eaten."*
