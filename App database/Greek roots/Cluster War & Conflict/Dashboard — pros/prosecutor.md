@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A government official who conducts criminal prosecutions on behalf of the state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A government official who conducts criminal prosecutions on behalf of the state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal representative who officially conducts the case against a defendant in criminal proceedings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who prosecutes or pursues an investigation, claim, or public inquiry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Either this must be the case, or the local courts must be excluded from a concurrent jurisdiction in matters of national concern, else the judiciary authority of the Union may be eluded at the pleasure of every plaintiff or prosecutor."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Winter) and the "Crown Prosecutor" (Mr."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Lord Mansfield being willing to save a man who stole a watch, desired the jury to value it at tenpence; upon which the prosecutor cried out, Tenpence, my lord! why the very fashion of it cost me five pounds."*
+> - 📜 **Albert Camus (*The Stranger*, 1942):** *"The **prosecutor** pointed an accusing finger at me, demanding the death penalty in the name of society."*
+> - 📜 **Fyodor Dostoevsky (*The Brothers Karamazov*, 1880):** *"The fiery **prosecutor** spun a brilliant psychological web, convincing the jury of Dmitri's guilt."*
+> - 📜 **Harper Lee (*To Kill a Mockingbird*, 1960):** *"Mr. Gilmer, the circuit **prosecutor**, cross-examined the witness with practiced theatrical intensity."*

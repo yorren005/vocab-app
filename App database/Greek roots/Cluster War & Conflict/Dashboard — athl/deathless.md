@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Never dying.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Never dying.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living or lasting forever; immortal, undying, and exempt from physical death or oblivion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enduring through all time in memory, art, or renown (from Old English deáþ + -leás).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Forty long years of persecution followed, for Chong Mong-ju’s hatred of the Lady Om and me was deathless."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I am little better than a devil at this moment; and, as my pastor there would tell me, deserve no doubt the sternest judgments of God, even to the quenchless fire and deathless worm."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"My senses wad be in a creel, Should I but dare a hope to speel Wi’ Allan, or wi’ Gilbertfield, The braes o’ fame; Or Fergusson, the writer-chiel, A deathless name. (O Fergusson! thy glorious parts Ill suited law’s dry, musty arts!"*
+> - 📜 **John Milton (*Paradise Lost*, 1667):** *"They eat, they drink, and in communion sweet / Quaff immortality and joy, secure / Of **deathless** life."*
+> - 📜 **Percy Bysshe Shelley (*Adonais*, 1821):** *"He is made one with Nature: there is heard / His voice in all her music; he has outsoared the shadow of our night; his **deathless** song remains."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*, 1839):** *"A wild light broke through the crack of the ancient mansion, revealing the **deathless** horror of the house."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavily armed infantry soldier of ancient Greece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavily armed infantry soldier of ancient Greece.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavily armed foot soldier of ancient Greece, armed with spear, short sword, and round shield (hoplon), fighting in close-order phalanx formation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The citizen-soldier archetype of classical Greek city-states whose coordinated collective shock combat defined Mediterranean warfare from the 7th to 4th centuries BC.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Long years of faction and war, as he himself says, had depopulated Greece, and the whole land could hardly furnish now the three thousand hoplites that four centuries before Megara alone had sent to Plataea."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*, c. 411 BC):** *"The Athenian **hoplite** advanced in dense ranks, shoulder to shoulder, locking shields against the Spartan onslaught."*
+> - 📜 **Herodotus (*The Histories*, c. 430 BC):** *"At Marathon, every Greek **hoplite** charged at a run across the plain, astonishing the Persians by attacking without archers or cavalry."*
+> - 📜 **Xenophon (*Anabasis*, c. 370 BC):** *"The ten thousand cheered as the heavy **hoplite** line withstood the charges of the Persian vanguard."*

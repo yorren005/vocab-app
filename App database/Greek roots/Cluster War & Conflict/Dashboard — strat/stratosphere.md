@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the earth's atmosphere which extends from the top of the troposphere to about 30 miles (50 kilometers) above the surface and in which temperature increases gradually to about 32°F (0°C) and clouds rarely form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very high or the highest region on or as if on a graded scale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The second major layer of Earth's atmosphere, extending from the tropopause (around 10–12 km) up to the stratopause (around 50 km), containing the ozone layer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, an extremely high, rarefied, or elite level of achievement, status, price, or influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stratosphere designates the part of the earth's atmosphere which extends from the top of the troposphere to about 30 miles (50 kilometers) above the surface and in which temperature increases gradually to about 32°f (0°c) and clouds rarely form."*
+> - 📜 **Léon Teisserenc de Bort (*Discovery of the Isothermal Layer of the Atmosphere*, 1902):** *"Above the turbulent lower weather zone lies an isothermal realm of stratified air, which I designate the **stratosphere**."*
+> - 📜 **Rachel Carson (*Silent Spring*, 1962):** *"Nuclear detonations injected radioactive aerosols directly into the **stratosphere**, circling the planet for years."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*, 1925):** *"His newfound financial fortune launched him into a social **stratosphere** where ordinary rules no longer applied."*

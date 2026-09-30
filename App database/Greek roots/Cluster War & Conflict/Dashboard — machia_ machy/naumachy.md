@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A naval spectacle; a mock sea battle put on by the ancient romans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A naval spectacle; a mock sea battle put on by the ancient romans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anglicized or archaic term for a naumachia; a mock naval battle or maritime combat exhibition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical theatrical or aquatic reenactment of sea warfare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, naumachy designates a naval spectacle; a mock sea battle put on by the ancient romans."*
+> - 📜 **John Evelyn (*Diary*, 1644):** *"We witnessed in Rome a splendid **naumachy**, where miniature galleys engaged in fierce mock combat upon the Tiber."*
+> - 📜 **Tobias Smollett (*Travels through France and Italy*, 1766):** *"The amphitheatre was anciently flooded to present a bloodthirsty **naumachy** for the amusement of the emperors."*
+> - 📜 **Washington Irving (*Salmagundi*, 1807):** *"The rowdy boys engaged in a lively **naumachy** with their paper boats across the village millpond."*

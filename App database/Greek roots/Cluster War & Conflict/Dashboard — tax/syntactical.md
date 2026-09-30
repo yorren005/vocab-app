@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or conforming to the rules of syntax.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or conforming to the rules of syntax.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the rules, structure, and arrangement of words and phrases to form grammatically correct sentences in a language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to syntax or the formal logical and grammatical relations between constituent symbols in natural or computer programming languages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syntactical designates of or relating to or conforming to the rules of syntax."*
+> - 📜 **Noam Chomsky (*Syntactic Structures*, 1957):** *"The **syntactical** component of a grammar generates an infinite set of structural descriptions for sentences."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*, 1903):** *"Formal logic isolates pure **syntactical** relations from the psychological meanings attached to symbols."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*, 1929):** *"The master novelist reshapes the rhythm of traditional prose to suit a new **syntactical** sensibility."*

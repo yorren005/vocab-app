@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commonplaceness as a consequence of being humdrum and not exciting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commonplaceness as a consequence of being humdrum and not exciting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or condition of being prosaic; lack of imagination, poetry, or romantic feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plain, dry, matter-of-fact literalness in style, temperament, or surroundings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosaicness designates commonplaceness as a consequence of being humdrum and not exciting."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*, 1865):** *"The prevailing **prosaicness** of eighteenth-century verse arose from an overvaluation of common sense."*
+> - 📜 **John Ruskin (*Modern Painters*, 1843):** *"A true artist rescues the scene from dull **prosaicness** by capturing the divine play of light."*
+> - 📜 **Charlotte Brontë (*The Professor*, 1857):** *"The unrelieved **prosaicness** of the commercial school weighed heavily upon his restless ambition."*

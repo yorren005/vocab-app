@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek strat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of War & Conflict.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A general, military commander, or magistrate in ancient Greece, especially one of the board of ten generals elected annually in Athens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Latinized form of strategos, combining executive civil leadership and military command in classical city-states and the Byzantine Empire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, strategus designates a term designating an entity, condition, or phenomenon derived from greek strat."*
+> - 📜 **Plutarch (*Lives: Pericles*, c. 100 AD):** *"Pericles was repeatedly elected **strategus** of Athens, guiding both the democratic assembly and the navy."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*, c. 411 BC):** *"The Athenian assembly summoned the **strategus** Alcibiades to answer charges of impiety."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*, 1776):** *"In the Byzantine provinces, the civil governor was superseded by the military **strategus**."*

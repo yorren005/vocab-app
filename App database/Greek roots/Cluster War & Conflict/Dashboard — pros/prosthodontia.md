@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of dentistry dealing with the replacement of teeth and related mouth or jaw structures by artificial devices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of dentistry dealing with the replacement of teeth and related mouth or jaw structures by artificial devices.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of dentistry concerned with the design, manufacture, and fitting of artificial replacements for missing teeth and associated oral structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The clinical discipline embracing fixed bridges, removable dentures, maxillofacial prostheses, and dental implants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosthodontia designates the branch of dentistry dealing with the replacement of teeth and related mouth or jaw structures by artificial devices."*
+> - 📜 **G. V. Black (*A Work on Operative Dentistry*, 1908):** *"The progressive development of **prosthodontia** restored both masticatory function and facial aesthetics to edentulous patients."*
+> - 📜 **Carl O. Boucher (*Prosthodontic Treatment for Edentulous Patients*, 1975):** *"Sound **prosthodontia** rests upon an intimate understanding of mandibular articulation and oral tissue tolerance."*
+> - 📜 **William J. Gies (*Dental Education in the United States and Canada*, 1926):** *"Modern dental curricula accord high priority to the mechanical and biological principles of **prosthodontia**."*

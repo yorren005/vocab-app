@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in prosthetics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in prosthetics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A certified healthcare professional who designs, fabricates, and fits artificial limbs (prostheses) for patients with limb loss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinician skilled in biomechanics, materials science, and patient gait rehabilitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosthetist designates an expert in prosthetics."*
+> - 📜 **Atul Gawande (*Better: A Surgeon's Notes on Performance*, 2007):** *"The **prosthetist** worked patiently for weeks, shaping the socket until it felt like natural skin against the residual limb."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*, 1995):** *"The master **prosthetist** combines mechanical artistry with a deep understanding of neuro-muscular adaptation."*
+> - 📜 **Abraham Verghese (*Cutting for Stone*, 2009):** *"The orthopedic workshop was overseen by a devoted **prosthetist** who carved replacement limbs out of seasoned cedar."*

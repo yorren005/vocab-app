@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A silly altercation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A silly altercation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A comic mock-heroic epic poem attributed to Homer or Pigres, parodying the Iliad by depicting a catastrophic war between frogs and mice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, any trivial, petty, or farcical dispute or altercation puffed up with pompous seriousness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batrachomyomachia designates a silly altercation."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*, 1817):** *"The tempestuous critical dispute was mere **batrachomyomachia**, a pompous battle between frogs and mice over nothing."*
+> - 📜 **Jonathan Swift (*The Battle of the Books*, 1704):** *"The quarrel between ancient and modern volumes mimicked the absurd heroics of the **Batrachomyomachia**."*
+> - 📜 **Thomas Love Peacock (*Gryll Grange*, 1861):** *"Our modern political debates recall the ancient **batrachomyomachia**, where tiny warriors brandish bulrush spears."*

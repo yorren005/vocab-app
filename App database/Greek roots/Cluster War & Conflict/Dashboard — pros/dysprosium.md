@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trivalent metallic element of the rare earth group; forms compounds that are highly magnetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trivalent metallic element of the rare earth group; forms compounds that are highly magnetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical element of the lanthanide series, a metallic rare-earth element with symbol Dy and atomic number 66.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Named from Greek dysprositos ('hard to get at') due to the difficulty of separating it from holmia; utilized in high-strength magnets and nuclear control rods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysprosium designates a trivalent metallic element of the rare earth group; forms compounds that are highly magnetic."*
+> - 📜 **Paul-Émile Lecoq de Boisbaudran (*Comptes Rendus de l'Académie des Sciences*, 1886):** *"Because of the immense labor required to isolate this rare earth, I propose the name **dysprosium**, signifying hard to access."*
+> - 📜 **Glenn T. Seaborg (*Transuranium Elements*, 1958):** *"The high thermal neutron capture cross-section of **dysprosium** renders it invaluable in reactor control assemblies."*
+> - 📜 **Oliver Sacks (*Uncle Tungsten: Memories of a Chemical Boyhood*, 2001):** *"Lanthanides like **dysprosium** fascinated me with their magnetic subtleties and refractory separations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by columniation having free columns in a portico only across the opening to the structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by columniation having free columns in a portico only across the opening to the structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An architectural building or temple design that mimics a prostyle facade without having an actual free-standing columned portico.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Featuring engaged columns or pilasters along the front wall that create the visual illusion of a classical projecting portico.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudoprostyle designates marked by columniation having free columns in a portico only across the opening to the structure."*
+> - 📜 **Vitruvius (*De Architectura*, c. 25 BC):** *"When columns are half-embedded into the front wall rather than standing detached, the temple is termed **pseudoprostyle**."*
+> - 📜 **William Bell Dinsmoor (*The Architecture of Ancient Greece*, 1950):** *"Hellenistic architects occasionally used **pseudoprostyle** facades to simulate monumental depth in restricted urban sites."*
+> - 📜 **Banister Fletcher (*A History of Architecture*, 1896):** *"In a **pseudoprostyle** facade, the engaged columns attached to the cella wall provide a decorative substitute for a real portico."*

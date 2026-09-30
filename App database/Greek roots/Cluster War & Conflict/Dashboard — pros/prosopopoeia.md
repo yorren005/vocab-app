@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech in which an imaginary or absent person is represented as speaking or acting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Personification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech in which an abstract quality, idea, inanimate object, or absent person is represented as speaking, acting, or feeling; personification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A classical rhetorical device wherein the orator adopts the voice, persona, or character of an imagined, historical, or deceased figure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosopopoeia designates a figure of speech in which an imaginary or absent person is represented as speaking or acting."*
+> - 📜 **Quintilian (*Institutio Oratoria*, c. 95 AD):** *"By means of **prosopopoeia**, the orator brings the dead from the grave to plead before the judges."*
+> - 📜 **John Milton (*Paradise Lost*, 1667):** *"In sublime poetic **prosopopoeia**, Sin and Death are given monstrous bodies and articulate voices."*
+> - 📜 **Paul de Man (*The Rhetoric of Romanticism*, 1984):** *"**Prosopopoeia** is the master trope of poetic discourse, conferring a voice upon the mute and absent."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek strat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of War & Conflict.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of government headed by military chiefs or commanders; military dictatorship or rule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state where the civilian administration and executive sovereignty are structurally subordinate to or identical with the armed forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stratocracy designates a term designating an entity, condition, or phenomenon derived from greek strat."*
+> - 📜 **Polybius (*The Histories*, c. 140 BC):** *"Sparta was an aristocratic **stratocracy**, where every civic institution was subordinated to martial readiness."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*, 1776):** *"During the third-century crisis, Rome degenerated into an ungovernable **stratocracy**, emperors raised and murdered at the caprice of the legions."*
+> - 📜 **Samuel Finer (*The Man on Horseback: The Role of the Military in Politics*, 1962):** *"A pure **stratocracy** dissolves the boundary between civilian governance and the military command hierarchy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity at a bullfight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity at a bullfight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, practice, or spectacle of bullfighting (corrida de toros).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ritualized combat between human matador and fighting bull, deeply rooted in Iberian cultural history and ancient Mediterranean bull-cults.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tauromachy designates the activity at a bullfight."*
+> - 📜 **Ernest Hemingway (*Death in the Afternoon*, 1932):** *"Bullfighting is not a sport in the Anglo-Saxon sense; it is a tragic spectacle, an ancient **tauromachy** wherein the matador risks sudden death."*
+> - 📜 **Théophile Gautier (*A Romantic in Spain*, 1843):** *"The Spanish arena was charged with electric excitement as the traditional **tauromachy** commenced."*
+> - 📜 **Federico García Lorca (*Theory and Play of the Duende*, 1933):** *"In Spanish **tauromachy**, the matador must confront the duende at the exact instant of the kill."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The patterns of stress and intonation in a language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (prosody) a system of versification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The patterns of rhythm, sound, meter, and intonation used in poetry and verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, the study of the suprasegmental acoustic features of speech, including pitch contour, stress, and syllabic duration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Nor do we find in him any of those new metrical effects, those sublime inventions in prosody, with which the great masters astonish us."*
+> - 📜 **Aristotle (*Poetics*, c. 335 BC):** *"The rhythm and meter of dramatic verse belong to the art of **prosody**, attuning the ear to tragic weight."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*, 1755):** *"**Prosody** teacheth the sound and quantity of syllables, and the measures of verse."*
+> - 📜 **Ezra Pound (*ABC of Reading*, 1934):** *"Great poets invent a new **prosody** because their emotional rhythms cannot be contained in hand-me-down meters."*

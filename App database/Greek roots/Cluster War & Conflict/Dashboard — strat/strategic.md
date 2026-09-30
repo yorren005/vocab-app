@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or marked by strategy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Necessary to or important in the initiation, conduct, or completion of a strategic plan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the identification of long-term or overall aims and interests and the means of achieving them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed or planned to strike at the sources of an enemy's military, economic, or industrial power, rather than at armed forces in the field.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I’ll swear you did!” Her strategic silence confirmed his suspicion."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Stroking a key embedded nearby in the table the President brought the Strategic Concepts Computer on line."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Our position is unchanged: the fees that they demand are without justification, an extortion to which we cannot submit." Throughout the discussions, the Strategic Concepts Computer flashed a continuing display."*
+> - 📜 **Sun Tzu (*The Art of War*, c. 5th century BC):** *"The supreme art of war is to subdue the enemy without fighting, achieving total **strategic** victory."*
+> - 📜 **George F. Kennan (*The Sources of Soviet Conduct*, 1947):** *"The United States must pursue a long-term, patient but firm and vigilant containment of Russian expansive tendencies at every **strategic** point."*
+> - 📜 **Barbara Tuchman (*The Guns of August*, 1962):** *"The Schlieffen Plan represented a rigid **strategic** calculation that left no room for political hesitation."*

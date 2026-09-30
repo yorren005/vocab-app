@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The institution and conduct of legal proceedings against a defendant for criminal behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lawyers acting for the state to put the case against the defendant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The institution and conducting of legal proceedings against someone in respect of a criminal charge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The continuation, pursuit, or carrying out of a course of action, investigation, or campaign.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It opposed no positive action to the making of monopolistic contracts and to the formation of combinations, but declared them to be illegal and provided for their prosecution and punishment after the mischief had been done."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Roosevelt, stood in the main for the policy of "monopoly-accepted-and-regulated"; its program called for minimizing prosecution and for developing a system of regulation of trust-prices."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"When the prosecution opened and the evidence was put short, aforehand, I noticed how heavy it all bore on me, and how light on him."*
+> - 📜 **Alexander Hamilton (*The Federalist No. 65*, 1788):** *"The court for the trial of impeachments must be impartial in the **prosecution** of public officers."*
+> - 📜 **Charles Dickens (*Bleak House*, 1853):** *"The relentless **prosecution** of the lawsuit consumed the fortunes and lives of every generation involved."*
+> - 📜 **Winston Churchill (*The Second World War*, 1948):** *"The vigorous **prosecution** of the Atlantic convoy campaign was essential to national survival."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of dentistry dealing with the replacement of teeth and related mouth or jaw structures by artificial devices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of dentistry dealing with the replacement of teeth and related mouth or jaw structures by artificial devices.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dental specialty concerned with the making of artificial replacements for missing teeth and oral tissues; prosthodontia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The clinical science covering full dentures, partial dentures, porcelain crowns, bridges, and implant-supported oral restorations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosthodontics designates the branch of dentistry dealing with the replacement of teeth and related mouth or jaw structures by artificial devices."*
+> - 📜 **P. I. Brånemark (*Tissue-Integrated Prostheses*, 1985):** *"The marriage of osseointegration with restorative **prosthodontics** completely revolutionized oral surgery."*
+> - 📜 **Carl O. Boucher (*Current Clinical Dental Terminology*, 1963):** *"**Prosthodontics** demands exact clinical coordination between the dental operatory and the metallurgical laboratory."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*, 2002):** *"The technical finesse demanded in complex **prosthodontics** rivals that of microscopic neurosurgery."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of sword.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of sword.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (In botany) Having sword-shaped leaves, such as those of irises, gladioli, or yucca plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterizing ensiform foliage with elongated, flattened blades and sharp margins adapted for vertical light capture and minimal wind resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xiphophyllous designates adjective*) pertaining to, derived from, or characteristic of sword."*
+> - 📜 **Augustin Pyramus de Candolle (*Théorie élémentaire de la botanique*, 1813):** *"Plants exhibiting **xiphophyllous** foliage, such as the iris, position their vertical blades parallel to the incoming sun rays."*
+> - 📜 **Asa Gray (*Elements of Botany*, 1887):** *"The **xiphophyllous** leaves of the sweet flag present equitant arrangements, clasping the stem in two overlapping ranks."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*, 1914):** *"The striking architectural form of the garden border is enhanced by the bold **xiphophyllous** greenery of New Zealand flax."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to strategy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to strategy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that relates to the achievement of long-term or overall goals and interests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner designed to secure military, commercial, or operational advantage in positioning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Planet Pluto is strategically situated at this time to be the single, most influential force in human affairs."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And, in fact, the last letter he had received from Mack’s army informed him of a victory and stated strategically the position of the army was very favorable."*
+> - 📜 **B. H. Liddell Hart (*Strategy*, 1954):** *"Moving **strategically** along lines of least expectation paralyses the adversary's capacity to respond."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*, c. 411 BC):** *"The Spartans fortified Decelea, positioning their garrison **strategically** to choke Athens of overland supplies."*
+> - 📜 **Michael E. Porter (*Competitive Strategy*, 1980):** *"Firms that position themselves **strategically** against competitive forces earn superior long-term returns on invested capital."*

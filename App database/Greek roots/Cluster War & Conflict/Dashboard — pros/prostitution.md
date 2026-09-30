@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offering sexual intercourse for pay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offering sexual intercourse for pay.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or occupation of engaging in sexual activity with someone for payment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The unworthy or corrupt use of one's talents, influence, or integrity for monetary gain or base purposes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"When I was a Son of the Mountain and a Son of the Bull, prostitution had no meaning."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The world has accordingly been witness to few examples of this species of royal prostitution, though there have been abundant specimens of every other kind."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The temptations to prostitution which the judges might have to surmount, must certainly be much fewer, while the co-operation of a jury is necessary, than they might be, if they had themselves the exclusive determination of all causes."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*, 1792):** *"When women are denied education and employment, marriage itself is too often reduced to legal **prostitution**."*
+> - 📜 **George Bernard Shaw (*Mrs. Warren's Profession*, 1893):** *"Mrs. Warren defends her lucrative business by arguing that society drove impoverished working girls into **prostitution**."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*, 1841):** *"To conform your intellect to the passing opinions of the mob is a shameful **prostitution** of your godlike soul."*

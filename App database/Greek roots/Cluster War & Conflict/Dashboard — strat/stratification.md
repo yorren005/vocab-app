@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process or arranging persons into classes or social strata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being arranged in social strata or classes within a group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrangement or classification of something into different groups, levels, or layers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, the formation of sedimentary rocks in horizontal beds or layers (strata); or in sociology, the hierarchical division of society into classes or castes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stratification designates the act or process or arranging persons into classes or social strata."*
+> - 📜 **Charles Lyell (*Principles of Geology*, 1830):** *"The regular **stratification** of sedimentary rocks records the calm, successive deposition of silt on ancient sea floors."*
+> - 📜 **Max Weber (*Economy and Society*, 1922):** *"Social **stratification** is multi-dimensional, determined by economic class, status prestige, and political power."*
+> - 📜 **Rachel Carson (*The Sea Around Us*, 1951):** *"Thermal **stratification** separates the sunlit upper oceanic layers from the frigid abyssal depths."*

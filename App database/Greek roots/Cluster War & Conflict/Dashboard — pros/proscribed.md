@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Command against.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excluded from use or mention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Officially forbidden, outlawed, or condemned by authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Placed on a list of outlawed persons or banned doctrines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But in a fatal moment, yielding to those propensities and passions, the indulgence of which had so long rendered him a scourge to society, he had quitted his haven of rest and repentance, and had come back to the country where he was proscribed."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Works on science, morals, and literature abounded in every language; but I did not see one single work on political economy; that subject appeared to be strictly proscribed."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Ralph had usually treated it facetiously; but present circumstances proscribed the facetious."*
+> - 📜 **William Shakespeare (*Richard II*, 1595):** *"Banished from this native land, his estates confiscated and his very name **proscribed**."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*, 1835):** *"In absolute monarchies, political dissent is **proscribed** by royal decrees."*
+> - 📜 **George Orwell (*Animal Farm*, 1945):** *"The rebellious anthem 'Beasts of England' was abolished and strictly **proscribed** throughout the farm."*

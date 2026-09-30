@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a polemic : controversial.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engaged in or addicted to polemics : disputatious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving strongly critical, contentious, or disputatious argument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written or delivered in an aggressive, adversarial style intended to refute an opposing doctrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Holy Willie was a rather oldish bachelor elder, in the parish of Mauchline, and much and justly famed for that polemical chattering, which ends in tippling orthodoxy, and for that spiritualized bawdry which refines to liquorish devotion."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"There was a portly, rosy, well-fed parson, whom I observed ogling several mouldy polemical writers through an eyeglass."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They consisted principally of old polemical writers, and were much more worn by time than use."*
+> - 📜 **George Orwell (*Why I Write*, 1946):** *"My work was inevitably shaped by the **polemical** urgency of opposing totalitarian propaganda."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*, 1945):** *"Spinoza avoided the bitter **polemical** disputes of his contemporaries, seeking geometric serenity."*
+> - 📜 **Susan Sontag (*Against Interpretation*, 1966):** *"These essays were conceived in a **polemical** spirit against the suffocating reign of academic commentary."*

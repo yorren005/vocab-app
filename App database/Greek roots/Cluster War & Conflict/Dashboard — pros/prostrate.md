@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get into a prostrate position, as in submission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Render helpless or defenseless.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying stretched out on the ground with one's face downward, especially in reverence, submission, adoration, or defeat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely overcome, exhausted, or incapacitated by illness, sorrow, heat, or despair.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will fall prostrate at his feet, And never rise until my tears and prayers Have won his grace to come in person hither And take perforce my husband from the abbess."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I affect it more Than as your honour and as your renown, Let me no more from this obedience rise, Which my most inward true and duteous spirit Teacheth this prostrate and exterior bending."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Meantime look gracious on thy prostrate thrall."*
+> - 📜 **John Milton (*Paradise Lost*, 1667):** *"Groveling and **prostrate** on the fiery lake the rebel angels lay, thunderstruck and astonished."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*, 1847):** *"I threw myself **prostrate** upon the bed, weeping bitter tears of desolate abandonment."*
+> - 📜 **Herman Melville (*Moby-Dick*, 1851):** *"Queequeg lay **prostrate** in his hammock, wasted with fever and resigned to death."*

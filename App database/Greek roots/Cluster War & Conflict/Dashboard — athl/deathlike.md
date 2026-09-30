@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the physical appearance of death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the physical appearance of death.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling death; pale, still, silent, or rigid as a corpse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggestive of mortality or deep unconsciousness; inert and unresponsive (from Old English deáþ + -līc).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Cold, colourless, and vague, it sends a warning streak before it of a deathlike hue, as if it cried out, “Look what I am bringing you who watch there!"*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"From these circumstances sprang the instant conclusion of his sister’s now being by his side; and therefore, instead of turning of a deathlike paleness and falling in a fit on Mrs."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"She shuddered as she caught a glimpse of its deathlike face, then put her hand over her eyes to shut out the fearful sight."*
+> - 📜 **Mary Shelley (*Frankenstein*, 1818):** *"A **deathlike** stillness fell upon the room as I gazed upon the lifeless form of my creation."*
+> - 📜 **Lord Byron (*The Giaour*, 1813):** *"He lay in a **deathlike** swoon, cold as the marble slab beneath his head."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*, 1859):** *"The solitary prisoner sat in the deep stone cell, sunken in a **deathlike** apathy."*

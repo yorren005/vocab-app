@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking wit or imagination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking wit or imagination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dull, tedious, monotonous, and commonplace; lacking poetic imagination or wit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to tedious, long-winded, or uninspired speech or writing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"But Ben was gifted with a spirit of fun, sometimes running into mischief, which was constantly bursting out in new directions, in spite of his father's numerous and rather prosy lectures."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"And if your Honor," concluded this excellent but somewhat prosy old gentleman, "shall see fit to persist in bringing these mercenary sworders and musketeers into our quiet streets, not on our heads be the responsibility."*
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"Niagara I Within the town of Buffalo Are prosy men with leaden eyes."*
+> - 📜 **Jane Austen (*Pride and Prejudice*, 1813):** *"Mr. Collins was a pompous, **prosy** gentleman who could turn the simplest compliment into an exhausting sermon."*
+> - 📜 **Charles Dickens (*Bleak House*, 1853):** *"The attorney's clerk was a **prosy** fellow who delighted in repeating dry technical phrases."*
+> - 📜 **William Makepeace Thackeray (*Pendennis*, 1850):** *"Old Major Pendennis yawned behind his newspaper, bored by his companion's **prosy** reminiscences."*

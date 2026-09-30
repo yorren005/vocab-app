@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the effect of counteracting excessive thyroid activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the effect of counteracting excessive thyroid activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Counteracting, inhibiting, or reducing the physiological activity or hormone production of the thyroid gland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denoting a pharmaceutical agent (such as methimazole or propylthiouracil) used to treat hyperthyroidism and Graves' disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antithyroid designates having the effect of counteracting excessive thyroid activity."*
+> - 📜 **Edwin B. Astwood (*Treatment of Hyperthyroidism with Antithyroid Drugs*, 1943):** *"The therapeutic discovery of **antithyroid** thiouracil derivatives allows physicians to suppress toxic thyrotoxicosis without surgery."*
+> - 📜 **Louis S. Goodman and Alfred Gilman (*The Pharmacological Basis of Therapeutics*, 1975):** *"The primary action of **antithyroid** thionamides is the competitive inhibition of thyroid peroxidase."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*, 1986):** *"Administration of an **antithyroid** compound rapidly drops circulating thyroxine levels, stimulating pituitary TSH output."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science or art of strategy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science or art of strategy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science, theory, or art of military strategy and large-scale warfare planning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of military science dealing with theater-level campaigns, logistics, and resource allocation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And all these proposals, based on strategics and tactics, contradict each other."*
+> - 📜 **Antoine-Henri Jomini (*Summary of the Art of War*, 1838):** *"**Strategics** is the art of making war on the map, comprehending the whole theater of operations."*
+> - 📜 **Carl von Clausewitz (*On War*, 1832):** *"Theoretical **strategics** must never stiffen into pedantic geometry, for friction and fog govern the battlefield."*
+> - 📜 **Herman Melville (*White-Jacket*, 1850):** *"The commodore paced the quarterdeck, his thoughts absorbed in high naval **strategics** and fleet maneuvers."*

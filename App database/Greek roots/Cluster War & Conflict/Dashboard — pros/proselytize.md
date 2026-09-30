@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert to another faith or religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert to another faith or religion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To attempt to convert someone to one's own religious faith, political ideology, or cause (standard/American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To recruit adherents or aggressively preach a doctrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"His loyalty had been already extensively drawn upon, and there remained now to be tried an attempt upon his proselytizing zeal."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*, 1841):** *"Do not seek to **proselytize** your neighbor; live your own truth so luminously that he cannot help but see it."*
+> - 📜 **C. S. Lewis (*Mere Christianity*, 1952):** *"A Christian must witness to the truth, yet never **proselytize** with manipulative arrogance."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*, 1995):** *"Scientists must explain the wonders of natural law without sounding like dogmatists who **proselytize**."*

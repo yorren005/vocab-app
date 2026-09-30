@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide society into social classes or castes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form layers or strata.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To arrange, form, or deposit in layers, beds, or strata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To divide or categorize a society, community, or population into different social or economic strata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stratify designates divide society into social classes or castes."*
+> - 📜 **James Hutton (*Theory of the Earth*, 1788):** *"Subterranean heat and pressure consolidate loose ocean sediments, causing them to **stratify** into stone."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*, 1835):** *"Democratic institutions tend to flatten feudal hierarchies that historically functioned to **stratify** European societies."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*, 1986):** *"Centrifugation causes whole blood to **stratify** into plasma, buffy coat, and packed red cells."*

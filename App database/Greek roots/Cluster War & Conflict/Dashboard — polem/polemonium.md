@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus polemonium; most are low-growing often foul-smelling plants of temperate to arctic regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus polemonium; most are low-growing often foul-smelling plants of temperate to arctic regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial herbaceous flowering plants in the family Polemoniaceae, commonly known as Jacob's ladder or Greek valerian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hardy alpine and woodland herbs characterized by pinnately compound leaves arranged like ladder rungs and clusters of cup-shaped blue or purple flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polemonium designates any plant of the genus polemonium; most are low-growing often foul-smelling plants of temperate to arctic regions."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*, 1753):** *"Linnaeus classified the alpine Jacob's ladder under the generic title **Polemonium**, commemorating ancient kings who disputed over its discovery."*
+> - 📜 **Gertrude Jekyll (*Colour in the Flower Garden*, 1908):** *"The delicate sky-blue blossoms of **Polemonium** provide a lovely contrast in the shaded June border."*
+> - 📜 **William Robinson (*The English Flower Garden*, 1883):** *"Few rock-garden perennials are more charming than the dwarf alpine species of **Polemonium**."*

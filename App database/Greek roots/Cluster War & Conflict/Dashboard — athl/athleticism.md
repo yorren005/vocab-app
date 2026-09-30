@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intense energy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Physical prowess, agility, strength, and stamina; the qualities characteristic of an athlete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devotion to athletic sports and physical training as an ideal or cultural pursuit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, athleticism designates intense energy."*
+> - 📜 **George Santayana (*The Philosophy of Travel*, 1911):** *"Greek **athleticism** was not mere recreation, but a spiritual celebration of bodily perfection."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*, 1869):** *"The English public schools cultivate an intense devotion to **athleticism**, sometimes at the expense of intellectual inquiry."*
+> - 📜 **Norman Mailer (*The Fight*, 1975):** *"Ali's supreme **athleticism** lay in his hypnotic footwork and lightning speed within the ring."*

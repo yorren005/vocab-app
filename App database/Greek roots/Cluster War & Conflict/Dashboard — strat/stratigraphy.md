@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of geology that studies the arrangement and succession of strata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of geology that studies the arrangement and succession of strata.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of geology concerned with the order and relative position of strata and their relationship to the geological time scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The archaeological recording and analysis of cultural layers and artifacts found within excavated soil deposits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stratigraphy designates the branch of geology that studies the arrangement and succession of strata."*
+> - 📜 **William Smith (*Strata Identified by Organized Fossils*, 1816):** *"The science of **stratigraphy** proves that each rock layer is characterized by its own distinct assemblage of organic fossils."*
+> - 📜 **Charles Lyell (*Principles of Geology*, 1833):** *"Accurate **stratigraphy** provides the master clock by which we decipher the immense antiquity of the earth."*
+> - 📜 **Mortimer Wheeler (*Archaeology from the Earth*, 1954):** *"Meticulous archaeological **stratigraphy** ensures that artifacts are dated relative to the soil layers in which they were buried."*

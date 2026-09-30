@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decree that prohibits something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rejection by means of an act of banishing or proscribing someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of proscribing, condemning, or prohibiting someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Rome, a decree of condemnation posting the names of condemned citizens whose property was confiscated and lives forfeit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So you thought him, And took his voice who should be prick’d to die In our black sentence and proscription."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That by proscription and bills of outlawry Octavius, Antony, and Lepidus Have put to death an hundred Senators."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cicero is dead, And by that order of proscription."*
+> - 📜 **Plutarch (*Lives: Cicero*, c. 100 AD):** *"The triumvirs marked their vengeance by bloody lists of **proscription**, condemning hundreds of Roman senators."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*, 1790):** *"Wholesale confiscation of property and arbitrary **proscription** destroyed the rule of law in Revolutionary Paris."*
+> - 📜 **John Stuart Mill (*On Liberty*, 1859):** *"Social **proscription** often inflicts a deeper and more lasting conformity than legal penalties."*

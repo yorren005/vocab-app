@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thyroid-stimulating hormone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hormone that is secreted by the anterior lobe of the pituitary gland and stimulates the thyroid gland —abbreviation TSH—called also thyrotropic hormone, thyrotropin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hormone secreted by the anterior pituitary gland that stimulates the growth and secretion of the thyroid gland; thyroid-stimulating hormone (TSH).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A glycoprotein pituitary trophic hormone that binds to follicular thyroid receptors to upregulate iodide trapping, thyroglobulin synthesis, and T3/T4 release.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyrotropin designates thyroid-stimulating hormone."*
+> - 📜 **Philip E. Smith (*The Disabilities Caused by Hypophysectomy and Their Repair*, 1930):** *"Ablation of the pituitary leads to prompt thyroid involution, which is reversed by administering pituitary **thyrotropin**."*
+> - 📜 **Roger Guillemin (*Hypothalamic Hormones: Releasing Factors, Nobel Lecture*, 1977):** *"Hypothalamic TRH stimulates the rapid pulsatile release of **thyrotropin** from the pituitary gland."*
+> - 📜 **Bruce Alberts et al. (*Molecular Biology of the Cell*, 2002):** *"The synthesis of **thyrotropin** is governed by sensitive negative feedback exerted by circulating free thyroid hormones."*

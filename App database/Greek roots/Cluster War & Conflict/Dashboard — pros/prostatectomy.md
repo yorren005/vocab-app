@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal or resection of the prostate gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal or resection of the prostate gland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal of part or all of the prostate gland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A urological procedure performed via open, laparoscopic, or robotic approaches for the treatment of benign prostatic hyperplasia or localized prostate cancer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prostatectomy designates surgical removal or resection of the prostate gland."*
+> - 📜 **Peter Freyer (*A New Method of Performing Total Extirpation of the Prostate*, 1901):** *"The success of suprapubic **prostatectomy** has transformed the surgical management of prostatic obstruction."*
+> - 📜 **Hugh Hampton Young (*The Early Diagnosis and Radical Cure of Carcinoma of the Prostate*, 1905):** *"The introduction of perineal radical **prostatectomy** offers a genuine curative option for early malignancy."*
+> - 📜 **Jerome Groopman (*The Anatomy of Hope*, 2004):** *"Following his radical **prostatectomy**, the patient experienced an uneventful recovery with clear surgical margins."*

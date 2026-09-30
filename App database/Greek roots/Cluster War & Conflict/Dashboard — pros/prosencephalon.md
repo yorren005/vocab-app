@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: forebrain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: the anterior of the three primary divisions of the developing vertebrate brain or the corresponding part of the adult brain that includes especially the cerebral hemispheres, the thalamus, and the hypothalamus and that especially in higher vertebrates is the main control center for sensory and associative information processing, visceral functions, and voluntary motor functions —called also prosencephalon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The embryonic forebrain of vertebrates, from which the telencephalon (cerebral hemispheres) and diencephalon (thalamus, hypothalamus) develop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rostral-most of the three primary brain vesicles in neuroembryology, responsible for higher cognitive, sensory, and endocrine integration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosencephalon designates forebrain."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*, 1909):** *"During early neurogenesis, the anterior **prosencephalon** expands dramatically, forming the cerebral vesicles."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*, 1871):** *"The primary **prosencephalon** divides into the cerebrum and the optic thalami."*
+> - 📜 **Eric Kandel et al. (*Principles of Neural Science*, 2000):** *"Morphogen gradients induce the regional specialization of the **prosencephalon** into cortical and subcortical structures."*

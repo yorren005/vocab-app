@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek styl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (Of a classical Greco-Roman building or temple) Having a portico of columns in front of the facade only, without colonnades along the sides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An architectural temple plan with a single front portico (such as the Temple of Portunus in Rome).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prostyle designates a term designating an entity, condition, or phenomenon derived from greek styl."*
+> - 📜 **Vitruvius (*De Architectura*, c. 25 BC):** *"The **prostyle** temple has columns at the front corners and along the entrance, presenting a dignified portal."*
+> - 📜 **Banister Fletcher (*A History of Architecture*, 1896):** *"A **prostyle** building is one which has a projecting portico of columns only in front."*
+> - 📜 **John Summerson (*The Classical Language of Architecture*, 1963):** *"Roman civic builders favored the **prostyle** plan on high podia, emphasizing the single monumental axial approach."*

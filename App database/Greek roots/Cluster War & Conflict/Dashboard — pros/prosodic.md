@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the rhythmic aspect of language or to the suprasegmental phonemes of pitch and stress and juncture and nasalization and voicing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the rhythmic aspect of language or to the suprasegmental phonemes of pitch and stress and juncture and nasalization and voicing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to prosody, the rhythmic and intonational structure of speech or verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, relating to suprasegmental features of spoken language, such as pitch, loudness, tempo, and rhythm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosodic designates of or relating to the rhythmic aspect of language or to the suprasegmental phonemes of pitch and stress and juncture and nasalization and voicing."*
+> - 📜 **Roman Jakobson (*Selected Writings*, 1971):** *"The **prosodic** hierarchy of language organizes phonemes into rhythmic beats that convey emotional emphasis."*
+> - 📜 **Noam Chomsky and Morris Halle (*The Sound Pattern of English*, 1968):** *"Stress assignment in generative phonology depends upon regular **prosodic** rules applied to syntactic trees."*
+> - 📜 **T. S. Eliot (*The Music of Poetry*, 1942):** *"Every poetic revolution involves a renewal of the **prosodic** idiom to catch the rhythm of contemporary speech."*

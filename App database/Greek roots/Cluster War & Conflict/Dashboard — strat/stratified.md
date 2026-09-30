@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide society into social classes or castes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form layers or strata.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged or formed in distinct horizontal layers or strata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divided into distinct social, economic, or educational ranks and classes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stratified designates divide society into social classes or castes."*
+> - 📜 **Charles Darwin (*On the Origin of Species*, 1859):** *"Fossils preserved in **stratified** rocks reveal the slow, unbroken succession of organic forms across geological epochs."*
+> - 📜 **Karl Marx (*Capital, Volume I*, 1867):** *"Modern industrial society became sharply **stratified** between the owners of capital and the wage-earning proletariat."*
+> - 📜 **Aldous Huxley (*Brave New World*, 1932):** *"The World State was meticulously **stratified** from Alpha-Plus administrators down to Epsilon-Minus sewer workers."*

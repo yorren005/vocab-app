@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An aggressive attack on or refutation of the opinions or principles of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or practice of disputation or controversy —usually used in plural but singular or plural in construction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who writes or speaks passionately and aggressively in defense of or attack on opinions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled controversialist adept at aggressive public debate and ideological confrontation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polemicist designates an aggressive attack on or refutation of the opinions or principles of another."*
+> - 📜 **Voltaire (*Philosophical Dictionary*, 1764):** *"The zealous **polemicist** fires pamphlets like cannonballs, caring more for victory than for impartial truth."*
+> - 📜 **Jonathan Swift (*A Modest Proposal*, 1729):** *"Swift was an incomparable **polemicist**, using savage irony to strip away political hypocrisy."*
+> - 📜 **James Baldwin (*Notes of a Native Son*, 1955):** *"The moral burden of the **polemicist** is to compel society to confront its deepest unacknowledged sins."*

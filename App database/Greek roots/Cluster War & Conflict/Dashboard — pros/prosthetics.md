@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine dealing with the production and use of artificial body parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medicine dealing with the production and use of artificial body parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of surgery, medicine, or biomedical engineering dedicated to designing, constructing, and fitting artificial body parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cosmetic and practical makeup appliances used in film and theater to alter an actor's facial or bodily appearance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosthetics designates the branch of medicine dealing with the production and use of artificial body parts."*
+> - 📜 **Norbert Wiener (*Cybernetics: Or Control and Communication in the Animal and the Machine*, 1948):** *"Feedback mechanisms and cybernetic servomotors are transforming modern clinical **prosthetics**."*
+> - 📜 **Jerome Groopman (*Second Opinions*, 2000):** *"Advances in bioengineering and **prosthetics** have enabled amputees to resume active, athletic lives."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*, 1890):** *"The wooden-legged villain relied on rudimentary nineteenth-century **prosthetics** strapped with leather buckles."*

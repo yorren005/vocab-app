@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek strat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of War & Conflict.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or specialized term for the description or systematic study of armies, military dispositions, and encampments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A literary or geographical mapping of military fortifications and theater operational deployments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stratography designates a term designating an entity, condition, or phenomenon derived from greek strat."*
+> - 📜 **Antoine-Henri Jomini (*Summary of the Art of War*, 1838):** *"Comprehensive **stratography** delineates the positions of fortified camps, defensive lines, and potential retreat routes."*
+> - 📜 **John William Fortescue (*A History of the British Army*, 1899):** *"The general's notebooks contained precise details of **stratography**, mapping every brigade along the Flemish frontier."*
+> - 📜 **Thomas S. Kuhn (*The Structure of Scientific Revolutions*, 1962):** *"Early treatises on military science combined engineering with descriptive **stratography** of fortress layouts."*

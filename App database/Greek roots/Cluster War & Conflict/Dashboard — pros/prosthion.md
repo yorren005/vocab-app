@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pros.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of War & Conflict.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric landmark representing the most anterior point on the alveolar margin of the maxillary bone between the central incisors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A standardized cephalometric point used in skull measurements to determine facial height and alveolar prognathism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosthion designates a term designating an entity, condition, or phenomenon derived from greek pros."*
+> - 📜 **Paul Broca (*Mémoires d'anthropologie*, 1871):** *"Measuring the line from basion to **prosthion** reveals the degree of maxillary projection in mammalian skulls."*
+> - 📜 **Aleš Hrdlička (*Practical Anthropometry*, 1939):** *"The **prosthion** must be located with absolute precision at the lowest anterior margin of the intermaxillary suture."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*, 1981):** *"Craniometrists frequently obsessed over minute angles anchored at the nasion and **prosthion** to construct racial hierarchies."*

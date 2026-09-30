@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to prosthodontics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to prosthodontics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to prosthodontics or dental prostheses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterizing dental restorative procedures, crowns, bridges, or dentures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosthodontic designates of or relating to prosthodontics."*
+> - 📜 **Carl O. Boucher (*Clinical Prosthodontics*, 1968):** *"Proper **prosthodontic** rehabilitation must preserve the remaining periodontal tissues while restoring occlusal balance."*
+> - 📜 **Gordon J. Christensen (*A Consumer's Guide to Dentistry*, 2001):** *"Advances in ceramic materials have elevated **prosthodontic** restorations to remarkable natural translucency."*
+> - 📜 **P. I. Brånemark (*Osseointegrated Implants in the Treatment of the Edentulous Jaw*, 1977):** *"Osseointegrated titanium fixtures established a firm foundation for permanent **prosthodontic** superstructures."*

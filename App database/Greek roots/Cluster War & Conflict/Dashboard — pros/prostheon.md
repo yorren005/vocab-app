@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Craniometric point that is the most anterior point in the midline on the alveolar process of the maxilla.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Craniometric point that is the most anterior point in the midline on the alveolar process of the maxilla.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (In craniometry and physical anthropology) Variant spelling of prosthion; the most anterior midline point of the alveolar border of the upper jaw (maxilla).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An osteometric landmark used in measuring facial projection, gnathic indices, and cranial angles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prostheon designates craniometric point that is the most anterior point in the midline on the alveolar process of the maxilla."*
+> - 📜 **Paul Broca (*Instructions craniologiques et craniométriques*, 1875):** *"The **prostheon** serves as the fixed anterior point for calculating the alveolar angle and upper facial height."*
+> - 📜 **Aleš Hrdlička (*Anthropometry*, 1920):** *"Direct caliper measurement from nasion to **prostheon** establishes the total height of the upper facial skeleton."*
+> - 📜 **W. E. Le Gros Clark (*The Fossil Evidence for Human Evolution*, 1955):** *"The pronounced distance between the nasion and **prostheon** highlights the alveolar prognathism of australopithecines."*

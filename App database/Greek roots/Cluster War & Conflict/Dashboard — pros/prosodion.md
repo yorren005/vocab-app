@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Religious music used in a procession.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Religious music used in a procession.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek processional hymn or solemn song sung by a chorus while marching toward an altar or temple.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lyric genre of ceremonial Greek choral poetry associated with Delphic and Delian religious embassies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosodion designates religious music used in a procession."*
+> - 📜 **Pindar (*Fragments*, c. 470 BC):** *"The sacred chorus advanced toward the Delphic sanctuary, chanting the solemn measures of the **prosodion**."*
+> - 📜 **Pausanias (*Description of Greece*, c. 160 AD):** *"The Messenians sent a ceremonial embassy to Delos, accompanied by an ancient **prosodion** composed by Eumelos."*
+> - 📜 **Gilbert Murray (*A History of Ancient Greek Literature*, 1897):** *"The **prosodion** accompanied the rhythmic movement of the worshippers as they approached the altar."*

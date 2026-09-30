@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hopl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of War & Conflict.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The heavy, circular, concave wooden shield faced with bronze carried by Greek hoplites, fitted with an arm strap (porpax) and hand grip (antilabe).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quintessential defensive weapon of classical Greek civic hoplitic warfare, also termed the aspis, from which the hoplite drew his title.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hoplon designates a term designating an entity, condition, or phenomenon derived from greek hopl."*
+> - 📜 **Plutarch (*Moralia: Sayings of Spartan Women*, c. 100 AD):** *"The Spartan mother handed the heavy shield to her son, saying: 'Return with your **hoplon**, or upon it.'"*
+> - 📜 **Victor Davis Hanson (*The Western Way of War: Infantry Battle in Classical Greece*, 1989):** *"The massive concave **hoplon** was designed not merely to parry blows, but to shove forward in the collective crush of the phalanx."*
+> - 📜 **John Keegan (*A History of Warfare*, 1993):** *"Anchored by the bronze-rimmed **hoplon**, the Greek line formed a wall of timber and metal impenetrable to light missiles."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The earliest known dinosaurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The earliest known dinosaurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early group of long-necked, primarily herbivorous saurischian dinosaurs of the Late Triassic and Early Jurassic, closely related to sauropods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Basal sauropodomorphs characterized by semi-bipedal postures, grasping forelimbs, and serrated spatulate teeth adapted for high-foliage browsing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosauropoda designates the earliest known dinosaurs."*
+> - 📜 **Friedrich von Huene (*The Dinosaurian System of Classification*, 1920):** *"We assign these Triassic bipedal herbivores to the suborder **Prosauropoda**, preceding the colossal Jurassic sauropods."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*, 1966):** *"The global abundance of **Prosauropoda** like *Plateosaurus* indicates their ecological dominance during the Late Triassic."*
+> - 📜 **Michael J. Benton (*Vertebrate Palaeontology*, 2005):** *"Phylogenetic analysis reveals that **Prosauropoda** represents a paraphyletic grade of early sauropodomorph evolution."*

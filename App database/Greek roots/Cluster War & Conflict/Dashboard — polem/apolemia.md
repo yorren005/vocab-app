@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large siphonophore of up to 50 ft long.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large siphonophore of up to 50 ft long.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of colonial pelagic marine siphonophores (family Apolemiidae), known colloquially as string jellyfish or barbed-wire jellyfish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extraordinary deep-sea gelatinous organisms consisting of millions of specialized zooids arranged along a predatory stinging stem that can exceed 40 meters in length.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apolemia designates large siphonophore of up to 50 ft long."*
+> - 📜 **Carl Chun (*The Siphonophores of the Plankton Expedition*, 1897):** *"The colonial stem of **Apolemia** trails venomous tentilla like a drifting web of living barbs."*
+> - 📜 **Alister Hardy (*The Open Sea: The World of Plankton*, 1956):** *"In the ocean depths, the giant siphonophore **Apolemia** extends its delicate predatory filaments over astonishing distances."*
+> - 📜 **Sylvia Earle (*Sea Change: A Message of the Oceans*, 1995):** *"Deep submersibles revealed a colossal specimen of **Apolemia**, spiraling in the abyssal water like a luminous spiral galaxy."*

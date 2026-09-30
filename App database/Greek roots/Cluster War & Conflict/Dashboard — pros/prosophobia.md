@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pros.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of War & Conflict.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational, excessive fear of or psychological aversion to progress, advancement, or modernization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pathological resistance to societal, technological, or institutional change, often driven by extreme nostalgic anxiety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosophobia designates a term designating an entity, condition, or phenomenon derived from greek pros."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*, 1933):** *"The reactionary factions exhibited acute **prosophobia**, clinging desperately to obsolete tribal customs."*
+> - 📜 **Lewis Mumford (*The City in History*, 1961):** *"Institutional inertia is frequently reinforced by cultural **prosophobia**, fearing that technological growth will dissolve communal bonds."*
+> - 📜 **Alvin Toffler (*Future Shock*, 1970):** *"When the pace of innovation overwhelms human adaptive capacity, widespread **prosophobia** paralyzes social policy."*

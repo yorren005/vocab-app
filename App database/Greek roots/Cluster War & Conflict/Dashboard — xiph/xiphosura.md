@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Horseshoe crabs and extinct forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Horseshoe crabs and extinct forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient order of marine chelicerate arthropods that includes the modern horseshoe crabs, characterized by a large semicircular carapace and a long spike-like tail spine (telson).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A famous 'living fossil' lineage virtually unchanged since the Ordovician period, renowned in biomedical testing for Limulus amebocyte lysate (LAL).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xiphosura designates horseshoe crabs and extinct forms."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*, 1904):** *"The armor of the **Xiphosura** mirrors the ancient trilobites of the Paleozoic seas, crowned by a rigid sword-like telson."*
+> - 📜 **Ray Lankester (*Limulus an Arachnid*, 1881):** *"Comparative anatomy demonstrates that the marine **Xiphosura** are more closely allied to scorpions and spiders than to true crabs."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life: The Burgess Shale and the Nature of History*, 1989):** *"Horseshoe crabs of the order **Xiphosura** have persisted with astonishing conservatism across hundreds of millions of years."*

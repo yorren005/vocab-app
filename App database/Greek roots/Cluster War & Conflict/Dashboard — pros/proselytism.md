@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of proselytizing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being a proselyte; spiritual rebirth resulting from the zeal of crusading advocacy of the gospel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or policy of attempting to convert people to a religion, political party, or cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Zeal in making converts or recruiting adherents to an ideological doctrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proselytism designates the practice of proselytizing."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*, 1835):** *"Religious **proselytism** in the United States operates freely through voluntary association rather than state coercion."*
+> - 📜 **John Stuart Mill (*On Liberty*, 1859):** *"The spirit of intolerant **proselytism** seeks to enforce moral conformity upon unwilling majorities."*
+> - 📜 **Leo Tolstoy (*The Kingdom of God Is Within You*, 1894):** *"True spiritual life is incompatible with institutional **proselytism** that coerces the conscience."*

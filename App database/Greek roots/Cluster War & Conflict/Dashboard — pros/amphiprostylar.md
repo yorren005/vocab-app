@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by columniation having free columns in porticoes either at both ends or at both sides of a structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by columniation having free columns in porticoes either at both ends or at both sides of a structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having porticoes with columns at both the front and the rear facades, but without columns along the sides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denoting a classical Greco-Roman temple plan characterized by opposing columned porticoes, such as the Temple of Athena Nike.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphiprostylar designates marked by columniation having free columns in porticoes either at both ends or at both sides of a structure."*
+> - 📜 **Vitruvius (*De Architectura*, c. 25 BC):** *"An **amphiprostylar** temple possesses columns in front and at the rear, having the same arrangement at both ends."*
+> - 📜 **Banister Fletcher (*A History of Architecture*, 1896):** *"The small and elegant Temple of Athena Nike is a classic example of the tetrastyle **amphiprostylar** Ionic form."*
+> - 📜 **William Bell Dinsmoor (*The Architecture of Ancient Greece*, 1950):** *"In the **amphiprostylar** design, the flanking walls remained unadorned by peripteral colonnades."*

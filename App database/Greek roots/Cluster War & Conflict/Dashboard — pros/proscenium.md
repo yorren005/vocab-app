@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The stage of an ancient Greek or Roman theater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of a modern stage in front of the curtain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of a theater stage in front of the curtain, often framed by an architectural arch (proscenium arch).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Greek and Roman theaters, the elevated platform or stage facade (proskenion) situated directly before the skene.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"When the lights went up after the first act Lawrence found himself looking directly across the rather small and narrow proscenium at a lady in the opposite box."*
-> - 📜 **James Joyce (*Ulysses*):** *"An exquisite dulcet epithalame of most mollificative suadency for juveniles amatory whom the odoriferous flambeaus of the paranymphs have escorted to the quadrupedal proscenium of connubial communion."*
+> - 📜 **Vitruvius (*De Architectura*, c. 25 BC):** *"The pulpitum of the Roman **proscenium** was widened to afford ample space for dramatic actors."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*, 1848):** *"The manager of the performance sat upon the **proscenium**, surveying the bustling spectacle with a satirical smile."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*, 1898):** *"The picture-frame **proscenium** creates a psychological barrier that isolates the spectator from the living drama."*

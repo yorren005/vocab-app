@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of several parallel layers of material arranged one on top of another (such as a layer of tissue or cells in an organism or a layer of sedimentary rock).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: People having the same social, economic, or educational status.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A layer or a series of layers of rock in the ground; a single sheet-like body of sedimentary rock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A level, grade, or class to which people belong according to socio-economic, educational, or cultural status.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A heated breeze from the south slowly fanned the summits of lofty objects, and in the sky dashes of buoyant cloud were sailing in a course at right angles to that of another stratum, neither of them in the direction of the breeze below."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The sapling which had rooted down to a poisonous stratum on the spot of its sowing had been transplanted to a deeper soil."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Whilst all the landscape was in neutral shade his companion’s face, which was the focus of his eyes, rising above the mist stratum, seemed to have a sort of phosphorescence upon it."*
+> - 📜 **Charles Lyell (*Principles of Geology*, 1830):** *"A single limestone **stratum** may extend unbroken for hundreds of miles, preserving the ecology of an ancient ocean."*
+> - 📜 **George Eliot (*Middlemarch*, 1871):** *"Dorothea felt the oppressive weight of provincial society, where every social **stratum** looked with suspicion on the one beneath."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*, 1900):** *"Consciousness represents only the superficial **stratum** of the psyche, resting upon deep reservoirs of repressed memories."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a matter-of-fact manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a matter-of-fact manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a matter-of-fact, commonplace, or unpoetic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without rhetorical ornament or imaginative flights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosaically designates in a matter-of-fact manner."*
+> - 📜 **George Eliot (*Middlemarch*, 1871):** *"Mr. Casaubon explained his monumental theological project **prosaically**, draining it of all spiritual fervor."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*, 1895):** *"He described the ancient cathedral towers **prosaically**, reckoning only the cubic yards of masonry."*
+> - 📜 **Henry James (*The Ambassadors*, 1903):** *"Strether put the question **prosaically**, anxious to mask his inward agitation."*

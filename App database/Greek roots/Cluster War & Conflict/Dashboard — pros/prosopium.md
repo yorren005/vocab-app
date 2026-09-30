@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Whitefishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Whitefishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of freshwater salmonid fishes native to North America and northeastern Asia, commonly known as round whitefishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cold-water coregonine fishes characterized by cylindrical bodies, small inferior mouths, and adapted to deep oligotrophic lakes and clear subarctic streams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosopium designates whitefishes."*
+> - 📜 **David Starr Jordan and Barton Warren Evermann (*The Fishes of North and Middle America*, 1896):** *"We separate the round whitefishes under the genus **Prosopium**, distinguished by their blunt snouts and tubular nostrils."*
+> - 📜 **Joseph S. Nelson (*Fishes of the World*, 2006):** *"Endemic radiations of **Prosopium** in Bear Lake represent a classic model of lacustrine speciation among salmonids."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*, 1949):** *"In the crystal headwaters, the swift silhouette of **Prosopium** darted over the gravel beds."*

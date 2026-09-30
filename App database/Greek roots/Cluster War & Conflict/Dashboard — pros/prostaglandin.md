@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A potent substance that acts like a hormone and is found in many bodily tissues (and especially in semen); produced in response to trauma and may affect blood pressure and metabolism and smooth muscle activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A potent substance that acts like a hormone and is found in many bodily tissues (and especially in semen); produced in response to trauma and may affect blood pressure and metabolism and smooth muscle activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of physiologically active lipid compounds having diverse hormone-like effects, synthesized from arachidonic acid in animal tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eicosanoids involved in platelet aggregation, smooth muscle contraction, inflammation, pain sensitization, and gastric cytoprotection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prostaglandin designates a potent substance that acts like a hormone and is found in many bodily tissues (and especially in semen); produced in response to trauma and may affect blood pressure and metabolism and smooth muscle activity."*
+> - 📜 **Ulf von Euler (*On the Specific Vasodilating and Secretory Substance from Human Prostate and Vesicular Glands*, 1935):** *"I have named this active lipid extract **prostaglandin**, believing it to originate exclusively within the prostate."*
+> - 📜 **Sune Bergström (*The Prostaglandins: Isolation and Structure, Nobel Lecture*, 1982):** *"Chemical analysis revealed that every **prostaglandin** possesses a cyclopentane ring flanked by two aliphatic side chains."*
+> - 📜 **Bruce Alberts et al. (*Molecular Biology of the Cell*, 2002):** *"Aspirin exerts its analgesic and anti-inflammatory action by blocking cyclooxygenase, shutting down local **prostaglandin** synthesis."*

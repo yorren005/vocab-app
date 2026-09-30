@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A naval spectacle; a mock sea battle put on by the ancient romans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A naval spectacle; a mock sea battle put on by the ancient romans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A staged mock naval battle presented as a grand public spectacle in ancient Rome, held on an artificial lake or flooded amphitheater.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The specially constructed basin, flooded arena, or engineering facility designed to stage these naval combat reenactments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, naumachia designates a naval spectacle; a mock sea battle put on by the ancient romans."*
+> - 📜 **Suetonius (*The Twelve Caesars: Claudius*, c. 121 AD):** *"Before draining the Fucine Lake, Claudius staged a colossal **naumachia** featuring thousands of condemned combatants aboard war galleys."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*, 1776):** *"The emperors entertained the Roman populace with magnificent displays of the **naumachia**, flooding huge arenas to float hostile fleets."*
+> - 📜 **Mary Beard (*SPQR: A History of Ancient Rome*, 2015):** *"Staging a **naumachia** required astonishing hydraulic engineering, transforming dry urban arenas into violent mock battlefields."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the xiphiidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the xiphiidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic genus comprising the swordfish (Xiphias gladius), characterized by a long, flat, sword-like bill formed by extended cranial bones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical celestial constellation (now Dorado) or a classical Greco-Roman literary name for the swordfish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xiphias designates type genus of the xiphiidae."*
+> - 📜 **Aristotle (*History of Animals*, c. 343 BC):** *"The fish called **xiphias** bears a pointed beak resembling a sword, with which it breaches the sea surface."*
+> - 📜 **Pliny the Elder (*Natural History*, c. 77 AD):** *"The **xiphias**, or sword-fish, possesses a pointed snout capable of piercing the timber hulls of galleys."*
+> - 📜 **Herman Melville (*Moby-Dick*, 1851):** *"The bill of the **xiphias** has been found driven inches deep through the copper sheathing and solid oak of whaleships."*

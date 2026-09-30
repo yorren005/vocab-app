@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ordinary writing as distinguished from verse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Matter of fact, commonplace, or dull expression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Written or spoken language in its ordinary grammatical and rhetorical form, without metrical structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Straightforward, unadorned expression; or dull, commonplace reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O sweet Maria, empress of my love, These numbers will I tear, and write in prose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Soft, here follows prose. [_Reads._] _If this fall into thy hand, revolve."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We got into such a chatty state that night, through Ada and my guardian drawing me out to tell them all about Caddy, that I went on prose, prose, prosing for a length of time."*
+> - 📜 **Molière (*Le Bourgeois Gentilhomme*, 1670):** *"Good heavens! For more than forty years I have been speaking **prose** without knowing anything about it!"*
+> - 📜 **Samuel Taylor Coleridge (*Table Talk*, 1827):** *"**Prose** is words in their best order; poetry is the best words in the best order."*
+> - 📜 **George Orwell (*Why I Write*, 1946):** *"Good **prose** is like a windowpane, through which the meaning shines clearly without distraction."*

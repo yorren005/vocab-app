@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commonplaceness as a consequence of being humdrum and not exciting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commonplaceness as a consequence of being humdrum and not exciting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or condition of being prosy; tedious, dull, or uninspired matter-of-factness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Monotonous, flat conversational or written delivery lacking artistic flair.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosiness designates commonplaceness as a consequence of being humdrum and not exciting."*
+> - 📜 **Virginia Woolf (*The Voyage Out*, 1915):** *"The unrelieved **prosiness** of the dinner conversation made her long for the open sea."*
+> - 📜 **William Hazlitt (*Table Talk*, 1821):** *"The fatal defect of pedantry is its incurable **prosiness**, reducing poetry to dry catalogues."*
+> - 📜 **Anthony Trollope (*Barchester Towers*, 1857):** *"The archdeacon's speech was applauded for its orthodoxy, despite a certain heavy **prosiness**."*

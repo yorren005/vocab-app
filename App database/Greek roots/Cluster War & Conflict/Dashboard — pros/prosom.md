@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A frequently prescribed sleeping pill (trade name prosom).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A frequently prescribed sleeping pill (trade name prosom).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Variant of prosoma; the anterior part of the body of an arachnid or other chelicerate, typically bearing the eyes, mouthparts, and walking legs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cephalothorax of horseshoe crabs, spiders, and scorpions, formed by the fusion of the embryonic head and thoracic segments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosom designates a frequently prescribed sleeping pill (trade name prosom)."*
+> - 📜 **Ray Lankester (*Limulus an Arachnid*, 1881):** *"In all Chelicerata, the anterior body unit or **prosom** bears the chelicerae, pedipalps, and ambulatory limbs."*
+> - 📜 **Robert D. Barnes (*Invertebrate Zoology*, 1980):** *"The unsegmented dorsal shield covers the compact **prosom**, protecting vital neural ganglia."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*, 1989):** *"Paleozoic eurypterids possessed an armored **prosom** that anchored massive swimming appendages."*

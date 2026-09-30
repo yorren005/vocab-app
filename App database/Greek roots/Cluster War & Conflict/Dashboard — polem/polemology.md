@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek polem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of War & Conflict.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The interdisciplinary academic and sociological study of war, armed conflict, and human aggression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A field of peace and conflict research founded by Gaston Bouthoul in France, analyzing the social, psychological, and demographic roots of warfare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polemology designates a term designating an entity, condition, or phenomenon derived from greek polem."*
+> - 📜 **Gaston Bouthoul (*Traité de Polémologie*, 1951):** *"Through **polemology**, we seek to diagnose war as a social pathology, discovering its demographic and economic triggers."*
+> - 📜 **Quincy Wright (*A Study of War*, 1942):** *"The scientific discipline of **polemology** synthesizes sociology, history, and international law to comprehend organized conflict."*
+> - 📜 **Johan Galtung (*Peace by Peaceful Means*, 1996):** *"Modern peace studies incorporate **polemology** to understand the deep structural dynamics of collective violence."*

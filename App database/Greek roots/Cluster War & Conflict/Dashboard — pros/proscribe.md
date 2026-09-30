@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Command against.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Command against.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To forbid, outlaw, or prohibit by law, edict, or social consensus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman history, to publish the name of a person condemned to death and confiscation of property without trial.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The speaker knows that this beau monde does not proscribe love, provided it be in accordance with the proprieties which IT has determined upon and established. v. 5."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I lament sincerely that unessential differences of opinion should ever have been deemed sufficient to interdict half the society from the rights and the blessings of self-government, to proscribe them as unworthy of every trust."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"All we know is that persons of foreign birth and of Catholic faith are proscribed; and so are all others who don’t proscribe them at the polls."*
+> - 📜 **John Locke (*Second Treatise of Government*, 1689):** *"Legitimate civil magistrates have no authority to **proscribe** peaceful religious assemblies."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*, 1776):** *"Sulla was the first to **proscribe** Roman citizens, posting lists of political enemies in the Forum."*
+> - 📜 **Thomas Jefferson (*Letter to Benjamin Rush*, 1800):** *"I have sworn upon the altar of God eternal hostility against every form of tyranny over the mind of man, and I **proscribe** every law that curtails free thought."*

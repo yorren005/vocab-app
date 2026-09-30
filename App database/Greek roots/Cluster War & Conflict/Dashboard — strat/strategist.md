@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled in strategy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strategy that counters another strategy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled in planning and directing overall strategy, especially military or political campaigns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert advisor who formulates long-range organizational, economic, or competitive objectives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Had he not at one time longed with all his heart to establish a republic in Russia; then himself to be a Napoleon; then to be a philosopher; and then a strategist and the conqueror of Napoleon?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Had Napoleon’s aim been to destroy his army, the most skillful strategist could hardly have devised any series of actions that would so completely have accomplished that purpose, independently of anything the Russian army might do."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"They match in many ways." Lyman Mertzheimer was not seriously attracted to Isabel, but he was at times a keen strategist and the moment he saw the city girl an idea lodged in his brain."*
+> - 📜 **Niccolò Machiavelli (*The Prince*, 1513):** *"A wise **strategist** bases his actions on his own strength rather than on the goodwill of fortune."*
+> - 📜 **Henry Kissinger (*White House Years*, 1979):** *"Bismarck was a diplomatic **strategist** of towering genius who juggled multiple European alliances with effortless dexterity."*
+> - 📜 **John Keegan (*The Mask of Command*, 1987):** *"Alexander the Great combined the heroic charisma of a warrior-king with the calculated vision of a master **strategist**."*

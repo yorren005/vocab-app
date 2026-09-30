@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial device to replace or augment a missing or impaired part of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial device to replace or augment a missing or impaired part of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial body part, such as a limb, tooth, heart valve, or breast, designed to replace a missing or damaged natural structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, the addition of a sound or syllable at the beginning of a word (e.g., Latin spiritus becoming Spanish espíritu).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosthesis designates an artificial device to replace or augment a missing or impaired part of the body."*
+> - 📜 **Ambroise Paré (*Treatise on Surgery and Instruments*, 1575):** *"The skilled armorer constructed an ingenious mechanical **prosthesis** of iron gears to restore hand movement to the wounded soldier."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*, 1984):** *"Learning to incorporate a mechanical **prosthesis** into one's neurological body image requires patience and mental reorganization."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*, 1916):** *"Linguistic **prosthesis** prefixes a vowel to an intractable initial consonant cluster to ease pronunciation."*

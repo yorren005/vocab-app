@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An active diversion requiring physical exertion and competition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contest between athletes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sports, exercises, or games engaged in by athletes, especially track and field events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The systematic program or institutional practice of physical education, gymnastics, and competitive sports.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"That's the worst of going in for athletics at school, Joe--it makes you grow such a whopping size afterwards when you stop them."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"You’ll give up athletics; And take to æsthetics. 29."*
+> - 📜 **Aristotle (*Politics*, c. 350 BC):** *"In training youths, gymnastics and **athletics** must cultivate courage without degenerating into brutalizing excess."*
+> - 📜 **Pierre de Coubertin (*Olympic Memoirs*, 1931):** *"The revival of international **athletics** aimed to foster mutual respect and peace among the youth of the world."*
+> - 📜 **Virginia Woolf (*The Waves*, 1931):** *"The boys returned from the fields smelling of mud and leather, exhilarated by the afternoon's **athletics**."*

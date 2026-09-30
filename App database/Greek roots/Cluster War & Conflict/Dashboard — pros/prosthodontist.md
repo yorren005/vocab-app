@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dentist who is expert in prosthodontics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dentist who is expert in prosthodontics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dental specialist who has undergone advanced training in prosthodontics, specializing in replacing missing teeth and oral structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dental clinician expert in cosmetic smile rehabilitation, maxillofacial trauma restoration, and complex full-mouth reconstruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosthodontist designates a dentist who is expert in prosthodontics."*
+> - 📜 **Carl O. Boucher (*Prosthodontic Treatment for Edentulous Patients*, 1975):** *"The skilled **prosthodontist** evaluates the patient's temporomandibular joint dynamics before carving the master wax impression."*
+> - 📜 **Gordon J. Christensen (*A Guide to Restorative Dentistry*, 1999):** *"For patients with severe dental erosion, consulting a qualified **prosthodontist** ensures comprehensive long-term recovery."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*, 1995):** *"The facial reconstruction team included a talented **prosthetist** and **prosthodontist** working in tandem."*

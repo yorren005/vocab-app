@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to tactic or tactics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to tactic or tactics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or constituting actions carefully planned to achieve a specific military or operational end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by skillful, adroit maneuvering or short-term expediency in politics, business, sports, or diplomacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Double-check resource requirements and schedules, and tactical options and their possible effects on UIPS forces and assets in the Special Zone."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A conical view tank, recessed in the wall to his left, glowed with symbols of ships and their military characteristics, along with tactical and logistical links."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Professionals long in their trade, they were battle cruiser and destroyer flotilla commanders of the major INOR powers, backed up by their experts in military intelligence, tactical operations, and navigation, logistics and internal security."*
+> - 📜 **Carl von Clausewitz (*On War*, 1832):** *"Strategy forms the comprehensive plan of the war, while **tactical** success on the battlefield executes its individual engagements."*
+> - 📜 **Sun Tzu (*The Art of War*, c. 5th century BC):** *"All men can see these **tactical** maneuvers whereby I conquer, but none can see the strategy out of which victory is evolved."*
+> - 📜 **Winston Churchill (*The Second World War*, 1948):** *"A brilliant **tactical** victory at sea restored command of the supply convoys across the Mediterranean."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek polem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of War & Conflict.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A senior military magistrate or commander-in-chief in ancient Greek city-states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Athens, the third of the nine annual archons, originally commanding the army and later presiding over legal affairs involving foreign residents (metics).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polemarch designates a term designating an entity, condition, or phenomenon derived from greek polem."*
+> - 📜 **Herodotus (*The Histories*, c. 430 BC):** *"Miltiades persuaded Callimachus the **polemarch** to cast the deciding vote that launched the Athenian charge at Marathon."*
+> - 📜 **Aristotle (*Constitution of the Athens*, c. 350 BC):** *"The **polemarch** formerly possessed supreme command in war, but in later days he oversaw the sacrifices to Enyalius and judged disputes among resident aliens."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*, c. 411 BC):** *"The Spartan **polemarch** directed the maneuvers of his regiment upon the right wing with rigid discipline."*

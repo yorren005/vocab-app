@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek polem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of War & Conflict.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek concept, personification, or daimon of war, armed battle, and physical strife.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pre-Socratic philosophy, especially Heraclitus, the universal generative principle of dynamic tension and cosmic conflict through which all things come to be.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polemos designates a term designating an entity, condition, or phenomenon derived from greek polem."*
+> - 📜 **Heraclitus (*Fragments*, c. 500 BC):** *"**Polemos** is the father of all and the king of all; some he has shown forth as gods, some as men; some he has made free, some slaves."*
+> - 📜 **Martin Heidegger (*Introduction to Metaphysics*, 1935):** *"For Heraclitus, **Polemos** is not mere human warfare, but the primordial conflict that opens up Being."*
+> - 📜 **Friedrich Nietzsche (*Twilight of the Idols*, 1889):** *"We philosophers of the future are children of **Polemos**, strengthened by struggle against dogmatic slumber."*

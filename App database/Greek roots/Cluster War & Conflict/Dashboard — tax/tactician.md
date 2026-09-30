@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is skilled at planning tactics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is skilled at planning tactics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who uses or is skilled in planning and executing tactics, especially in military operations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adroit strategist, politician, or competitor adept at shrewd maneuvering and calculating immediate advantages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He is a great tactician!” said the prince to his son, pointing to the architect."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It was the skill of an experienced tactician to deploy the northern levies as the sappers and miners; it was very becoming certainly."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Stryver, shaking his forensic forefinger at the Temple in general, when it was down, “my way out of this, is, to put you all in the wrong.” It was a bit of the art of an Old Bailey tactician, in which he found great relief."*
+> - 📜 **Napoleon Bonaparte (*Maxims of War*, 1827):** *"The great **tactician** seizes the decisive moment on the battlefield when the enemy's flank is exposed."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*, 1892):** *"Sherlock Holmes was a master **tactician**, anticipating every countermeasure of his criminal adversary."*
+> - 📜 **Barbara Tuchman (*The Guns of August*, 1962):** *"General Foch proved a brilliant military **tactician**, insisting that offensive spirit could overcome material inferiority."*

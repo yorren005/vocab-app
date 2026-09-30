@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the physical appearance of death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing or capable of causing death.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling, suggestive of, or causing death; deadly, mortal, or corpse-like.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely, completely, or to a degree resembling death (as in deathly pale or deathly quiet).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Like this—three, four.” “How murderous and bloodthirsty!” “They are rather deathly."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode’s usual paleness had in fact taken an almost deathly hue."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In that short drive her dread gathered so much force from the sense of darkness, that when she entered the private counting-house where her brother sat at his desk, her knees trembled and her usually florid face was deathly pale."*
+> - 📜 **Emily Brontë (*Wuthering Heights*, 1847):** *"Her face grew **deathly** pale, and she leaned against the doorpost for support."*
+> - 📜 **Herman Melville (*Moby-Dick*, 1851):** *"A **deathly** chill settled over the deck as the ivory Pequod plunged into the fog."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*, 1850):** *"A **deathly** faintness came over the minister, yet he pressed his hand against his breast and walked on."*

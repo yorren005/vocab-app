@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xiph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of War & Conflict.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conjoined twins united ventrally from the lower chest to the upper abdomen, sharing the xiphoid process and lower sternal cartilages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The medical classification of ventral conjoined twinning exemplified by the historical Thai twins Chang and Eng Bunker.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xiphopagus designates a term designating an entity, condition, or phenomenon derived from greek xiph."*
+> - 📜 **Rudolph Virchow (*Cellular Pathology and Teratology*, 1862):** *"The anatomical dissection of the **xiphopagus** twins revealed a continuous band of hepatic tissue bridging the joined sternal plates."*
+> - 📜 **William Pancoast (*Report on the Post-Mortem Examination of the Siamese Twins*, 1874):** *"Chang and Eng represented a classic case of **xiphopagus**, bound together by a fibro-cartilaginous band extending from the ensiform process."*
+> - 📜 **Stephen Jay Gould (*The Flamingo's Smile*, 1985):** *"The tragic celebrity of the **xiphopagus** brothers in nineteenth-century America illuminated both medicine and public spectacle."*

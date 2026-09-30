@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Xiphoid process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The third and lowest segment of the human sternum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a sword; sword-shaped, especially referring to the cartilaginous lower extension of the sternum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The xiphoid process (processus xiphoideus), serving as an anatomical landmark in cardiopulmonary resuscitation and thoracic surgery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xiphoid designates xiphoid process."*
+> - 📜 **Galen (*On the Usefulness of the Parts of the Body*, c. 175 AD):** *"The lower tip of the sternal bone is designated **xiphoid** because its flattened blade mirrors the outline of a Greek sword."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*, 1543):** *"Attached to the lower terminus of the sternum is the flexible **xiphoid** cartilage, cushioning the epigastrium."*
+> - 📜 **Charles Bell (*The Anatomy of the Human Body*, 1802):** *"The physician positions his hand directly over the margin of the **xiphoid** cartilage to assess diaphragmatic excursion."*

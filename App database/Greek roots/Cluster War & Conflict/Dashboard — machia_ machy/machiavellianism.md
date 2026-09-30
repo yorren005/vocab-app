@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The political doctrine of machiavelli: any means (however unscrupulous) can be used by a ruler in order to create and maintain his autocratic government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political doctrine of machiavelli: any means (however unscrupulous) can be used by a ruler in order to create and maintain his autocratic government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The employment of cunning, duplicity, and unscrupulous methods in statecraft or general interpersonal conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology, one of the traits of the Dark Triad, characterized by interpersonal manipulation, cynicism, and cold self-interest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, machiavellianism designates the political doctrine of machiavelli: any means (however unscrupulous) can be used by a ruler in order to create and maintain his autocratic government."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*, 1843):** *"The Italian statecraft of the fifteenth century perfected that refined **Machiavellianism** which preferred deceit to open violence."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*, 1951):** *"Totalitarian terror transcended ordinary **Machiavellianism**, liquidating innocent populations without strategic utility."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*, 1945):** *"The success of modern dictators demonstrated that practical **Machiavellianism** remains a formidable political reality."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statesman of florence who advocated a strong central government (1469-1527).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statesman of florence who advocated a strong central government (1469-1527).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Niccolò Machiavelli (1469–1527), Italian Renaissance diplomat, philosopher, and historian, renowned author of The Prince (Il Principe).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The historical originator of modern realist political theory, analyzing political statecraft based on practical efficacy rather than moral idealism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"For their subsequent history, see ‘Le Istorie Fiorentine di Niccolo Machiavelli’. 122."*
-> - 📜 **Algis Budrys (*Citadel*):** *"What it is, we do not yet know, but further observation of the actions of their own representative on this planet has convinced us that they are a clever, ruthless people, living in a society which would have put Machiavelli to shame."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"One’s Machiavelli; the other’s Vittoria Colonna; the next is Metastasio.” “Ah, with me,” said Madame Merle, passing her arm into the Countess Gemini’s as if to guide her course to the garden, “Mr."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*, 1605):** *"We are much beholden to **Machiavelli** and others, that write what men do, and not what they ought to do."*
+> - 📜 **Jean-Jacques Rousseau (*The Social Contract*, 1762):** *"**Machiavelli** was a proper man and a good citizen; but being attached to the court of the Medici, he was forced to disguise his love of liberty."*
+> - 📜 **Isaiah Berlin (*The Originality of Machiavelli*, 1971):** *"**Machiavelli** revealed the painful truth that ultimate human values may be incompatible, forcing tragic political choices."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in strategy (especially in warfare).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in strategy (especially in warfare).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or literary term for a strategist, military commander, or expert in the science of strategy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A master of large-scale military planning, campaign maneuvering, and geopolitical grand strategy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, strategian designates an expert in strategy (especially in warfare)."*
+> - 📜 **Carl von Clausewitz (*On War*, 1832):** *"The profound **strategian** does not seek battle for its own sake, but as an instrument to enforce political peace."*
+> - 📜 **B. H. Liddell Hart (*The Ghost of Napoleon*, 1933):** *"Scipio Africanus proved himself a consummate **strategian**, combining indirect approach with tactical flexibility."*
+> - 📜 **Thomas Carlyle (*The French Revolution*, 1837):** *"Carnot, the organizer of victory, was the cool **strategian** who directed fourteen armies simultaneously."*

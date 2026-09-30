@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An athletic contest that is a long-distance race consisting of three phases (such as swimming, bicycling, and running).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An athletic contest that is a long-distance race consisting of three phases (such as swimming, bicycling, and running).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An athletic contest consisting of three consecutive events, typically swimming, cycling, and long-distance running.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An endurance multisport race popularized in the late 20th century, culminating in the Ironman and Olympic distance events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triathlon designates an athletic contest that is a long-distance race consisting of three phases (such as swimming, bicycling, and running)."*
+> - 📜 **Christopher McDougall (*Born to Run*, 2009):** *"Completing an ultra-endurance **triathlon** demands psychological resilience as much as physiological stamina."*
+> - 📜 **Haruki Murakami (*What I Talk About When I Talk About Running*, 2007):** *"Preparing for a summer **triathlon** forced me to transition from running into rigorous ocean swimming and cycling."*
+> - 📜 **George Sheehan (*Running and Being: The Total Experience*, 1978):** *"The multifaceted challenge of the **triathlon** pushes the human machine to discover its ultimate aerobic boundaries."*

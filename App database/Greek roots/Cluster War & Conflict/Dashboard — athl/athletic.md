@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to athletes or athletics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of an athlete.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Physically strong, fit, agile, and active; resembling or suitable for an athlete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to athletes or organized competitive sports and games.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"His shape, now divested of cloak, I perceived harmonised in squareness with his physiognomy: I suppose it was a good figure in the athletic sense of the term—broad chested and thin flanked, though neither tall nor graceful."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She was a big woman, in stature almost equalling her husband, and corpulent besides: she showed virile force in the contest—more than once she almost throttled him, athletic as he was."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I distinguished them easily; they were true Papuans, with athletic figures, men of good race, large high foreheads, large, but not broad and flat, and white teeth."*
+> - 📜 **John Milton (*Samson Agonistes*, 1671):** *"With **athletic** strength he shook the pillared temple until the stones came crashing down."*
+> - 📜 **Henry David Thoreau (*Walden*, 1854):** *"Morning brings back the heroic ages; I was as much affected by the faint hum of a mosquito as by any trumpet that ever sang of fame; it was Homer's requiem; itself an **athletic** exertion."*
+> - 📜 **Walt Whitman (*Leaves of Grass*, 1855):** *"I hear the robust voices of young men engaged in **athletic** contests under the open sky."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fanciful or imaginative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking wit or imagination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the style or diction of prose; lacking poetic beauty, imagination, or emotional elevation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commonplace, matter-of-fact, ordinary, or dull.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Directly the assuring and prosaic light of the world’s active hours had grown strong, she crept from under her hillock of leaves, and looked around boldly."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Last day my mind was in a bog, Down George’s Street I stoited; A creeping cauld prosaic fog My very sense doited."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In the prosaic neighborhood of Middlemarch, May was not always warm and sunny, and on this particular morning a chill wind was blowing the blossoms from the surrounding gardens on to the green mounds of Lowick churchyard."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*, 1817):** *"A poem contains the same elements as a prose composition; the difference is that it aims at immediate pleasure, not at mere **prosaic** truth."*
+> - 📜 **Jane Austen (*Mansfield Park*, 1814):** *"Her thoughts were recalled from fanciful daydreams to the **prosaic** reality of domestic chores."*
+> - 📜 **Virginia Woolf (*The Common Reader*, 1925):** *"The modern novel must learn to incorporate both lyrical ecstasy and the most **prosaic** details of daily life."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Xiphoid process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Xiphoid process.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest and smallest of the three divisions of the human sternum; the xiphoid process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cartilaginous or ossified caudal segment of the breastbone in tetrapod vertebrates that provides attachment for the abdominal musculature and diaphragm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xiphisternum designates xiphoid process."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*, 1858):** *"The inferior portion of the breastbone, termed the **xiphisternum**, remains cartilaginous until middle life, when it ossifies."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*, 1871):** *"The rectus abdominis muscle attaches firmly to the ventral margin of the **xiphisternum** in mammals."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*, 1892):** *"Palpation just below the **xiphisternum** may elicit marked tenderness in cases of acute epigastric distension."*

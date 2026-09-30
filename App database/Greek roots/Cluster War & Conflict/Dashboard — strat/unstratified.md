@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deposited in layers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deposited in layers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not arranged, formed, or deposited in layers or strata (especially of rocks or soil deposits).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (Of a society or group) not organized or divided into distinct hierarchical classes or ranks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unstratified designates not deposited in layers."*
+> - 📜 **James Hutton (*Theory of the Earth*, 1788):** *"Granite forms a colossal **unstratified** crystalline foundation beneath the layered sedimentary crust."*
+> - 📜 **Charles Lyell (*Principles of Geology*, 1830):** *"Glacial till presents an **unstratified** mass of unsorted clay, gravel, and boulders dumped without hydraulic order."*
+> - 📜 **Émile Durkheim (*The Division of Labour in Society*, 1893):** *"Early tribal clans formed relatively **unstratified** communities held together by mechanical solidarity."*

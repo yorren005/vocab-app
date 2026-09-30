@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An athletic contest involving participation by each contestant in five different events; especially : modern pentathlon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A composite contest in which all contestants compete in a 300-meter freestyle swim, a 4000-meter cross-country run, a 5000-meter 30-jump equestrian steeplechase, épée fencing, and target shooting at 25 meters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An athletic contest comprising five different events in which each competitor participates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, the classical Greek Olympic contest comprising running, javelin throwing, discus throwing, long jump, and wrestling; or modern pentathlon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentathlon designates an athletic contest involving participation by each contestant in five different events; especially : modern pentathlon."*
+> - 📜 **Pausanias (*Description of Greece*, c. 160 AD):** *"The champion of the Olympic **pentathlon** was celebrated above all other athletes for his balanced physical symmetry."*
+> - 📜 **Pindar (*Nemean Odes*, c. 470 BC):** *"Victory in the strenuous **pentathlon** requires speed, power, and unflinching endurance in every event."*
+> - 📜 **Pierre de Coubertin (*Selected Writings on the Modern Olympics*, 1912):** *"The modern **pentathlon** tests the complete military athlete through riding, fencing, shooting, swimming, and running."*

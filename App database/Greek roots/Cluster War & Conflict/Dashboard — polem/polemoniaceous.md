@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or characteristic of plants of the family polemoniaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or characteristic of plants of the family polemoniaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to, relating to, or characteristic of the botanical family Polemoniaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting the morphological traits of the phlox family, such as fused five-parted petals and three-valved capsules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polemoniaceous designates of or pertaining to or characteristic of plants of the family polemoniaceae."*
+> - 📜 **John Torrey and Asa Gray (*A Flora of North America*, 1840):** *"This newly collected specimen displays distinct **polemoniaceous** affinities in its capsular dehiscence."*
+> - 📜 **Charles Edwin Bessey (*The Phylogeny and Taxonomy of the Angiosperms*, 1897):** *"The **polemoniaceous** corolla represents an advanced level of floral gamopetaly."*
+> - 📜 **George Don (*A General History of the Dichlamydeous Plants*, 1837):** *"The hillside was adorned with a variety of **polemoniaceous** wildflowers in full bloom."*

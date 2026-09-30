@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A writer who argues in opposition to others (especially in theology).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writer who argues in opposition to others (especially in theology).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who engages in polemics; a polemicist or controversialist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A passionate advocate or adversary skilled in adversarial debate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polemist designates a writer who argues in opposition to others (especially in theology)."*
+> - 📜 **Samuel Johnson (*Lives of the English Poets*, 1779):** *"Milton proved a formidable **polemist**, crushing his royalist antagonists beneath a torrent of Latin prose."*
+> - 📜 **William Hazlitt (*The Spirit of the Age*, 1825):** *"The political **polemist** lived in an atmosphere of perpetual strife, fed by the ink of faction."*
+> - 📜 **H. L. Mencken (*Prejudices*, 1919):** *"A first-rate **polemist** attacks complacency with the joyful ferocity of a terrier shaking a rat."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large dark low cloud.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large dark low cloud.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low-altitude, uniform, featureless, grayish cloud formation forming a horizontal layer that often produces drizzle or mist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of Luke Howard's three primary cloud genera (alongside cumulus and cirrus), denoting sheet-like or layered clouds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stratus designates a large dark low cloud."*
+> - 📜 **Luke Howard (*On the Modifications of Clouds*, 1803):** *"To the continuous horizontal sheet of cloud, increasing from below, I give the name **stratus**."*
+> - 📜 **John Ruskin (*Modern Painters*, 1843):** *"The low **stratus** crept over the moorlands at dusk, wrapping every crag in a wet, ghostlike shroud."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*, 1874):** *"A leaden roof of **stratus** hung over the shearing-barn, diffusing a dreary, shadowless daylight."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising the common swordfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising the common swordfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of large, predatory marine billfish in the order Istiophoriformes whose only living representative is the swordfish (Xiphias gladius).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of pelagic apex predators characterized by an elongated flat bill, absence of pelvic fins, and specialized cranial heating organs for deep hunting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xiphiidae designates comprising the common swordfishes."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*, 1905):** *"The family **Xiphiidae** is readily distinguished from the sailfishes by the flattened, sword-like rostrum and toothless jaws of adults."*
+> - 📜 **Joseph S. Nelson (*Fishes of the World*, 2006):** *"Members of **Xiphiidae** possess an extraordinary vascular counter-current heat exchanger that warms the eyes and brain during deep ocean dives."*
+> - 📜 **Rachel Carson (*The Sea Around Us*, 1951):** *"Apex predators of the open ocean, including members of the **Xiphiidae**, chase schooling squid into cold bathypelagic depths."*

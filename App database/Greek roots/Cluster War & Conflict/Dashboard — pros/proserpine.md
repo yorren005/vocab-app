@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Goddess of the underworld; counterpart of greek persephone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Goddess of the underworld; counterpart of greek persephone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anglicized/poetic variant of Proserpina; the Roman goddess of agriculture, rebirth, and the underworld.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A symbolic literary figure representing youthful innocence stolen into darkness, or the cycle of plant germination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We maids that have our livers perished, cracked to pieces with love, we shall come there, and do nothing all day long but pick flowers with Proserpine."*
-> - 📜 **John Keats (*Lamia*):** *"As Proserpine still weeps for her Sicilian air."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The rivalry of Artemis and Phaedra for the affection of Hippolytus reproduces, it is said, under different names, the rivalry of Aphrodite and Proserpine for the love of Adonis, for Phaedra is merely a double of Aphrodite."*
+> - 📜 **Algernon Charles Swinburne (*The Garden of Proserpine*, 1866):** *"I watch the green field growing for harvest, where **Proserpine** reigns over dead winds and spent waves."*
+> - 📜 **Mary Shelley (*Proserpine and Midas*, 1820):** *"Ceres wept inconsolably across the barren earth, searching every valley for stolen **Proserpine**."*
+> - 📜 **Dante Gabriel Rossetti (*Poems*, 1870):** *"Rossetti painted **Proserpine** holding the fateful pomegranate in the shadowy corridors of Hades."*

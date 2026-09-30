@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the prostate gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the prostate gland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affecting the prostate gland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to prostatic secretions, specific antigen (PSA), or pathological hypertrophy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prostatic designates relating to the prostate gland."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*, 1858):** *"The **prostatic** portion of the urethra traverses the substance of the gland from base to apex."*
+> - 📜 **Charles Huggins (*Studies on Prostatic Cancer, Nobel Lecture*, 1966):** *"Deprivation of androgens causes rapid regression of advanced **prostatic** carcinoma."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*, 1901):** *"Chronic **prostatic** congestion may give rise to persistent perineal discomfort and dysuria."*

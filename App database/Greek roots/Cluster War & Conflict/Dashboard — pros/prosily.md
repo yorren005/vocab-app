@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a prosy manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a prosy manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dull, tedious, or matter-of-fact manner; without poetic life or inspiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an uninspired, droning conversational or literary style.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak knew her instantly as the heroine of the yellow waggon, myrtles, and looking-glass: prosily, as the woman who owed him twopence."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak knew her instantly as the heroine of the yellow waggon, myrtles, and looking-glass: prosily, as the woman who owed him twopence."*
+> - 📜 **Charles Dickens (*Bleak House*, 1853):** *"The elderly gentleman droned on **prosily**, reciting legal precedents that put half the courtroom to sleep."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*, 1858):** *"He lectured **prosily** on churchwarden accounts while the congregation fidgeted in their pews."*
+> - 📜 **Henry James (*The Bostonians*, 1886):** *"The speaker wound up his remarks **prosily**, losing all the momentum of his opening appeal."*

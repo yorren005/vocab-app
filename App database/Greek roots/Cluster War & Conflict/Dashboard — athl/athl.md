@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek athl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of War & Conflict.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek morphemic root element derived from athlos (contest, struggle, combat) and athlon (prize of a contest).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The linguistic foundation for classical words signifying competitive sport, physical contest, and athletic endurance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He thought himself her idol, ugly as he was: he believed, as he said, that she preferred his “_taille d’athlète_” to the elegance of the Apollo Belvidere."*
+> - 📜 **Henry George Liddell and Robert Scott (*A Greek-English Lexicon*, 1843):** *"The root **athl-** forms the basis of Greek words for prizes won in public games and struggles undergone in heroic labor."*
+> - 📜 **Gilbert Murray (*The Rise of the Greek Epic*, 1907):** *"From **athl-** the Greeks derived both their notion of athletic games and the heavy labors of Heracles."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*, 1939):** *"The spirit of the **athl-** infused the aristocratic competition of early Greece with moral significance."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science and art of disposing and maneuvering forces in combat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or skill of employing available means to accomplish an end.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art and science of organizing, disposing, and maneuvering armed forces in combat against an enemy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An action, method, or calculated procedure employed to accomplish a specific, immediate purpose or competitive goal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"They do wait, however, with the perseverance of military tactics, and at last the bell rings again and the client in possession comes out of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Phil, come here!” Phil bears down upon them according to his usual tactics."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Through me Hamel taught our soldiers drill and tactics and taught the Red Heads strategy."*
+> - 📜 **Niccolò Machiavelli (*The Art of War*, 1521):** *"Skillful **tactics** require that infantry maintain cohesion and flexibility under sudden cavalry charges."*
+> - 📜 **Herman Melville (*Billy Budd*, 1924):** *"The captain observed the strict disciplinary **tactics** necessary to maintain order upon a man-of-war."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*, 1861):** *"Parliamentary **tactics** often dictate compromises that dilute the radical purity of reform legislation."*

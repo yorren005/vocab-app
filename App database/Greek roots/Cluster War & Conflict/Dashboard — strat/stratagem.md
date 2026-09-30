@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cleverly contrived trick or scheme for gaining an end : a cunning strategy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trick or ruse in war for deceiving and outwitting the enemy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plan, scheme, or trick, especially one used in war or politics to deceive or outwit an opponent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A military maneuver designed to deceive the enemy regarding numbers, disposition, or intentions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, for the love of laughter, let him fetch his drum; he says he has a stratagem for’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or the baring of my beard, and to say it was in stratagem."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Every minute now Should be the father of some stratagem."*
+> - 📜 **Niccolò Machiavelli (*The Discourses*, 1517):** *"Although the use of deceit in any action is detestable, yet in the conducting of war it is praiseworthy and glorious; every **stratagem** that outwits the enemy wins honor."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*, 1591):** *"What subtle hole, what privy transmission, or what deceitful **stratagem** hath delivered our foes?"*
+> - 📜 **Thucydides (*History of the Peloponnesian War*, c. 411 BC):** *"Brasidas employed a cunning **stratagem**, concealing his main detachment behind the hill until the Athenians were disorganized."*

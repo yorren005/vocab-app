@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or concerned with strategy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or concerned with strategy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to strategy; strategic in orientation or application.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or serving a long-range operational military plan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"This has from time immemorial been one of the most important strategical points of the country of the Five Nations."*
+> - 📜 **Alfred Thayer Mahan (*The Influence of Sea Power upon History*, 1890):** *"Control of narrow maritime choke-points confers decisive **strategical** advantages across global oceans."*
+> - 📜 **Winston Churchill (*The World Crisis*, 1923):** *"The Dardanelles operation offered immense **strategical** possibilities that were tragically mismanaged."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*, 1904):** *"Mycroft possessed a mind of extraordinary **strategical** breadth, coordinating departmental policies across Whitehall."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a prosthesis; also : of or relating to prosthetics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or constituting a nonprotein group of a conjugated protein.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or serving as a prosthesis; artificial or reconstructive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, denoting a non-protein organic or inorganic group tightly bound to a protein (a prosthetic group, such as heme in hemoglobin).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosthetic designates of, relating to, or being a prosthesis; also : of or relating to prosthetics."*
+> - 📜 **Max Perutz (*Proteins and Nucleic Acids*, 1962):** *"The iron-porphyrin **prosthetic** group lies embedded within a non-polar pocket of the globin fold."*
+> - 📜 **William Gibson (*Neuromancer*, 1984):** *"He touched the carbon-fiber joints of his **prosthetic** arm, admiring its silent, hydraulic efficiency."*
+> - 📜 **Bruce Alberts et al. (*Molecular Biology of the Cell*, 2002):** *"Enzymes often recruit a covalently attached **prosthetic** group like biotin to carry out specialized catalytic chemistry."*

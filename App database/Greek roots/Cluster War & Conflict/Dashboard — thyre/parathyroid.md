@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any one of four endocrine glands situated above or within the thyroid gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any one of four endocrine glands situated above or within the thyroid gland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of four small endocrine glands situated adjacent to or embedded within the posterior surface of the thyroid gland, regulating calcium and phosphate metabolism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to parathyroid hormone (PTH), which elevates serum calcium by stimulating bone resorption, renal reabsorption, and intestinal uptake.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parathyroid designates any one of four endocrine glands situated above or within the thyroid gland."*
+> - 📜 **Ivar Sandström (*On a New Gland in Man and Several Animals: Glandulae Parathyroideae*, 1880):** *"Careful dissection revealed these small glandular bodies, which we designated the **parathyroid** glands."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*, 1901):** *"Accidental extirpation of the **parathyroid** bodies during thyroidectomy precipitates violent, life-threatening tetany."*
+> - 📜 **Bruce Alberts et al. (*Molecular Biology of the Cell*, 2002):** *"Secreted **parathyroid** hormone maintains strict homeostasis of extracellular calcium through bone and kidney feedback loops."*

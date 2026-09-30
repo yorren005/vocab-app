@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the thyroid gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the thyroid gland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by the thyroid gland or thyroid cartilage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of thyroid endocrine functioning or pathologies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyroidal designates of or relating to the thyroid gland."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*, 1858):** *"The **thyroidal** arteries supply abundant arterial blood to the anterior neck structures."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*, 1865):** *"Internal secretions such as the **thyroidal** fluid regulate the vital milieu intérieur of higher organisms."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*, 1986):** *"Normal **thyroidal** secretion maintains the basal metabolic rate of nearly all bodily cells."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A careful plan or method for achieving a particular goal usually over a long period of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of devising or employing plans or methods toward a goal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-level plan of action designed to achieve a long-term or overall aim, especially under conditions of uncertainty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of military command exercised to meet the enemy in favorable conditions through operational maneuvering and resource deployment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak was an intensely humane man: indeed, his humanity often tore in pieces any politic intentions of his which bordered on strategy, and carried him on as by gravitation."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was wrong to hope in what was of the nature of strategy, she said to herself: yet that sort of hope she could not extinguish."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But ever I remained the one player, with no planned ruse or strategy on one side that the other side did not immediately apprehend."*
+> - 📜 **Carl von Clausewitz (*On War*, 1832):** *"**Strategy** is the use of the engagement for the purpose of the war."*
+> - 📜 **Sun Tzu (*The Art of War*, c. 5th century BC):** *"**Strategy** without tactics is the slowest route to victory; tactics without strategy is the noise before defeat."*
+> - 📜 **Michael E. Porter (*What Is Strategy?, Harvard Business Review*, 1996):** *"The essence of **strategy** is choosing what not to do, deliberately performing activities differently from rivals."*

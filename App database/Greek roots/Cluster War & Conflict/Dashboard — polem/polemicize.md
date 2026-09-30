@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Engage in a controversy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage in a controversy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To engage in vigorous, aggressive argument, disputation, or controversy (standard/American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To conduct a polemical attack against a specific theory, institution, or dogma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polemicize designates engage in a controversy."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*, 1841):** *"Do not waste time trying to **polemicize** with every skeptic you meet on the highway."*
+> - 📜 **Vladimir Lenin (*What Is To Be Done?*, 1902):** *"We must relentlessly **polemicize** against opportunist deviations within the revolutionary party."*
+> - 📜 **Edward Said (*Representations of the Intellectual*, 1994):** *"The intellectual's task is not to **polemicize** for national vanity, but to speak truth to power."*

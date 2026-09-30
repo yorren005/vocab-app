@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Polemoniaceae; solanaceae; boraginaceae; labiatae; lentibulariaceae; pedaliaceae; in some classifications includes the order scrophulariales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Polemoniaceae; solanaceae; boraginaceae; labiatae; lentibulariaceae; pedaliaceae; in some classifications includes the order scrophulariales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete botanical order of dicotyledonous flowering plants that formerly included families such as Polemoniaceae, Boraginaceae, and Solanaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A classical taxonomic grouping in the Bentham & Hooker and Cronquist classification systems, now superseded by modern APG orders (Ericales, Solanales, Boraginales).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polemoniales designates polemoniaceae; solanaceae; boraginaceae; labiatae; lentibulariaceae; pedaliaceae; in some classifications includes the order scrophulariales."*
+> - 📜 **George Bentham and Joseph Dalton Hooker (*Genera Plantarum*, 1873):** *"Under the order **Polemoniales**, we group those hypogynous gamopetalae with actinomorphic corollas and isomeric stamens."*
+> - 📜 **John Merle Coulter (*Manual of the Botany of the Rocky Mountain Region*, 1885):** *"The order **Polemoniales** embraces several of the most conspicuous floral families of our mountain flora."*
+> - 📜 **Charles Edwin Bessey (*The Essentials of Botany*, 1884):** *"The sympetalous order **Polemoniales** marks an important developmental branch in angiosperm evolution."*

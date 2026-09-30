@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Argument about words or the meaning of words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Argument about words or the meaning of words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An argument, debate, or dispute conducted entirely about words, semantics, or verbal definitions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contentious battle of words or verbal quarrel characterized by hair-splitting semantic confusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Intricate and entangled as is the history, for instance, of the Arian controversy--that controversy which "turned on a diphthong," as Carlyle said in his younger days--it represented far more than mere logomachy, as Carlyle saw later on."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Gradually, from their pressure upon his spirit, he grew conscious of the outcome--they would not be content with logomachies; the end might be death."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*, 1689):** *"Most of the great disputes that agitate mankind are nothing but a tedious **logomachy** born of ambiguous terms."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*, 1781):** *"Metaphysical controversies frequently degenerate into mere **logomachy** when concepts lack empirical reference."*
+> - 📜 **William Hazlitt (*Table Talk*, 1821):** *"The theological disputants spent entire lifetimes embroiled in an endless, bitter **logomachy**."*

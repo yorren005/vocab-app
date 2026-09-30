@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert to another faith or religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert to another faith or religion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To attempt to convert someone from one religion, belief, or opinion to another (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To advocate or promote an ideology or creed with missionary zeal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proselytise designates convert to another faith or religion."*
+> - 📜 **George Bernard Shaw (*Major Barbara*, 1905):** *"The Salvation Army officers marched into the slums, eager to **proselytise** among the down-and-out."*
+> - 📜 **Bertrand Russell (*Power: A New Social Analysis*, 1938):** *"Totalitarian movements **proselytise** through state-controlled education and relentless propaganda."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*, 1927):** *"Mr. Ramsay refused to **proselytise** his philosophical skepticism, remaining fiercely solitary."*

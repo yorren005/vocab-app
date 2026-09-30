@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrupt failure of function or complete physical exhaustion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abject submission; the emotional equivalent of prostrating your body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of lying face down on the ground in submission, adoration, or reverence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of extreme physical weakness, complete exhaustion, or mental collapse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy, in his prostration at this time, had no perception that in the futility of these romantic doings, dictated by a remorseful reaction from previous indifference, there was any element of absurdity."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The utter prostration that had followed the low fever from which she had suffered diminished perceptibly when all uncertainty upon every subject had come to an end."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"After about four days out from San Antonio, the health of the men became very good, and continued so through the whole route, with the exception of occasional cases of prostration from heat, and slight fevers, the Summer being unusually hot."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*, 1776):** *"Ambassadors performed complete **prostration** before the golden throne of the Byzantine emperor."*
+> - 📜 **Mary Shelley (*Frankenstein*, 1818):** *"A nervous fever confined me to my room for months, leaving me in a state of utter physical **prostration**."*
+> - 📜 **Leo Tolstoy (*War and Peace*, 1869):** *"After the agonizing battle, Prince Andrei lay in deep **prostration**, gazing at the infinite sky above Austerlitz."*

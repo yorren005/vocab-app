@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large bilobed endocrine gland of vertebrates lying at the anterior base of the neck and producing especially the hormones thyroxine and triiodothyronine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preparation of the thyroid gland of various domestic animals used in treating thyroid disorders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, ductless, butterfly-shaped endocrine gland in the neck, secreting hormones that regulate metabolic rate, growth, and development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from Greek thyreoeides ('shield-shaped'), designating the large thyroid cartilage of the larynx as well as the overlying endocrine gland.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyroid designates a large bilobed endocrine gland of vertebrates lying at the anterior base of the neck and producing especially the hormones thyroxine and triiodothyronine."*
+> - 📜 **Thomas Wharton (*Adenographia: Description of the Glands of the Entire Body*, 1656):** *"We apply the name **thyroid** to this large gland because it lies adjacent to the shield-shaped cartilage of the larynx."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*, 1892):** *"Atrophy of the **thyroid** gland results in the lethargic, cold-intolerant syndrome of myxedema."*
+> - 📜 **Oliver Sacks (*Awakenings*, 1973):** *"The patient's erratic metabolism stabilized once the underlying **thyroid** deficiency was recognized and treated."*

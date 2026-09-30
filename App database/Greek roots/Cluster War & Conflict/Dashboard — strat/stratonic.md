@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of army.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of army.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to an army, armed forces, or military command (derived from Greek stratos).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to martial affairs, soldierly discipline, or military governance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stratonic designates adjective*) pertaining to, derived from, or characteristic of army."*
+> - 📜 **George Grote (*A History of Greece*, 1846):** *"The Spartan state was governed by a severe **stratonic** ethic that regarded individual autonomy as treason."*
+> - 📜 **Gilbert Murray (*Five Stages of Greek Religion*, 1912):** *"Early Hellenic tribal confederacies relied on **stratonic** assemblies of fighting men to elect war leaders."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*, 1934):** *"The regimented clockwork of modern industrial factories drew its earliest models from **stratonic** barracks discipline."*

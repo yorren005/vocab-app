@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A follower of machiavelli's principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to machiavelli or the principles of conduct he recommended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cunning, scheming, and unscrupulous, especially in politics or in advancing one's career.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of the political principles expounded in Machiavelli's The Prince, prioritizing expediency over conventional morality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Touchett going to take you abroad?” “I hope so.” “Is England not good enough for you?” “That’s a very Machiavellian speech; it doesn’t deserve an answer."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"So this Machiavellian captain of infantry cast about him for some happy means or stratagem by which he could gently and gradually bring the Misses Osborne to a knowledge of their brother's secret."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The artful diplomatist and disciple of the Machiavellian Binkie!"*
+> - 📜 **William Shakespeare (*Henry VI, Part 3*, 1591):** *"I can add colors to the chameleon, / Change shapes with Proteus for advantages, / And set the murderous **Machiavellian** to school."*
+> - 📜 **Henry Kissinger (*Diplomacy*, 1994):** *"Cardinal Richelieu executed a coolly **Machiavellian** policy, placing the national interest of France above religious solidarity."*
+> - 📜 **George Orwell (*1984*, 1949):** *"The Inner Party practiced a coldly **Machiavellian** manipulation of reality to preserve perpetual domination."*

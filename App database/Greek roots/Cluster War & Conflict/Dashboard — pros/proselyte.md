@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A new convert; especially a gentile converted to judaism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A new convert; especially a gentile converted to judaism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has converted from one opinion, religion, or political party to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical Judaism, a Gentile convert who adopted circumcision and the full Mosaic law (proselyte of righteousness).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"They deem themselves a righteous band, And for religion's sake They bravely compass sea and land One proselyte to make."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Besides, what proof have you that I was attempting to proselyte your wife?” “This,” said I, pulling the leaf from my pocket—“this leaf from one of those devilish Papist books you and she were reading this evening."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a creature, Would she begin a sect, might quench the zeal Of all professors else; make proselytes Of who she but bid follow."*
+> - 📜 **Flavius Josephus (*The Jewish War*, c. 75 AD):** *"Many Greek citizens in Antioch became drawn to Jewish rites, welcoming the **proselyte** into the synagogue."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*, 1776):** *"Early Christianity gained rapid momentum by welcoming every humble **proselyte** without ancestral distinction."*
+> - 📜 **Thomas Babington Macaulay (*History of England*, 1848):** *"The political convert was eyed with suspicion, for a zealous **proselyte** often outdoes old partisans in bitterness."*

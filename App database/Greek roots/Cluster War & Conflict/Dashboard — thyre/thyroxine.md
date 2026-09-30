@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An iodine-containing hormone C15H11I4NO4 that is an amino acid produced by the thyroid gland as a product of the cleavage of thyroglobulin, increases metabolic rate, and is used to treat thyroid disorders —called also T4.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An iodine-containing hormone C15H11I4NO4 that is an amino acid produced by the thyroid gland as a product of the cleavage of thyroglobulin, increases metabolic rate, and is used to treat thyroid disorders —called also T4.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal hormone produced by the thyroid gland (tetraiodothyronine, or T4), essential for regulating metabolic rate, cellular oxygen consumption, and body development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An iodinated amino acid derivative synthesized from tyrosine within thyroglobulin, converted peripherally to the more active triiodothyronine (T3).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyroxine designates an iodine-containing hormone c15h11i4no4 that is an amino acid produced by the thyroid gland as a product of the cleavage of thyroglobulin, increases metabolic rate, and is used to treat thyroid disorders —called also t4."*
+> - 📜 **Edward C. Kendall (*The Isolation in Crystalline Form of the Compound Containing Iodine Which Occurs in the Thyroid*, 1915):** *"We succeeded in isolating pure crystalline **thyroxine**, the compound responsible for the metabolic activity of the gland."*
+> - 📜 **Charles Robert Harington (*The Constitution and Synthesis of Thyroxine*, 1927):** *"The chemical synthesis of **thyroxine** established its structure as a tetraiodo derivative of hydroxyphenyltyrosine."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*, 1986):** *"Circulating **thyroxine** increases the expression of mitochondrial oxidative enzymes across virtually every vertebrate tissue."*

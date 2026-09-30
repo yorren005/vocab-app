@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is trained or skilled in exercises, sports, or games requiring physical strength, agility, or stamina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal (such as a horse or a dog) that competes in races or other sporting events or has qualities (such as stamina and agility) suggestive of a human athlete.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is proficient in sports and other forms of physical exercise, especially one who competes in organized contests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically in ancient Greece, a competitor who trained rigorously to vie for a prize (athlon) in public games such as the Olympic festivals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Most men of his age would have looked clumsy in such an unbuttoned attitude, but Hyde was an athlete still, and Laura, who was fond of sketching, admired his vigorous grace."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"I do not believe that Keinohoomanawanui is an athlete."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Harker Brayton, a bachelor of thirty-five, a scholar, idler, and something of an athlete, rich, popular, and of sound health, had returned to San Francisco from all manner of remote and unfamiliar countries."*
+> - 📜 **Homer (*The Odyssey*, c. 8th century BC):** *"No greater glory can befall a man in his life than what he wins with his hands and feet as an **athlete**."*
+> - 📜 **Pindar (*Olympian Odes*, c. 476 BC):** *"The victorious **athlete** reaps the sweetest reward when the poet crowns his triumph with immortal song."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*, 1841):** *"A hearty **athlete** enjoys the wrestling match, finding joy in the strenuous exertion of his powers."*

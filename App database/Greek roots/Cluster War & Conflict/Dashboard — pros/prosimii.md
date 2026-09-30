@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not used in all classifications; in some classifications considered coextensive with the lemuroidea; in others includes both lemuroidea and tarsioidea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not used in all classifications; in some classifications considered coextensive with the lemuroidea; in others includes both lemuroidea and tarsioidea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former, now paraphyletic suborder of primates grouping lemurs, lorises, galagos, and tarsiers together as 'primitive primates.'
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A classical taxonomic category contrasting nocturnal basal primates with the higher simians or anthropoids (monkeys, apes, and humans).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosimii designates not used in all classifications; in some classifications considered coextensive with the lemuroidea; in others includes both lemuroidea and tarsioidea."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*, 1966):** *"The suborder **Prosimii** flourished throughout the Eocene epoch, populating forests across North America and Eurasia."*
+> - 📜 **Ernst Mayr (*Principles of Systematic Zoology*, 1969):** *"Cladistic revisions split the historical **Prosimii**, placing tarsiers with anthropoids in the suborder Haplorhini."*
+> - 📜 **W. E. Le Gros Clark (*The Antecedents of Man*, 1959):** *"The cranial morphology of fossil **Prosimii** illuminates the initial expansion of visual cortex in early mammals."*

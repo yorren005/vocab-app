@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prostate gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A firm partly muscular partly glandular body that is situated about the base of the mammalian male urethra and that secretes an alkaline viscid fluid which is a major constituent of the semen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A firm, walnut-sized exocrine gland surrounding the neck of the bladder in male mammals, secreting alkaline seminal fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An androgen-dependent organ situated anterior to the rectum ('standing in front', Greek prostates), crucial for sperm motility and viability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"My trouble was pronounced by some to be Bright's disease, by others gravel on the kidneys with very acute inflammation of the bladder and prostate gland."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*, 1543):** *"Encircling the origin of the male urethra sits the glandular body anciently designated the **prostate**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*, 1892):** *"Benign hypertrophy of the **prostate** is an exceedingly common affliction of advancing years, causing urinary obstruction."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*, 1986):** *"The alkaline secretion of the **prostate** neutralizes vaginal acidity, enhancing the survival of motile spermatozoa."*

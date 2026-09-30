@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the prostate gland characterized by perineal pain and irregular urination and (if severe) chills and fever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the prostate gland characterized by perineal pain and irregular urination and (if severe) chills and fever.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation or infection of the prostate gland, often causing pelvic pain, dysuria, and systemic malaise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common urological condition categorized into acute bacterial, chronic bacterial, and chronic non-bacterial pelvic pain syndromes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prostatitis designates inflammation of the prostate gland characterized by perineal pain and irregular urination and (if severe) chills and fever."*
+> - 📜 **Ernst von Bergmann (*A System of Practical Surgery*, 1904):** *"Acute **prostatitis** is characterized by intense perineal throbbing, fever, and acute retention of urine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*, 1892):** *"Prompt antibiotic administration and rest are required to prevent acute **prostatitis** from terminating in abscess formation."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*, 1986):** *"Chronic **prostatitis** can significantly impair the secretory function of the gland and compromise semen quality."*

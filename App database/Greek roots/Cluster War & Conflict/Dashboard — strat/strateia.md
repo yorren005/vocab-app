@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek strat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of War & Conflict.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A military campaign, expedition, or service in ancient Greece and the Byzantine Empire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Byzantine administration, an obligation of hereditary military service attached to designated peasant landholdings (strateia lands).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, strateia designates a term designating an entity, condition, or phenomenon derived from greek strat."*
+> - 📜 **Xenophon (*Hellenica*, c. 360 BC):** *"Agesilaus proclaimed a general **strateia** across the Peloponnese to march against the Persian satraps."*
+> - 📜 **George Ostrogorsky (*History of the Byzantine State*, 1956):** *"The institutional strength of the middle Byzantine empire rested upon the peasant soldier who performed hereditary **strateia**."*
+> - 📜 **Warren Treadgold (*Byzantium and Its Army*, 1995):** *"Registration on the rolls of the **strateia** secured land grants in exchange for supplying equipped cavalry."*

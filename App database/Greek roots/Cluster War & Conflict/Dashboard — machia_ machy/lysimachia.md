@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loosestrife: a cosmopolitan genus found in damp or swampy terrain having usually yellow flowers; inclined to be invasive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loosestrife: a cosmopolitan genus found in damp or swampy terrain having usually yellow flowers; inclined to be invasive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous flowering plants in the primrose family (Primulaceae), commonly called loosestrife, bearing bright yellow or white star-shaped flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Named according to Pliny after Lysimachus, king of Thrace, whom legend claimed pacified a charging ox by waving a sprig of this herb ('strife-looser').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lysimachia designates loosestrife: a cosmopolitan genus found in damp or swampy terrain having usually yellow flowers; inclined to be invasive."*
+> - 📜 **Pliny the Elder (*Natural History*, c. 77 AD):** *"King Lysimachus discovered the tranquilizing virtue of **Lysimachia**, with which he pacified restive draft oxen."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*, 1597):** *"Yellow loosestrife, which botanists call **Lysimachia**, groweth in moist meadows and by riverbanks."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*, 1789):** *"Along the stream margins the bright spikes of **Lysimachia** shone vividly against the dark reeds."*

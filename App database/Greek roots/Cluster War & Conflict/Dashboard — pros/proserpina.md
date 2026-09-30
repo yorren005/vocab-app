@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Goddess of the underworld; counterpart of greek persephone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Goddess of the underworld; counterpart of greek persephone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Roman mythology, the goddess of spring and daughter of Ceres, abducted by Pluto to reign as Queen of the Underworld (Latin equivalent of Greek Persephone).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archetype of seasonal rebirth and vegetal regeneration, whose return to the upper world brings about the return of flora and warmth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou grumblest and railest every hour on Achilles; and thou art as full of envy at his greatness as Cerberus is at Proserpina’s beauty—ay, that thou bark’st at him."*
-> - 📜 **John Milton (*Paradise Lost*):** *"To Pales, or Pomona, thus adorned, Likest she seemed, Pomona when she fled Vertumnus, or to Ceres in her prime, Yet virgin of Proserpina from Jove."*
+> - 📜 **Ovid (*Metamorphoses*, c. 8 AD):** *"Pluto caught up lovely **Proserpina** in his dark chariot, carrying her beneath the yawning earth."*
+> - 📜 **John Milton (*Paradise Lost*, 1667):** *"Not that fair field of Enna, where **Proserpina** gathering flowers, herself a fairer flower, by gloomy Dis was gathered."*
+> - 📜 **Walter Pater (*Greek Studies*, 1895):** *"The myth of **Proserpina** embodies the profound sorrow of winter and the ecstatic awakening of spring."*

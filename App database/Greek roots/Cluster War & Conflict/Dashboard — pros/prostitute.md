@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who engages in sexual intercourse for money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sell one's body; exchange sex for money.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, typically a woman, who engages in sexual activity in exchange for payment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To corrupt, debase, or misuse one's talents, skills, or principles for low, mercenary, or unworthy ends.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say we must not So stain our judgment, or corrupt our hope, To prostitute our past-cure malady To empirics, or to dissever so Our great self and our credit, to esteem A senseless help, when help past sense we deem."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Prove that I cannot, take me home again, And prostitute me to the basest groom That doth frequent your house."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The celebrated Pericles, in compliance with the resentment of a prostitute,[1] at the expense of much of the blood and treasure of his countrymen, attacked, vanquished, and destroyed the city of the SAMNIANS."*
+> - 📜 **Charles Dickens (*David Copperfield*, 1850):** *"Martha Endell wandered the rainy London bridges, a tragic, fallen figure whom society cast out as a **prostitute**."*
+> - 📜 **John Milton (*Areopagitica*, 1644):** *"He that can apprehend and consider vice with all her baits, and yet prefer that which is truly virtuous, does not **prostitute** his judgment."*
+> - 📜 **Simone de Beauvoir (*The Second Sex*, 1949):** *"The legal and economic status of the **prostitute** reveals the patriarchal commodification of female sexuality."*

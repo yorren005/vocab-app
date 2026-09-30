@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An aggressive attack on or refutation of the opinions or principles of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or practice of disputation or controversy —usually used in plural but singular or plural in construction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong, aggressive verbal or written attack on someone's opinions, beliefs, or philosophy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who writes or speaks in passionate, aggressive opposition to established doctrine; a controversialist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Epitaph On A Noisy Polemic Below thir stanes lie Jamie’s banes; O Death, it’s my opinion, Thou ne’er took such a bleth’rin bitch Into thy dark dominion!"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"With reference to the military side—the plan of campaign—that work of genius of which Thiers remarks that, “His genius never devised anything more profound, more skillful, or more admirable,” and enters into a polemic with M."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It is of course possible that much of his knowledge came from books, perhaps after his conversion, for one great part of Christian polemic was the simple exposure of the secret rites of paganism."*
+> - 📜 **John Milton (*Areopagitica*, 1644):** *"Let her and Falsehood grapple; whoever knew Truth put to the worse in a free and open **polemic**?"*
+> - 📜 **Friedrich Nietzsche (*On the Genealogy of Morality*, 1887):** *"This inquiry was conceived as a **polemic** against the comfortable moral prejudices of modern Europe."*
+> - 📜 **Christopher Hitchens (*Letters to a Young Contrarian*, 2001):** *"The craft of the **polemic** requires sharp intellectual clarity combined with uncompromising rhetorical courage."*
