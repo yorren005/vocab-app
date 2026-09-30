@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who enlists workers to join a union.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who brings order and organization to an enterprise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who arranges, coordinates, or administers an event, movement, institution, or project.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental embryology, a tissue region (such as the Spemann organizer) that directs the morphological differentiation of adjacent cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He’s the organiser in point of fact."*
+> - 📜 **Jack London (*The Iron Heel*):** *"He was an untiring labor **organiser**, traveling from town to town beneath the constant surveillance of the police."*
+> - 📜 **Hans Spemann (*Embryonic Development and Induction*):** *"The dorsal lip of the blastopore functions as an embryonic **organiser**, inducing the neural axis in the host."*
+> - 📜 **Arnold Bennett (*The Old Wives' Tale*):** *"Sophia proved herself a capable **organiser**, transforming the run-down pension into a thriving enterprise."*

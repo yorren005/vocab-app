@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By stochastic means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By stochastic means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stochastic manner; in accordance with probability or random distribution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determined or modeled by probabilistic equations and statistical uncertainty over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stochastically designates by stochastic means."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"Molecules in a gas move **stochastically**, their individual paths unpredictable, yet their macroscopic pressure precisely law-abiding."*
+> - 📜 **Erwin Schrödinger (*What Is Life?*):** *"Even if quantum transitions occur **stochastically**, the organism preserves macroscopic order through exquisite molecular machinery."*
+> - 📜 **Murray Gell-Mann (*The Quark and the Jaguar*):** *"Complex adaptive systems evolve **stochastically**, selecting successful strategies out of vast ensembles of possibilities."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an organization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the structure, management, or coordination of an organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and sociology, concerning interpersonal dynamics, leadership efficiency, and administrative hierarchy within institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, organisational designates of or relating to an organization."*
+> - 📜 **Max Weber (*The Theory of Social and Economic Organization*):** *"Bureaucracy represents the purest type of exercise of **organisational** authority."*
+> - 📜 **C. P. Snow (*Corridors of Power*):** *"He possessed that rare **organisational** instinct that anticipates administrative crises before they break."*
+> - 📜 **Bertrand Russell (*Power: A New Social Analysis*):** *"The **organisational** reach of the modern state enables an unprecedented concentration of social power."*

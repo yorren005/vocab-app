@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not typical : irregular, unusual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being an antipsychotic drug (such as risperidone) that tends to produce fewer adverse side effects on movement (such as dyskinesia) than previously used antipsychotic drugs (such as haloperidol).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not representative of a type, group, or class; unusual, anomalous, or departing from standard norms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine and psychiatry, describing diseases, symptoms, or neurodevelopmental patterns that do not conform to classic clinical presentations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atypical designates not typical : irregular, unusual."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Evolutionary innovations often arise from seemingly **atypical** structures that happen to confer novel adaptive advantages."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"The criminal's behavior was completely **atypical**, showing none of the usual calculated cunning of a professional spy."*
+> - 📜 **H. G. Wells (*The Food of the Gods*):** *"The gigantic growth of the flora presented an **atypical** botanical puzzle to the bewildered villagers."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of people who work together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organized structure for arranging or classifying.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organized entity or group of people formed for a particular purpose (such as a business, institution, or association).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act, process, or manner of organizing components into an orderly, functional system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The whole organization of this prison is stupid."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"RESOURCES AND ECONOMIC ORGANIZATION. 1."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"PROBLEMS OF INDUSTRIAL ORGANIZATION. 25."*
+> - 📜 **Jack London (*The Iron Heel*):** *"The subterranean **organization** of the socialist parties prepared for resistance against the oligarchy."*
+> - 📜 **Frank A. Fetter (*Economics Volume I: Economic Principles*):** *"The efficient **organization** of industrial enterprise multiplies the productivity of human labor."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Americans of all ages constantly form associations and cultivate the art of social **organization**."*

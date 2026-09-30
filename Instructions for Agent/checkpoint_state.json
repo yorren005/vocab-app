@@ -1,7 +1,7 @@
 {
   "startedAt": "2026-09-30T17:10:00+08:00",
-  "lastUpdatedAt": "2026-09-30T20:47:45+08:00",
-  "currentMilestone": "Milestone 4: Greek roots curation (Cluster Power, Strength & Dominion COMPLETED)",
+  "lastUpdatedAt": "2026-09-30T20:52:30+08:00",
+  "currentMilestone": "Milestone 4: Greek roots curation (Cluster Science & Inquiry COMPLETED)",
   "milestones": {
     "milestone_0_instructions": "completed",
     "milestone_1_mobile_ui": "completed",
@@ -42,7 +42,8 @@
     "Cluster Pain and Healing",
     "Cluster Growth and Decay",
     "Cluster Earth and Stone",
-    "Greek roots: Cluster Power, Strength & Dominion"
+    "Greek roots: Cluster Power, Strength & Dominion",
+    "Greek roots: Cluster Science & Inquiry"
   ],
   "stats": {
     "totalWordFiles": 47447,
@@ -51,8 +52,9 @@
     "englishVocabMasterClusters": 30,
     "englishVocabMasterWords": 514,
     "englishVocabMasterIssuesRemaining": 0,
-    "greekRootsClustersCompleted": 1,
-    "greekRootsWordsCurated": 60,
-    "greekRootsClusterPowerStrengthDominionIssues": 0
+    "greekRootsClustersCompleted": 2,
+    "greekRootsWordsCurated": 139,
+    "greekRootsClusterPowerStrengthDominionIssues": 0,
+    "greekRootsClusterScienceInquiryIssues": 0
   }
 }

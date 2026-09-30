@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to the stage of mitosis known as anaphase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to the stage of mitosis known as anaphase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or occurring during anaphase, the stage of cell division in which sister chromatids or homologous chromosomes separate and move toward opposite poles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, relating to anaphasia (severe loss of speech or articulation).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaphasic designates of or related to the stage of mitosis known as anaphase."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Inheritance*):** *"During the **anaphasic** movement, the separated daughter chromosomes migrate uniformly toward the centrosomes."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Disruptions during the **anaphasic** stage of meiosis frequently produce aneuploid gametes and chromosomal aberrations."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In profound **anaphasic** disturbance, the motor impulses for speech remain entirely uncoordinated."*

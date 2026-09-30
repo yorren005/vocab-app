@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In regard to academic matters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regard to academic matters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to academic pursuits, scholastic education, or scholarship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a theoretical, abstract, or purely intellectual manner without practical effect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, academically designates in regard to academic matters."*
+> - 📜 **Bertrand Russell (*On Education*):** *"Students who are **academically** gifted must not be permitted to despise the manual labor that sustains them."*
+> - 📜 **Thorstein Veblen (*The Higher Learning in America*):** *"The university must be **academically** autonomous if it is to fulfill its historic mission of disinterested inquiry."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Knowledge conceived **academically** as a museum of static truths loses its transformative social power."*

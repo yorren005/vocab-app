@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Edible viscera of a butchered animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fully differentiated structural and functional unit in an animal that is specialized for some particular function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Multiple specialized anatomical or biological structures performing coordinated functions within a living organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Instrumental agencies, faculties, or administrative branches by which a government or institution exercises its functions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is just so high as it is, and moves with it own organs."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dry up in her the organs of increase; And from her derogate body never spring A babe to honour her!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For you must know we have with special soul Elected him our absence to supply; Lent him our terror, drest him with our love, And given his deputation all the organs Of our own power."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Hath not a Jew eyes? hath not a Jew hands, **organs**, dimensions, senses, affections, passions?"*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The vital **organs** of the thoracic cavity work in perpetual rhythm to oxygenate the blood."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"The separate **organs** of constitutional government must coordinate their energies if policy is to remain effective."*

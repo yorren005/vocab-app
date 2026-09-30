@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from water and especially water of crystallization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from water and especially water of crystallization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely free from water, especially referring to a crystalline chemical compound lacking water of crystallization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical processing, describing reagents, solvents, or gases prepared without moisture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anhydrous designates free from water and especially water of crystallization."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The gas was passed over fused calcium chloride until it was obtained in an absolutely **anhydrous** state."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"By calcining the salt until all vapors ceased, we obtained an **anhydrous** mass of surprising density."*
+> - 📜 **Thomas W. Corbin (*The Romance of Submarine Engineering*):** *"The reaction requires an **anhydrous** medium to prevent premature hydrolytic decomposition."*

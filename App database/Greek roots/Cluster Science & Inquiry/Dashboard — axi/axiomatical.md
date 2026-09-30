@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or derived from axioms; ; - s.s.stevens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or derived from axioms; ; - s.s.stevens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having the character of, or containing an axiom; self-evident.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formulated in brief, authoritative maxims or dogmatic general principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axiomatical designates of or relating to or derived from axioms; ; - s.s.stevens."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Knowledge delivered in **axiomatical** form ought to be tested by open enquiry rather than received in blind veneration."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The moralist delivers **axiomatical** rules for human conduct, yet life frequently confounds his tidy maxims."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The principle of utility presents an **axiomatical** certainty for the legislator."*

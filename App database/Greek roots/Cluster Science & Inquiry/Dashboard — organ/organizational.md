@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an organization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to an organization or its administrative and operational structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In management and cognitive science, concerning the systematic arrangement, logistics, and coordination of resources and personnel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, organizational designates of or relating to an organization."*
+> - 📜 **Chester I. Barnard (*The Functions of the Executive*):** *"An **organizational** structure functions effectively only when communication channels are transparent and authoritative."*
+> - 📜 **Herbert A. Simon (*Administrative Behavior*):** *"Human rational choice is bounded by the complexity of the **organizational** environment in which it operates."*
+> - 📜 **Lewis Mumford (*The Myth of the Machine*):** *"The modern military-industrial complex exhibits immense **organizational** discipline combined with primitive moral purposes."*

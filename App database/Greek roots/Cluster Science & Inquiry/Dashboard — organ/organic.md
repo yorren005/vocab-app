@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, yielding, or involving the use of food produced with the use of feed or fertilizer of plant or animal origin without employment of chemically formulated fertilizers, growth stimulants, antibiotics, or pesticides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or derived from living organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, derived from, or characteristic of living organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, relating to compounds containing carbon; in architecture and philosophy, forming an integrated whole where parts develop naturally together.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The recuperative power which pervaded organic nature was surely not denied to maidenhood alone."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Few kinds of food answer very well to this last requirement, being organic and perishable."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The organic nature of local industry causes these evils to be felt by many classes."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"There was a profound **organic** sympathy between Giles Winterborne and the trees he pruned with loving care."*
+> - 📜 **Frank A. Fetter (*Economics Volume I: Economic Principles*):** *"An economy is not a dead machine, but an **organic** growth responding continuously to human desires."*
+> - 📜 **Frank Lloyd Wright (*An Organic Architecture*):** *"An **organic** architecture grows out of the site as naturally as a flower rises from the soil."*

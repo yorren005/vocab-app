@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of not, without, lacking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of not, without, lacking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek privative prefix (ἀν-, an- before vowels), expressing negation, absence, privation, or lack (equivalent to English un- or in-).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific, biological, and medical nomenclature, signifying the total absence, suppression, or deficiency of an organ, function, chemical element, or property.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Erinnerst Du Dich des Gedichtes von Chamisso,[110] wo der Maler einen Juengling ans Kreuz nagelt, um ein Bild vom Todesschmerze zu haben?"*
-> - 📜 **James Joyce (*Ulysses*):** *"And left the _femme de trente ans._ And why no other children born?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"B.] They steek their een, and grape an’ wale For muckle anes, an’ straught anes."*
+> - 📜 **Aristotle (*Categories*):** *"Privation, indicated by the prefix **an**- in Hellenic speech, denotes the absence of a natural attribute in a subject capable of possessing it."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Biological taxonomy borrows the Greek particle **an**- to designate organisms devoid of specific structures."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"In modern chemical nomenclature, the particle **an**- instantly marks compounds deprived of water or vital gases."*

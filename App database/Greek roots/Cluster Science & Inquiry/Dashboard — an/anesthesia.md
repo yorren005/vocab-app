@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of sensation with or without loss of consciousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent that produces anesthesia : anesthetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insensibility to pain, touch, or other physical sensation, artificially induced by the administration of gases or drugs before surgical operations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology, a pathological loss of feeling or sensation in a part or all of the body resulting from disease or nerve injury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anesthesia designates loss of sensation with or without loss of consciousness."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Letter to William T. G. Morton, Nov 21, 1846*):** *"Everybody wants to have a hand in a great discovery; all I will do is give you a hint or two as to names: the state should, I think, be called **anesthesia**."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The conquest of surgical agony through modern **anesthesia** stands as one of humanity’s greatest humanitarian triumphs."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The operation was performed under complete **anesthesia**, yet the creature's subsequent groans chilled my blood."*

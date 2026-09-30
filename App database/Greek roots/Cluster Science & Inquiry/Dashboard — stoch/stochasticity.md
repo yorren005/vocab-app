@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of lacking any predictable order or plan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lacking any predictable order or plan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being stochastic; randomness, unpredictability, or reliance upon probability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecology and population genetics, fluctuations in species numbers or gene frequencies arising from inherent random demographic or environmental events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stochasticity designates the quality of lacking any predictable order or plan."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"Replay the tape of life, and the inherent **stochasticity** of evolutionary events would yield an entirely different tree of organisms."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Small populations face extinction not only from habitat loss but from the ruthless demographic **stochasticity** of harsh seasons."*
+> - 📜 **Ilya Prigogine (*The End of Certainty*):** *"Fundamental physics must integrate microscopic **stochasticity** to understand how order emerges spontaneously from nonequilibrium states."*

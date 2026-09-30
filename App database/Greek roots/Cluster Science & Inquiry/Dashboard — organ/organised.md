@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring order and organization to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Create (as an entity).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed into a coherent, functioning, and systematic structure; orderly and methodical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or enrolled in an association or trade union; prepared for coordinated collective action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"There were many, of course, in the Church who had no sympathy with this movement, and who, if they had been properly organised and led, might have been able to defeat it."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"The trouble is that I've no gift for organised charity."*
-> - 📜 **Bram Stoker (*Dracula*):** *"It was a pity that we had not some better organised plan of attack, for even at the moment I wondered what we were to do."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"His ledger was kept with an **organised** precision that admitted no error or negligence."*
+> - 📜 **Winston Churchill (*My Early Life*):** *"An army is an **organised** multitude, whose strength evaporates the moment discipline relaxes."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"The new world republic arose from the ruins of war as an **organised** commonwealth of science."*

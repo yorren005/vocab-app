@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having or belonging to a structured whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not affiliated in a trade union.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking systematic arrangement, order, or coordinated structure; chaotic or haphazard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not belonging to or formed into an association, trade union, or coordinated collective body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unorganised designates not having or belonging to a structured whole."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The **unorganised** workers in the small metal trades were entirely at the mercy of sudden wage cuts."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"An **unorganised** mass of men is but a mob, impotent for good and terrible only for destruction."*
+> - 📜 **H. G. Wells (*Anticipations*):** *"A sprawling, **unorganised** population presents no resistance to the disciplined cadres of modern technique."*

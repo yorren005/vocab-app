@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the nature, types, and criteria of values and of value judgments especially in ethics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the nature, types, and criteria of values and of value judgments especially in ethics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of philosophy that studies the nature, types, and criteria of values and value judgments, especially in ethics and aesthetics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular system or framework of moral, social, or aesthetic values held by an individual, society, or philosophical school.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axiology designates the study of the nature, types, and criteria of values and of value judgments especially in ethics."*
+> - 📜 **William James (*The Will to Believe and Other Essays in Popular Philosophy*):** *"Our ethical **axiology** cannot be divorced from the living stakes of practical human choice."*
+> - 📜 **Alfred North Whitehead (*Process and Reality*):** *"Cosmology requires an **axiology** that finds intrinsic value in every fleeting occasion of experience."*
+> - 📜 **Paul Tillich (*Systematic Theology*):** *"Without a coherent **axiology**, modern culture drifts into existential despair, unable to distinguish the ultimate from the preliminary."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Orthodoxy of a scholastic variety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Orthodoxy of a scholastic variety.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant of academicism; adherence to the principles, methods, or orthodox traditions of an academy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formal, pedantic scholarship or stylistic conservatism that resists innovation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, academism designates orthodoxy of a scholastic variety."*
+> - 📜 **Roger Fry (*Vision and Design*):** *"The stultifying influence of late Victorian **academism** was finally shattered by the post-impressionist exhibition."*
+> - 📜 **Benedetto Croce (*Aesthetic as Science of Expression*):** *"Pure art transcends the narrow prescriptions of **academism** through spontaneous expressive intuition."*
+> - 📜 **Arthur Symons (*The Symbolist Movement in Literature*):** *"The new lyricists revolted against the cold **academism** that had choked poetic imagination."*

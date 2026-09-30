@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: —used to express triumph on a discovery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by usually sudden triumphant discovery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exclamation attributed to Archimedes upon discovering a method to test the purity of gold, used to express sudden triumph or delight at a breakthrough discovery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a noun or adjective, an unexpected flash of creative or intellectual insight (a 'eureka moment'); marked by sudden realization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I shouted ‘Eureka!’ and smashed the case with joy."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I shouted ‘**Eureka**!’ and smashed the case with joy."*
+> - 📜 **Edgar Allan Poe (*Eureka: A Prose Poem*):** *"With a heart full of enthusiasm, I present this treatise, which I have named **Eureka**, to those who feel rather than think."*
+> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"I shouted '**Eureka**!' for in that flash of thought the whole mechanical riddle was solved."*

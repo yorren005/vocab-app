@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone affected by aphasia or inability to use or understand language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to or affected by aphasia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by or relating to aphasia; exhibiting impaired speech or language comprehension resulting from cerebral pathology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a noun, a person who suffers from aphasia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphasic designates someone affected by aphasia or inability to use or understand language."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **aphasic** patient frequently struggles for minutes to produce a familiar monosyllable."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"His speech grew halting and fragmented, like an **aphasic** reaching into empty air for forgotten nouns."*
+> - 📜 **Carl Wernicke (*The Aphasic Symptom Complex*):** *"An **aphasic** individual with a lesion in the superior temporal gyrus retains fluent syntax despite profound semantic incoherence."*

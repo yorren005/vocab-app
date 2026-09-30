@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to an axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to an axis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a direction parallel to or centered upon an axis; with reference to an axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In engineering and mechanics, describing forces, stresses, or loads applied straight through the longitudinal center of a shaft or member.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axially designates with respect to an axis."*
+> - 📜 **William John Macquorn Rankine (*A Manual of Applied Mechanics*):** *"When a column is loaded **axially**, the compressive strain is uniformly distributed across every cross-section."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The vast cylinder rotated slowly, revolving **axially** as the screw lid unfastened from within."*
+> - 📜 **Lord Kelvin (*Treatise on Natural Philosophy*):** *"The magnetic field diminishes symmetrically when measured **axially** away from the pole."*

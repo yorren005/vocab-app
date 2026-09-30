@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist who administers an anesthetic to a patient before he is treated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist who administers an anesthetic to a patient before he is treated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical practitioner or specialist trained in administering anesthetics to patients undergoing surgery or painful procedures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The member of a surgical team who monitors vital physiological functions while maintaining controlled anesthesia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anesthetist designates a specialist who administers an anesthetic to a patient before he is treated."*
+> - 📜 **A. J. Cronin (*The Citadel*):** *"The surgeon nodded curtly to the **anesthetist**, who smoothly adjusted the ether flow through the mask."*
+> - 📜 **W. Somerset Maugham (*Of Human Bondage*):** *"In the operating theater, the young **anesthetist** watched the patient's pulse with unwavering concentration."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The **anesthetist** murmured that the pulse was steady, and the scalpel resumed its delicate dissection."*

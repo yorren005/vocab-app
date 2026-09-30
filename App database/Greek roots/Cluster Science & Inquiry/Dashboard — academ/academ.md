@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek academ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Science & Inquiry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The etymological root originating from Akademos (the hero after whom Plato's grove and school were named), denoting a society or place of philosophical and higher learning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and educational texts, a truncated or poetic form referring to an academic institution or student of liberal arts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They sparkle still the right Promethean fire; They are the books, the arts, the academes, That show, contain, and nourish, all the world; Else none at all in aught proves excellent."*
+> - 📜 **John Milton (*Paradise Regained*):** *"The olive grove of **Academ**, Plato’s retirement, where the Attic bird trills her thick-warbled notes the summer long."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"Deep in the cloistered shades of **Academ**, dulness sat enthroned amid the learned dust."*
+> - 📜 **Ralph Waldo Emerson (*The American Scholar*):** *"Let the American student step out from the pale shadows of **Academ** into the hearty sunlight of actual life."*

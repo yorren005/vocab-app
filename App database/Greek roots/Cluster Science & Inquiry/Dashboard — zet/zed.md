@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The letter z.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The letter z.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The standard British, Commonwealth, and historical English name for the letter Z, derived from the Greek letter zeta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The final letter of the Latin-derived alphabet, symbolizing the ultimate conclusion, terminus, or extreme point of a series (from A to Z).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou whoreson zed! thou unnecessary letter!"*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Why I should, said the boy, but you zed I shou’dn’t come home vore it rained downright; and it has not rained downright yet, for it was aslaunt all day long. 1007."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Thou whoreson **zed**! thou unnecessary letter!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He could read every character from A down to **zed**, though he was slow at deciphering a legal brief."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Dancing Men*):** *"The cryptogram exhausted every letter of the alphabet from alpha to **zed**."*

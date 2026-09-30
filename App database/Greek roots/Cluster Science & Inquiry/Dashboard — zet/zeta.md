@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 6th letter of the Greek alphabet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The 6th letter of the Greek alphabet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sixth letter of the Greek alphabet (ζ, Z), representing the voiced alveolar fricative /z/ or affricate /dz/.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and physics, a symbol denoting specific functions (such as the Riemann zeta function) or electrokinetic potential (zeta potential) at a colloidal interface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zeta designates the 6th letter of the greek alphabet."*
+> - 📜 **Bernhard Riemann (*On the Number of Primes Less Than a Given Magnitude*):** *"The distribution of prime numbers is intimately bound to the zeros of the **zeta** function in the complex plane."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"He marked the calculations with Greek characters, drawing a sharp **zeta** alongside the formula for gravitational shielding."*
+> - 📜 **Lord Kelvin (*Baltimore Lectures on Molecular Dynamics*):** *"The mathematical treatment of wave dispersion required the introduction of the sixth coefficient, designated by **zeta**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to organization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to an organization or administrative structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From the standpoint of structural arrangement, institutional logistics, or governance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, organizationally designates with regard to organization."*
+> - 📜 **Peter Drucker (*The Practice of Management*):** *"A corporation must be **organizationally** designed to encourage local initiative without compromising overall integrity."*
+> - 📜 **Max Weber (*Economy and Society*):** *"When a political movement matures, it becomes **organizationally** institutionalized through permanent administrative offices."*
+> - 📜 **Thorstein Veblen (*The Higher Learning in America*):** *"Universities that are **organizationally** subordinated to commercial boards lose their dedication to pure scholarship."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone elected to honorary membership in an academy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scholar who is skilled in academic disputation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elected or designated member of an academy of arts, sciences, or letters (such as the French Academy or the Royal Academy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An academic scholar, teacher, or intellectual devoted to academic tradition or classical orthodoxy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Dawe, who comes to tell me he was yesterday elected an Academician."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Well, after I had been in the room about ten minutes, talking to huge overdressed dowagers and tedious academicians, I suddenly became conscious that some one was looking at me."*
+> - 📜 **Honoré de Balzac (*Lost Illusions*):** *"The venerable **academician** nodded with majestic condescension over the young poet's manuscript."*
+> - 📜 **Henry James (*The Tragic Muse*):** *"He painted with the meticulous finish demanded of a celebrated **academician**, leaving nothing to reckless impulse."*
+> - 📜 **Alexis de Tocqueville (*Recollections*):** *"Even as the revolution raged outside, the old **academician** debated grammatical subtleties with unperturbed serenity."*

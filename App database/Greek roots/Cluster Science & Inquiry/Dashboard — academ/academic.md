@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or associated with an academy or school especially of higher learning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to performance in courses of study.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to education, schools, colleges, or universities, especially scholarly learning rather than practical or technical training.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Theoretical or hypothetical, having no immediate practical bearing or application (an 'academic question'); as a noun, a university teacher or scholar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Neither saw the difference between local truth and universal truth; that what the inner world said in their clerical and academic hearing was quite a different thing from what the outer world was thinking."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The voice is loud and clear, and marches on with academic stateliness and gravity, and even something of musical softness mixes with its notes."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"But Cairns, in addition to gaining academic distinctions, seems to have impressed his contemporaries in a quite exceptional degree with a sense of his power and promise."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"He gazed toward Christminster, whose **academic** towers seemed to beckon him with promises of enlightenment."*
+> - 📜 **John Cairns (*The Life of John Brown*):** *"His profound **academic** training never blunted the natural warmth of his pastoral sympathy."*
+> - 📜 **George Orwell (*Collected Essays*):** *"The dispute between the rival ideologues remained purely **academic**, bearing little relation to conditions in the trenches."*

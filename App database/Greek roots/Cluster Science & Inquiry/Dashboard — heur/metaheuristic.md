@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of find.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of find.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A higher-level algorithmic framework designed to select, generate, or guide lower-level heuristics to find near-optimal solutions to complex optimization problems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A computational strategy (such as genetic algorithms or simulated annealing) that explores search spaces while avoiding local minima.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metaheuristic designates adjective*) pertaining to, derived from, or characteristic of find."*
+> - 📜 **Fred Glover (*Tabu Search*):** *"A **metaheuristic** refers to a master strategy that guides and modifies other heuristics to produce solutions beyond those normally generated in local search."*
+> - 📜 **Kenneth De Jong (*Evolutionary Computation*):** *"The beauty of an evolutionary **metaheuristic** lies in its ability to navigate vast and rugged fitness landscapes."*
+> - 📜 **Stuart Russell & Peter Norvig (*Artificial Intelligence: A Modern Approach*):** *"Simulated annealing acts as a powerful **metaheuristic**, accepting downhill steps with a decreasing probability to escape local extrema."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the study of values.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the study of values.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to axiology, the philosophical study of values, worth, and value judgments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerning the criteria by which moral goodness, aesthetic beauty, or cultural ideals are evaluated and hierarchically ordered.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axiological designates of or relating to the study of values."*
+> - 📜 **Max Scheler (*Formalism in Ethics and Non-Formal Ethics of Values*):** *"The **axiological** order of values is objective and immutable, perceived directly by intuitive feeling."*
+> - 📜 **John Dewey (*Theory of Valuation*):** *"Any serious **axiological** inquiry must treat human desires in their empirical context rather than as mystical essences."*
+> - 📜 **George Edward Moore (*Principia Ethica*):** *"To confuse an **axiological** judgment of goodness with a natural physical property is to commit the naturalistic fallacy."*

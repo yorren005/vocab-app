@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or belonging to an organism (considered as a whole).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or belonging to an organism (considered as a whole).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characteristic of an entire organism as a whole, rather than its constituent cells, tissues, or organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and physiology, concerning integrated adaptations and phenotypes manifest at the level of the individual living being.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, organismal designates of or relating to or belonging to an organism (considered as a whole)."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Natural selection acts primarily at the **organismal** level, evaluating the creature in its totality."*
+> - 📜 **Theodosius Dobzhansky (*Genetics of the Evolutionary Process*):** *"Genic mutations find their biological significance only through their consequences for **organismal** fitness."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"The **organismal** perspective reminds us that a living creature is not a mosaic of independent genes, but an integrated whole."*

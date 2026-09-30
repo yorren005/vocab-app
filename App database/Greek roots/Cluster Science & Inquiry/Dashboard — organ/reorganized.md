@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Organize anew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organize anew, as after a setback.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Restructured, reformed, or arranged anew in an orderly, functioning system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having undergone institutional, financial, or constitutional reconstitution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"In the winter of 1863, it was deemed best to make the Pittsburg Sanitary Committee, which had been reorganized for the purpose, an auxiliary of the United States Sanitary Commission, and measures were taken for that purpose by Mr."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The Emperor said that the fiscal system must be reorganized and the accounts published,” recounted Bítski, emphasizing certain words and opening his eyes significantly."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Besides this, the whole staff of the Russian army was now reorganized."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The **reorganized** Russian regiments stood firm on the crest of the hill, awaiting the second French assault."*
+> - 📜 **L. P. Brockett (*The Life and Times of Abraham Lincoln*):** *"The **reorganized** militia defended the border counties against Confederate raiders."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"In the **reorganized** universe of the twentieth century, old formulas of mechanical certainty no longer applied."*

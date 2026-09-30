@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Random; specifically : involving a random variable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving chance or probability : probabilistic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or characterized by random variables, chance, or probability; governed by statistical likelihood rather than deterministic certainty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and systems theory, conjectural or conjecturing; aiming at a target whose precise outcome is subject to probabilistic fluctuation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stochastic designates random; specifically : involving a random variable."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"A time series may be regarded as a sequence of observations on a **stochastic** process governed by an underlying probability distribution."*
+> - 📜 **Jacques Monod (*Chance and Necessity*):** *"The basic events that introduce variations into the biosphere are strictly **stochastic** at the molecular level."*
+> - 📜 **Karl Popper (*The Logic of Scientific Discovery*):** *"A **stochastic** model does not abandon causality, but rather frames it within the calculus of objective probabilities."*

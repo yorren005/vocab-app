@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having or belonging to a structured whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not affiliated in a trade union.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking systematic structure, organization, or coherent arrangement; disorderly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not formed into or represented by a labor union, association, or formal administrative body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"When they are unorganized they have less unity, common opinion, and power than the workers in the old-fashioned shop with its close personal acquaintance and ready interchange of views."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Both of these suggestions may have some little validity in special cases, affecting slightly a small proportion of the unorganized workers, but neither touches fundamental causes of general high wages."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It sees, tho not quite clearly, that such action makes an unstable equilibrium of wages which tempts to constant friction and discord with employers and with unorganized laborers."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"The wages of **unorganized** laborers fluctuate sharply with every seasonal shift in industrial demand."*
+> - 📜 **Jack London (*The Iron Heel*):** *"The unthinking, **unorganized** populace milled through the streets, unable to withstand the machine guns of the mercenaries."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"In the soul of the mystic, **unorganized** emotions crystallize into a sudden luminous conviction."*

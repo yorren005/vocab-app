@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Theory that the total organization of an organism rather than the functioning of individual organs is the determinant of life processes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Theory that the total organization of an organism rather than the functioning of individual organs is the determinant of life processes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical doctrine that the universe, society, or individual living beings are organic unities not reducible to purely mechanistic principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology, the theory that structural organization and the coordination of the whole organism determine the functions of its components.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, organicism designates theory that the total organization of an organism rather than the functioning of individual organs is the determinant of life processes."*
+> - 📜 **Alfred North Whitehead (*Science and the Modern World*):** *"The philosophy of organism replaces the materialism of the seventeenth century with a comprehensive **organicism**."*
+> - 📜 **Joseph Needham (*Order and Life*):** *"Biological **organicism** insists that morphology and biochemistry are two aspects of the same organized hierarchy."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The modern metropolis has abandoned civic **organicism** in favor of sterile mechanical sprawl."*

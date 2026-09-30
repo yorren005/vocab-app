@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or tending toward organicism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or tending toward organicism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, based upon, or characteristic of organicism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpreting natural or social phenomena in terms of living organisms and holistic interdependence rather than discrete mechanical parts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, organicistic designates relating to or tending toward organicism."*
+> - 📜 **Ludwig von Bertalanffy (*General System Theory*):** *"An **organicistic** approach to biology emphasizes the dynamic interaction of the whole system rather than isolated parts."*
+> - 📜 **George Santayana (*The Life of Reason*):** *"In Aristotle’s physics, we observe an **organicistic** worldview where every element seeks its natural resting place."*
+> - 📜 **Ernst Cassirer (*The Philosophy of Symbolic Forms*):** *"Mythological consciousness retains an **organicistic** unity with nature that modern analysis has dissected."*

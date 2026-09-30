@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As an important constituent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving carbon compounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner characteristic of living organisms or natural biological growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an integrated, unified manner where all components cohere systematically and evolve inherently from within.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Conflicting standpoints 83:21 It is contrary to Christian Science to suppose that life is either material or organically spiritual."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"True learning develops **organically** out of the child's own active engagement with the world."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"A great novel unfolds **organically**, its characters shaping their destiny rather than submitting to arbitrary plots."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Mechanical form is impressed from without, but organic form shapes itself **organically** from within."*

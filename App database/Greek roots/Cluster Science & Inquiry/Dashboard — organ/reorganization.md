@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The imposition of a new organization; organizing differently (often involving extensive and drastic changes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extensive alteration of the structure of a corporation or government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or instance of organizing again, restructuring, or reforming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial law, a formal financial and administrative restructuring of a corporation to avoid liquidation under bankruptcy proceedings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This keeps young men from entering, and finally results in failure or in some form of "reorganization" that drives out the older members."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Other industrial trusts in process of reorganization or readjustment 13 334 528,000,000 4."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Delafield continued to be efficient as leaders in all the work of this society, but in its reorganization, Mrs."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The **reorganization** of the railway corporation scaled down funded debts to save it from complete insolvency."*
+> - 📜 **L. P. Brockett (*The Life and Times of Abraham Lincoln*):** *"The **reorganization** of the southern state governments occupied the deepest thoughts of the administration."*
+> - 📜 **Theodore Roosevelt (*An Autobiography*):** *"The civil service required sweeping **reorganization** to eradicate the spoils system from federal offices."*

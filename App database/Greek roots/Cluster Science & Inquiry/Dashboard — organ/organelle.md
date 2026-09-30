@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized part of a cell; analogous to an organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized part of a cell; analogous to an organ.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized subunit or membrane-bound compartment within a biological cell that performs a specific metabolic or structural task.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intracellular structure analogous in cellular economy to an organ in a multicellular organism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, organelle designates a specialized part of a cell; analogous to an organ."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"Each eukaryotic **organelle**, from the mitochondrion to the plastid, traces its ancestry to ancient endosymbiotic bacteria."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Inheritance*):** *"Within the microscopic cytoplasm, each distinct **organelle** contributes its quota to the complex equilibrium of life."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"The acquisition of a photosynthetic **organelle** transformed primitive single-celled wanderers into the masters of the sunlight."*

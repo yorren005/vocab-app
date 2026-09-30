@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or serving as an aid to learning, discovery, or problem-solving by experimental and especially trial-and-error methods; also : of or relating to exploratory problem-solving techniques that utilize self-educating techniques (such as the evaluation of feedback) to improve performance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heuristic method or procedure : a process or procedure that involves learning, discovery, or problem-solving by experimental and especially trial-and-error methods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to indicate, discover, or stimulate investigation; problem-solving through practical rules of thumb, trial and error, or intuitive estimation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computing and cognitive psychology, an efficient mental shortcut or search algorithm that finds an acceptable solution when optimal calculation is impractical.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heuristic designates involving or serving as an aid to learning, discovery, or problem-solving by experimental and especially trial-and-error methods; also : of or relating to exploratory problem-solving techniques that utilize self-educating techniques (such as the evaluation of feedback) to improve performance."*
+> - 📜 **Albert Einstein (*On a Heuristic Point of View Concerning the Production and Transformation of Light*):** *"It seems to me that the observations associated with blackbody radiation are more readily understood if one adopts a **heuristic** viewpoint."*
+> - 📜 **George Pólya (*How to Solve It*):** *"The aim of **heuristic** is to study the methods and rules of discovery and invention."*
+> - 📜 **Herbert A. Simon (*The Sciences of the Artificial*):** *"Human decision-makers rely on **heuristic** search to find satisfactory rather than optimal paths through complex problem spaces."*

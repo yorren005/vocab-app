@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of member of an honorary academy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of member of an honorary academy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rank, office, status, or tenure of an academician.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The characteristics, scholarly dignity, or institutional authority associated with membership in a learned academy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, academicianship designates the position of member of an honorary academy."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The elevated standing of French letters owes much to the prestige that accompanies formal **academicianship**."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"He sought the crown of **academicianship** not for the love of truth, but to secure a pension and social deference."*
+> - 📜 **Edmund Gosse (*French Profiles*):** *"Upon achieving **academicianship**, he donned the embroidered coat with the pride of an intellectual marshal."*

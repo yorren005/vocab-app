@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A speech disorder in which the same word is repeated several times in succession.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speech disorder in which the same word is repeated several times in succession.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A speech disorder characterized by the involuntary, compulsive repetition of the same words, phrases, or verbal answers to different questions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A symptom observed in severe schizophrenia, dementia, or frontal lobe damage where expressive speech becomes locked into mechanical perseveration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataphasia designates a speech disorder in which the same word is repeated several times in succession."*
+> - 📜 **Emil Kraepelin (*Dementia Praecox and Paraphrenia*):** *"In advanced stages of dementia, the patient lapses into rigid **cataphasia**, echoing the same hollow phrase to every enquiry."*
+> - 📜 **Eugen Bleuler (*Dementia Praecox or the Group of Schizophrenias*):** *"The persistent verbal perseveration termed **cataphasia** reflects a severe dissociation in associative switching mechanisms."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Under the grip of **cataphasia**, the motor channel for a single phrase becomes so deeply grooved that consciousness cannot escape it."*

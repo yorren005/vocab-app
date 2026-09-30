@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek heur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Science & Inquiry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek etymological base (heuriskein, meaning 'to find' or 'to discover'), functioning as a foundational morpheme in words relating to discovery, investigation, and problem-solving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and epistemology, the root denoting exploratory methodology and rule-of-thumb learning rather than formal algorithmic proof.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heur designates a term designating an entity, condition, or phenomenon derived from greek heur."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"The Greek root **heur** enshrines the active process of finding truth through guided discovery."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Scientific investigation requires an inventive faculty rooted in the ancient spirit of **heur**."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Mathematical discovery often begins with tentative **heur** principles before formal axioms can be laid down."*

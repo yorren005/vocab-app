@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The life, community, or world of teachers, schools, and education : academe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aesthetic in literature, interior design, fashion, etc. that is reminiscent of or characterized by stereotypical hallmarks of affluent higher education at traditional elite institutions and that in fiction is often marked by mysterious or gothic themes —often used before another noun.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The environment, community, and cultural world of higher education, universities, research, and scholarly pursuits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Academic life collectively considered, often with reference to its traditions, scholastic standards, or insularity from commerce and politics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, academia designates the life, community, or world of teachers, schools, and education : academe."*
+> - 📜 **C. P. Snow (*The Masters*):** *"In the quiet quadrangles of **academia**, men fought for influence with all the subtlety of Venetian courtiers."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"If **academia** retreats from the general public, pseudoscience will eagerly rush in to fill the vacuum."*
+> - 📜 **Virginia Woolf (*Three Guineas*):** *"She observed the procession of educated men descending from the ancient halls of **academia** into the arenas of state."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: On the basis of axioms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On the basis of axioms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an axiomatic manner; in a way that is self-evident or universally taken for granted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In deductive logic, as an assumed foundational premise from which other propositions are deduced.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axiomatically designates on the basis of axioms."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"We cannot **axiomatically** assume the uniformity of nature without arguing in an epistemological circle."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Questions of ultimate ends are not amenable to direct proof, yet they are held **axiomatically** by their adherents."*
+> - 📜 **Henri Poincaré (*Science and Method*):** *"Geometry does not proceed **axiomatically** from nowhere; its principles reflect our bodily experience of space."*

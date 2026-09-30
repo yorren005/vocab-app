@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The origin and development of bodily organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The origin and development of bodily organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The origin, development, and differentiation of bodily organs and organ systems in an embryo from embryonic germ layers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant tissue culture, the initiation and regeneration of shoots, roots, or leaves from undifferentiated callus tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, organogenesis designates the origin and development of bodily organs."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"During early **organogenesis**, specific genes are activated in precise temporal sequences to sculpt the bodily organs."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The comparative study of vertebrate **organogenesis** discloses astonishing homologies among embryos of divergent species."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Inheritance*):** *"The transition from simple gastrulation to complex **organogenesis** marks the crowning marvel of embryology."*

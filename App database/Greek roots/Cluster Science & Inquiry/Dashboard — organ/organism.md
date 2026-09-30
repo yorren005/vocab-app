@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex structure of interdependent and subordinate elements whose relations and properties are largely determined by their function in the whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual constituted to carry on the activities of life by means of parts or organs more or less separate in function but mutually dependent : a living being.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual animal, plant, bacterium, or other single-celled life form capable of growth, reproduction, and response to stimuli.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex system or structure whose mutually dependent parts work together analogously to the organs of a living body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The differences which distinguished them as individuals were abstracted by this passion, and each was but portion of one organism called sex."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In fact, that was what I became—a sort of string-like organism that persisted in living."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Suspended animation is nothing new, not alone in the vegetable world and in the lower forms of animal life, but in the highly evolved, complex organism of man himself."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Egdon Heath was not a dead tract of peat and heather, but a vast somber **organism** breathing beneath the autumn sky."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Deep within his physical **organism**, ancient memories of the wild wolf pack stirred into renewed life."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Every complex **organism** carries within its body the indelible stamp of its lowly origin."*

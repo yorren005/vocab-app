@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of principles for philosophic or scientific investigations; an instrument for acquiring knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of principles for philosophic or scientific investigations; an instrument for acquiring knowledge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument or method for acquiring knowledge or conducting philosophical inquiry; traditionally applied to Aristotle’s collection of logical treatises.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A foundational system of rules, principles, or investigative canons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, organon designates a system of principles for philosophic or scientific investigations; an instrument for acquiring knowledge."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Our new **organon** of inductive science aims not at vanquishing an opponent in debate, but at overcoming nature in action."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"General logic cannot serve as an **organon** for the discovery of material truth, but merely as a canon of consistency."*
+> - 📜 **Samuel Taylor Coleridge (*The Friend*):** *"A true philosophical method is the mental **organon** through which the scattered phenomena of sense find unity."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of organ formation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of organ formation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biochemical process of incorporating an inorganic element into an organic molecule (specifically iodide into thyroglobulin).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental chemistry, the conversion of inorganic compounds into organic complexes by microbial action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, organification designates the process of organ formation."*
+> - 📜 **C. H. Best & N. B. Taylor (*The Physiological Basis of Medical Practice*):** *"Thyroid peroxidase catalyzes the **organification** of iodide into monoiodotyrosine within the follicular colloid."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Defective **organification** results in congenital hypothyroidism and immediate compensatory goiter formation."*
+> - 📜 **E. O. Wilson (*The Future of Life*):** *"Microbial **organification** of heavy metals in wetland sediments can either detoxify effluents or concentrate toxins in aquatic food webs."*

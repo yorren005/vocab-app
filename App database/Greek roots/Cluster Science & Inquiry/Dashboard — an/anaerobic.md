@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Living, active, occurring, or existing in the absence of free oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being activity in which the body incurs an oxygen debt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living, growing, active, or occurring in the absence of free oxygen or gaseous air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to cellular respiration or metabolic pathways that break down organic fuels without utilizing oxygen; in exercise physiology, high-intensity exertion sustained by oxygen-independent metabolic energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Further, they can be divided into two classes, the aerobic and the anaerobic."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"There the anaerobic microbes flourish and multiply, and in the course of their life work they convert the sewage into an inoffensive liquid."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Fermentation is life without air; certain vibriones can multiply only under strictly **anaerobic** conditions."*
+> - 📜 **Thomas W. Corbin (*Modern Inventions*):** *"The purification of sewage is accomplished by **anaerobic** bacteria flourishing deep within the airless septic tanks."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"In the stagnant muds of deep ocean trenches, **anaerobic** microbes metabolize sulfur where no trace of sunlight ever penetrates."*

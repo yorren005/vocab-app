@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any state that is not typical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any state that is not typical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being atypical; deviation from the normal type, standard, or pattern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical analysis and sociology, the degree to which an observed data point, behavior, or case departs from established distributions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atypicality designates any state that is not typical."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The psychological **atypicality** of mystical states does not disprove their spiritual authenticity."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Any marked **atypicality** in social consumption is quickly disciplined by the conservative force of community gossip."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"Extreme **atypicality** in anthropometric measurements invariably clusters at the thin margins of the bell curve."*

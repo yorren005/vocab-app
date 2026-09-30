@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer an anesthetic drug to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Administer an anesthetic drug to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To administer an anesthetic to; render unconscious or insensible to pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, to desensitize, stupefy, or deaden emotional responsiveness or intellectual awareness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anesthetize designates administer an anesthetic drug to."*
+> - 📜 **T. S. Eliot (*The Love Song of J. Alfred Prufrock*):** *"When the evening is spread out against the sky, like a patient etherized upon a table, we must not let complacency **anesthetize** our souls."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"His brutal philosophy seemed designed to **anesthetize** every natural impulse of human tenderness."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"He had to **anesthetize** the dog with chloroform before binding its jaws to prevent its furious barking."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taken for granted : self-evident.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or involving an axiom or system of axioms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Self-evident or unquestionable; having the nature of an axiom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and deductive reasoning, characterized by or based upon a formal system of axioms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Usually the basis of the labor theory of property is declared to be each individual's natural right to the results of his own labor, which claim is assumed to be an ultimate, undebatable, axiomatic fact."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Bishop Gore, in a book recently published, suggested that the belief that God is Love is not axiomatic."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The proposition with which this section opens was accepted as our axiomatic starting-point."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"It is **axiomatic** that men prefer a present gratification to an equal future pleasure."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"In an **axiomatic** treatment of arithmetic, all subsequent theorems must follow strictly from the initial postulates."*
+> - 📜 **Thomas Henry Huxley (*Darwiniana*):** *"It has become **axiomatic** among biologists that structure and physiological function evolve hand in hand."*

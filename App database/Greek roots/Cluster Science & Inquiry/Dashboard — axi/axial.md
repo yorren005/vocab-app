@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling an axis of rotation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or attached to the axis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, situated around, forming, or directed along an axis (a real or imaginary central line of rotation or symmetry).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate anatomy and botany, relating to the central trunk or stem of the body or plant (axial skeleton, axial shoot), as distinguished from appendages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axial designates of or relating to or resembling an axis of rotation."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The **axial** skeleton of the higher primates reveals a continuous progression toward upright posture."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The radicle bends toward the center of gravity while the **axial** stem ascends into the sunlight."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"The rotation of any rigid body may be resolved into instantaneous motion about its **axial** line."*

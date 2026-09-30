@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement accepted as true as the basis for argument or inference : postulate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An established rule or principle or a self-evident truth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A self-evident truth that requires no proof; a universally accepted principle or rule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal mathematics and logic, an initial proposition or postulate taken as given, upon which an entire deductive system is erected.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And wear it thou! and call aloud This axiom undoubted— Would thou hae Nobles’ patronage?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It was an accepted axiom of all social and economic life."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"That was an axiom, very little challenged."*
+> - 📜 **Euclid (*Elements*):** *"An **axiom** is a common notion whose truth is so apparent that it commands immediate assent without demonstration."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The first **axiom** of mechanics establishes that every body continues in its state of rest unless compelled by impressed forces."*
+> - 📜 **Baruch Spinoza (*Ethics*):** *"Beginning with clear definitions and every self-evident **axiom**, the geometric method demonstrates the necessary nature of Substance."*

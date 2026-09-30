@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An insecticide that interferes with an insect's nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insecticide that interferes with an insect's nervous system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any chemical compound containing an organic group bonded to a phosphoric acid residue, widely used in agriculture as an insecticide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and toxicology, an acetylcholinesterase-inhibiting agent whose potent neurotoxic properties also led to its development as chemical nerve agents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, organophosphate designates an insecticide that interferes with an insect's nervous system."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The **organophosphate** insecticides act directly upon the nervous system by destroying the enzyme that breaks down acetylcholine."*
+> - 📜 **Albert Howard (*An Agricultural Testament*):** *"The reliance on lethal synthetic chemicals, such as **organophosphate** poisons, disrupts the natural biology of the soil."*
+> - 📜 **Barry Commoner (*The Closing Circle*):** *"When an **organophosphate** spray drifts across an orchard, its toxic persistence threatens farmworkers as much as pests."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A place of instruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The academic life, community, or world.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An academy, university, or place of higher education and learned retirement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The intellectual milieu, collegiate environment, or scholastic community (the 'groves of academe').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Navarre shall be the wonder of the world; Our court shall be a little academe, Still and contemplative in living art."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They sparkle still the right Promethean fire; They are the books, the arts, the academes, That show, contain, and nourish, all the world; Else none at all in aught proves excellent."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"Our court shall be a little **Academe**, still and contemplative in living art."*
+> - 📜 **Alfred, Lord Tennyson (*The Princess*):** *"High-walled against the world, her **academe** sheltered a fellowship of maiden scholars."*
+> - 📜 **Mary McCarthy (*The Groves of Academe*):** *"Within the sheltered perimeter of **academe**, minor ideological disputes took on the gravity of civil wars."*

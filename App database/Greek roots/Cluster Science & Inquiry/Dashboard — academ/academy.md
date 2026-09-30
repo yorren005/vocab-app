@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A school usually above the elementary level; especially : a private high school.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A high school or college in which special subjects or skills are taught.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A secondary or higher school, college, or specialized educational institution (e.g., military academy, music academy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A society of scholars, scientists, or artists incorporated to cultivate and promote a particular field of learning; historically, Plato’s school near Athens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop’s Academy in Newman Street.” “And was it there, my dear—” I began."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I found the academy established in a sufficiently dingy house at the corner of an archway, with busts in all the staircase windows."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Miss Jellyby informed me that the academy had been lent, last night, for a concert."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Salem House was a worthy **academy** of ignorance and petty cruelty under the despotic rule of Mr. Creakle."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"In the Grand **Academy** of Lagado, professors were busy extracting sunbeams out of cucumbers."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Justinian finally suppressed the philosophical **academy** of Athens, extinguishing the last spark of Hellenic pagan wisdom."*

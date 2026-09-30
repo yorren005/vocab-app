@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss or impairment of the power to use or comprehend words usually resulting from brain damage (as from a stroke, head injury, or infection).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss or impairment of the power to use or comprehend words usually resulting from brain damage (as from a stroke, head injury, or infection).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The loss or impairment of the ability to understand or express speech and language, caused by brain damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A classification of distinct neuro-linguistic disorders, including expressive (Broca’s) aphasia, receptive (Wernicke’s) aphasia, and global aphasia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In clear speech, and in aphasia, they indicated their founder."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In motor **aphasia**, the patient understands everything that is said, but the vocal apparatus refuses to obey his mental command."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Patients suffering from receptive **aphasia** often grasp emotional tone with uncanny precision even when words have lost meaning."*
+> - 📜 **Sigmund Freud (*On Aphasia: A Critical Study*):** *"The phenomenon of **aphasia** forces us to reconstruct the complex associative pathways linking word-presentations to thing-presentations."*

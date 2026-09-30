@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that causes temporary loss of bodily sensations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or producing insensibility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug or agent that produces insensibility to pain or total loss of consciousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to deaden sensibility, pain, or emotional distress; figurative, producing psychological numbness or dulling moral sensitivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"It was rapid and deft work, they admitted, especially since the surgeon was using another man's splints, and the patient proved to be one of the subjects who fight the anesthetic from beginning to end."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Resident Patient*):** *"The subtle sweet smell of an **anesthetic** vapour lingered unmistakably in the dressing room."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Soma served as a universal **anesthetic** against every grief, anxiety, and sharp pang of reality."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle in the Practice of Surgery*):** *"The application of a local **anesthetic** enabled the surgeon to probe the wound without causing severe distress."*

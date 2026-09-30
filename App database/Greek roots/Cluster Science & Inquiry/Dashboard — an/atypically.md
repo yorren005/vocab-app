@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that is not typical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner that is not typical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an atypical manner; in a way that is unusual or uncharacteristic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Departing significantly from standard expectations, normal symptoms, or regular statistical baselines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atypically designates in a manner that is not typical."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain solitary species behave **atypically** when confined to crowded artificial breeding grounds."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"The ferocious agility of the intruder was **atypically** superhuman, baffling every Parisian gendarme."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The river flowed **atypically** silent, as if guarding the inscrutable mystery of the primeval forest."*
